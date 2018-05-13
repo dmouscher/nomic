@@ -56,9 +56,6 @@ Players shall alternate in alphabetical order by surname, taking one whole turn 
 ## 202
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) subtracting 291 from the ordinal number of their proposal, multiplying the result by the fraction of favorable votes it receives, and adding the product (rounded to the nearest integer) to one's score.
 
-## 203
-A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
-
 ## 204
 If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
 
@@ -99,3 +96,6 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner.
+
+## 302
+A rule-change is adopted if and only if a simple majority of eligible voters vote for it.
