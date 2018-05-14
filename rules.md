@@ -53,9 +53,6 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 ## 201
 Players shall alternate in alphabetical order by surname, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
-## 202
-One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) subtracting 291 from the ordinal number of their proposal, multiplying the result by the fraction of favorable votes it receives, and adding the product (rounded to the nearest integer) to one's score.
-
 ## 204
 If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.
 
@@ -104,3 +101,6 @@ A rule-change is adopted if and only if a simple majority of eligible voters vot
 Proposals may not be changed once they are initially proposed in the #voting channel. The wording of a proposal may not change from the time of its creation until the time that it is either accepted or rejected. Proposals marked with (edited) are considered moot until re-proposed. If a change is to be made to a proposal the proposer must resubmit the proposal to #voting. There will be a limit of 3 reproposals after which point the rule will be considered not accepted and the turn will move to the next player.
 
 Only the most recent proposal to be voted on in a turn may be scored taking precedence over both Rule 206 and Rule 202.
+
+## 304
+One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) setting all players' scores to 0.
