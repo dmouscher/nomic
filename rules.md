@@ -99,3 +99,8 @@ This rule takes precedence over every other rule determining the winner.
 
 ## 302
 A rule-change is adopted if and only if a simple majority of eligible voters vote for it.
+
+## 303
+Proposals may not be changed once they are initially proposed in the #voting channel. The wording of a proposal may not change from the time of its creation until the time that it is either accepted or rejected. Proposals marked with (edited) are considered moot until re-proposed. If a change is to be made to a proposal the proposer must resubmit the proposal to #voting. There will be a limit of 3 reproposals after which point the rule will be considered not accepted and the turn will move to the next player.
+
+Only the most recent proposal to be voted on in a turn may be scored taking precedence over both Rule 206 and Rule 202.
