@@ -104,3 +104,17 @@ Only the most recent proposal to be voted on in a turn may be scored taking prec
 
 ## 304
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) setting all players' scores to 0.
+
+## 306
+
+If a player fails to cast a vote within thirty-six (36) hours of the start of a vote or make a proposal within thirty-six (36) hours of the start of their turn, that player becomes Inactive.
+
+Inactive persons are suspended from the game during the duration of their inactivity and the game acts as though there is one fewer player. An Inactive person is not a player and consequently cannot vote, take turns, or take any other action reserved for players. This person will gain the 'Inactive' role.
+
+An Inactive person can end their inactivity and resume their status as a player by:
+* Attempting to cast a vote: This action immediately removes their Inactive status, and their vote is treated as though it was cast while the voter was a Player.
+* Attempting to make a proposal: This action immediately removes their Inactive status, and their proposal will be treated as though it was cast while that person was a Player. This action can only be taken if it would be their turn to make a proposal (no voting is happening and no proposal has been proposed already).
+* Announcing they are no long inactive: This action immediately removes their 'Inactive' status. This action can only be taken if the other two are not able to be taken.
+
+A player may choose to manually become Inactive at any time by publicly announcing their intention to do so. 
+If a player becomes Inactive during their turn their turn ends immediately, superseding Rule 201.
