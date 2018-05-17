@@ -100,7 +100,7 @@ A rule-change is adopted if and only if a simple majority of eligible voters vot
 ## 303
 Proposals may not be changed once they are initially proposed in the #voting channel. The wording of a proposal may not change from the time of its creation until the time that it is either accepted or rejected. Proposals marked with (edited) are considered moot until re-proposed. If a change is to be made to a proposal the proposer must resubmit the proposal to #voting. There will be a limit of 3 reproposals after which point the rule will be considered not accepted and the turn will move to the next player.
 
-Only the most recent proposal to be voted on in a turn may be scored taking precedence over both Rule 206 and Rule 202.
+Only the most recent proposal to be voted on in a turn may be scored taking precedence over both Rule 206 and Rule 304.
 
 ## 304
 One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) setting all players' scores to 0.
@@ -131,3 +131,8 @@ The eligible classes are:
 * Miss Nomic
 * Dancesassin
 * Chaos Mage
+
+## 308
+When this rule comes into effect, all rules that reference any rule that has been amended are updated to reflect the current number of the referenced rules. This does not change the numbering of the updated rules.
+
+When a rule receives a new number, all rules that reference said rule are updated to reflect the new numbering. This does not change the numbering of the updated rules.
