@@ -144,3 +144,6 @@ Any player may choose to form a political party only during their turn. To propo
 Players may only change their vote three times  per proposal/reproposal. If a player wishes to change their vote then they must resubmit their vote to the #voting channel. If a vote is marked with (edited)  it is not counted as a vote. Players may not delete their votes under any circumstances. If a player deletes a vote (even one that has been edited and does not count) it will be treated as a non vote.
 
 If a player breaks any part of this rule they will lose their player status for the turn that they deleted their vote as well as the turn of the next vote.
+
+## 313
+Players will receive 5 gold for voting on the final proposal proposed each turn. Players will receive 10 gold if the proposal they propose on their turn passes.
