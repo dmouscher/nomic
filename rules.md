@@ -159,4 +159,6 @@ An Opinion must include all the following sections:
 * A section enumerating the rules that are relevant to the disagreement and subsequent Judgement (e.g. "Relevant Rules: 116, 307")
 In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
 
+In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
+
 This rule still applies to Opinions concerning overruled Judgements; however, these Opinions will be marked as overruled, and cannot be used as described in the previous paragraph.
