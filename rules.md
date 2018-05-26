@@ -147,3 +147,16 @@ If a player breaks any part of this rule they will lose their player status for 
 
 ## 313
 Players will receive 5 gold for voting on the final proposal proposed each turn. Players will receive 10 gold if the proposal they propose on their turn passes.
+
+## 314
+When a Judge makes a Judgement, that Judge must also write and publish an Opinion concerning said Judgement. Each Opinion is assigned two dot-separated numbers as a unique identifier. The first number is the number of the proposal that was, is, or will be voted on on the turn that the Judgement that the Opinion concerns was made. The second number is the number of Judgements that were made between the start of the turn and the time that the Judgement that the Opinion concerns was made, including the Judgement itself.
+
+An Opinion must include all the following sections:
+* A section explaining the rules disagreement that prompted the Judgement (e.g. "Alice claims that she can and has unilaterally set Bob's gold total to zero under Rule 116. Bob claims that gold totals are regulated and that Alice cannot set his gold total.")
+* A section stating the Judge's Judgement, to be worded as if the Judgement was a rule or a paragraph in a rule (e.g. "Players are not permitted to unilaterally and arbitrarily change gold totals.")
+* A section justifying the Judge's Judgement (e.g. "Anything that is mentioned in the ruleset is considered to be regulated for the purposes of applying Rule 116. Any alternative interpretation would mean that anyone would be able to instantly win the game using only the initial ruleset. Gold is mentioned in Rule 307.")
+* A section stating the consequences of the Judge's Judgement as it applies to the initial disagreement (e.g "Therefore, Alice's setting of Bob's gold total to zero is invalidated.")
+* A section enumerating the rules that are relevant to the disagreement and subsequent Judgement (e.g. "Relevant Rules: 116, 307")
+In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
+
+This rule still applies to Opinions concerning overruled Judgements; however, these Opinions will be marked as overruled, and cannot be used as described in the previous paragraph.
