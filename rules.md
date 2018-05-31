@@ -154,7 +154,6 @@ An Opinion must include all the following sections:
 * A section justifying the Judge's Judgement (e.g. "Anything that is mentioned in the ruleset is considered to be regulated for the purposes of applying Rule 116. Any alternative interpretation would mean that anyone would be able to instantly win the game using only the initial ruleset. Gold is mentioned in Rule 307.")
 * A section stating the consequences of the Judge's Judgement as it applies to the initial disagreement (e.g "Therefore, Alice's setting of Bob's gold total to zero is invalidated.")
 * A section enumerating the rules that are relevant to the disagreement and subsequent Judgement (e.g. "Relevant Rules: 116, 307")
-In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
 
 In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
 
