@@ -134,9 +134,6 @@ When this rule comes into effect, all rules that reference any rule that has bee
 
 When a rule receives a new number, all rules that reference said rule are updated to reflect the new numbering. This does not change the numbering of the updated rules.
 
-## 309
-Any player may choose to form a political party only during their turn. To propose a political party the player who's turn it is must have a name. The name of the party can only be changed after the party is fully established and only by a unanimous vote from all party participants. Political parties must be proposed in #game. Political parties cannot have the same name as any other party. When the party is proposed other players may request to join in #game. The members of the party then vote to determine if that player is allowed to join. A player is accepted if there is a majority vote to allow that player into the party. The party is only created once there are 2 other participants that have been accepted. Players can only be in one political party at a time. A political party may exist only if there are 3 or more participants in that party. A political party is dissolved if there are fewer than 3 participants only after a 24 hour period of that party having less than 3 members. If all players in a political party vote unanimously on a rule-change then one extra vote is added to coincide with the other votes from that party. If any player in a party changes their vote after said vote is cast in #vote then the extra vote from all players voting unanimously is void and does not occur (this is determined if any one of the players in a party have “(edited)” on their vote). If a player in a party is inactive then no players in a party can receive gold from voting unanimously. If a player wishes to leave a political party then it will cost them 30 gold. Political parties cannot have more than 3 participants. Parties are only considered Eligible voters if a unanimous vote is reached by the party members.
-
 ## 310
 Players may only change their vote three times  per proposal/reproposal. If a player wishes to change their vote then they must resubmit their vote to the #voting channel. If a vote is marked with (edited)  it is not counted as a vote. Players may not delete their votes under any circumstances. If a player deletes a vote (even one that has been edited and does not count) it will be treated as a non vote.
 
@@ -158,3 +155,22 @@ An Opinion must include all the following sections:
 In accordance with Rule 211, a previous Opinion sets a non-binding precedent for future Judges. Opinions may use older Opinions as part of the section justifying the Judgement, but may also ignore or even contradict them. If any previous Opinions are referenced, a section enumerating all referenced Opinions by their identifiers is required.
 
 This rule still applies to Opinions concerning overruled Judgements; however, these Opinions will be marked as overruled, and cannot be used as described in the previous paragraph.
+
+## 316
+Any player may choose to form a political party only during their turn. To propose a political party the player whose turn it is must have a name. The name of the party can only be changed after the party is fully established and only by a unanimous vote from all party players. Political parties must be proposed in #game. Political parties cannot have the same name as any other party. 
+
+After a party is proposed, other players may request to join it in #game. The players of the proposed party then vote to determine if that player is allowed to join. A player is accepted if there is a majority vote to allow that player into the proposed party. The proposed party is only created once there are 2 other players that have been accepted; however, players may still request to join a fully-formed party. Players can only be in one political party at a time. A political party may exist only if there are 3 or more players in that party, and is automatically dissolved if it has fewer than 3 players after 24 consecutive hours. If a player wishes to leave a political party then it will cost them 30 gold; that gold is added to that party's treasury. Political parties cannot have more than 3 members.
+If all players in a political party vote unanimously on a rule-change, then said political party becomes an eligible voter for that vote only, voting the same as the other votes from that party. If any player in a party changes or deletes their vote after said vote is cast in #voting, then that party cannot be an eligible voter for that vote. If any member of a party is not a player, then that party cannot be an eligible voter.
+
+When this amendment comes into effect, all party treasuries are set to 0 gold. When a party is created, its party treasury is set to 0 gold.
+
+A party's treasury is its gold total and is under that party's exclusive control. Gold in a party's treasury can only be removed when a majority of said party's members agree to the transaction. At the end of every turn all players in a political party pay a 1 gold tax to that party's treasury. If a player cannot pay this tax, they are automatically kicked from their party instead.
+
+At the cost of 100 gold per player, paid to the party that each player is leaving, 2 consenting players may swap from one party to another. (Paying a party X gold is defined as transferring X gold from a player's gold total to that party's treasury.)
+Gold in a party's treasury can only be removed when a majority of said party's members publicly vote for the transaction in the #game channel. Not every party member must vote for a transaction to be approved. Players of a political party may vote for following transactions:
+* Paying a certain amount of gold to a specific player
+* Paying a certain amount of gold to a specific party
+
+No transaction that would put a party's treasury below 0 gold may be voted on.
+
+Players have the option of voting for multiple simultaneous transactions as though they were one transaction, so long as the combined transaction adheres to the previous paragraph.
