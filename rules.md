@@ -174,3 +174,37 @@ Gold in a party's treasury can only be removed when a majority of said party's m
 No transaction that would put a party's treasury below 0 gold may be voted on.
 
 Players have the option of voting for multiple simultaneous transactions as though they were one transaction, so long as the combined transaction adheres to the previous paragraph.
+
+## 318 (VOID)
+
+Each class has a basic ability specific to them:
+
+Cephalopodracer:
+
+If a cephalopodracer is the first to cast a vote aside from the proposer they receive an additional 10 gold, if second 5 and if third 3. If a cephalopodracer is last to cast a vote they will lose 5 gold. (They may not earn gold from this ability on turns in which they propose things and changed votes count as their new place in the voting order)
+
+Chaos Mage:
+
+Has the ability to change their class ability to that of any other class by spending 25 gold. Changed ability lasts for 5 turns and may not be changed during this time.
+
+Cowboy:
+
+This town ain't big enough for the both of us. Cowboys may attempt to duel another player once per turn. If they win the cowboy steals 5 gold from that player. If they lose they drop 2 gold for the challenged player to pick up in their hasty escape.
+
+* A duel master is selected by the person challenged from one of the active players not participating in the duel, both participants must type "Ready", the duel master then posts "GO" in game chat and the first player to send the message "Bang" after the go message wins the duel. Challenged players are obligated to participate. If either player types "Bang" before the "GO" message it is counted as an instant loss for that player.
+
+Dancesassin:
+
+May assassinate a player with their dance moves to prevent them from voting this turn. The assassin will lose 10 gold and be too tired to do this again for 4 turns.
+
+DOG:
+
+Golden retriever. DOGs are such good boys that they earn a consistent 2 extra gold every turn.
+
+Extreme Accountant:
+
+Due to EXTREME knowledge of money accountants are able to deduct 25% of the cost from anything that they spend gold on. This ability does not affect the cost of changing classes.
+
+Miss Nomic:
+
+Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote.
