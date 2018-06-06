@@ -59,9 +59,6 @@ If and when rule-changes can be adopted without unanimity, the players who vote 
 ## 205
 An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-## 206
-When a proposed rule-change is defeated, the player who proposed it loses 10 points.
-
 ## 207
 Each player always has exactly one vote.
 
