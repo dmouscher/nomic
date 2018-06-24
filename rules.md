@@ -205,3 +205,7 @@ Due to EXTREME knowledge of money accountants are able to deduct 25% of the cost
 Miss Nomic:
 
 Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote.
+
+## 324
+
+Players can buy bonds at a cost of 5 gold per bond. Each bond will, once 5 turns have passed (5 voting rounds finished) yield back 6 gold. A bond purchase cannot be refunded, except in the case that a rule disrupts the bond system in a way that would prevent players from  receiving  their expected yield in their expected timeframe. A panel of the last 3 (active) players to have completed a proposal turn can elect to stop the further issuing of bonds, requiring a majority vote among them. Simillarly, such a panel could elect to reinstate the issuing of bonds with a majority vote.
