@@ -83,11 +83,6 @@ Unless a Judge is overruled, one Judge settles all questions arising from the ga
 
 New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
 
-## 212
-If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
-
-This rule takes precedence over every other rule determining the winner.
-
 ## 302
 A rule-change is adopted if and only if a simple majority of eligible voters vote for it.
 
@@ -173,7 +168,6 @@ No transaction that would put a party's treasury below 0 gold may be voted on.
 Players have the option of voting for multiple simultaneous transactions as though they were one transaction, so long as the combined transaction adheres to the previous paragraph.
 
 ## 323
-
 Each class has a basic ability specific to them:
 
 Cephalopodracer:
@@ -207,5 +201,9 @@ Miss Nomic:
 Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote.
 
 ## 324
-
 Players can buy bonds at a cost of 5 gold per bond. Each bond will, once 5 turns have passed (5 voting rounds finished) yield back 6 gold. A bond purchase cannot be refunded, except in the case that a rule disrupts the bond system in a way that would prevent players from  receiving  their expected yield in their expected timeframe. A panel of the last 3 (active) players to have completed a proposal turn can elect to stop the further issuing of bonds, requiring a majority vote among them. Simillarly, such a panel could elect to reinstate the issuing of bonds with a majority vote.
+
+## 325
+If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player/party unable to complete a turn is the winner. Winning entities include both players and parties. A party wins if any one player from a party wins.
+
+This rule takes precedence over every other rule determining the winner.
