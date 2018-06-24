@@ -172,13 +172,13 @@ No transaction that would put a party's treasury below 0 gold may be voted on.
 
 Players have the option of voting for multiple simultaneous transactions as though they were one transaction, so long as the combined transaction adheres to the previous paragraph.
 
-## 318 (VOID)
+## 323
 
 Each class has a basic ability specific to them:
 
 Cephalopodracer:
 
-If a cephalopodracer is the first to cast a vote aside from the proposer they receive an additional 10 gold, if second 5 and if third 3. If a cephalopodracer is last to cast a vote they will lose 5 gold. (They may not earn gold from this ability on turns in which they propose things and changed votes count as their new place in the voting order)
+If a Cephalopodracer is the first player on a turn to cast a vote aside from the proposer they receive an additional 10 gold, if second 5 and if third 3. If a Cephalopodracer is last player on a turn to cast a vote they will lose 5 gold. (They may not earn gold from this ability on turns in which they propose rule-changes and changed votes count as their new place in the voting order)
 
 Chaos Mage:
 
@@ -192,7 +192,7 @@ This town ain't big enough for the both of us. Cowboys may attempt to duel anoth
 
 Dancesassin:
 
-May assassinate a player with their dance moves to prevent them from voting this turn. The assassin will lose 10 gold and be too tired to do this again for 4 turns.
+May assassinate a player with their dance moves to remove player status from them for the duration of a vote for a rule-change. The assassin will lose 10 gold and be too tired to do this again for 4 turns. Parties that have fewer than three players due to this ability are treated as though they have three players, superseding Rule 316. Dancesassins may not assassinate players that are currently taking their turn.
 
 DOG:
 
