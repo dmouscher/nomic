@@ -207,3 +207,6 @@ Players can buy bonds at a cost of 5 gold per bond. Each bond will, once 5 turns
 If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player/party unable to complete a turn is the winner. Winning entities include both players and parties. A party wins if any one player from a party wins.
 
 This rule takes precedence over every other rule determining the winner.
+
+## 328
+Player(s) may transfer gold from their personal account to the personal account of another player(s). Player(s) may transfer gold from their personal account to the account of the party they belong to. Both actions must be declared in #game for them to be valid.
