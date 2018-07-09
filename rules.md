@@ -210,3 +210,6 @@ This rule takes precedence over every other rule determining the winner.
 
 ## 328
 Player(s) may transfer gold from their personal account to the personal account of another player(s). Player(s) may transfer gold from their personal account to the account of the party they belong to. Both actions must be declared in #game for them to be valid.
+
+## 329
+In voting for a rule, any vote starting with the letter n is considered a 'Nay' (vote against) and any vote starting with the letter y is a 'Yay' (vote in favor). Votes must be cast starting with one of these two letters, and must be under 10 characters. Any attempted votes not following this rule are considered invalid. The voting words are not case sensitive.
