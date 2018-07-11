@@ -216,12 +216,12 @@ The winner is the first player to achieve 200 (positive) points or if at any tim
 
 ## 331
 The following are defined as locations:
-• Prairie
-• Jungle
-• Mountains
-• Marsh
-• City
-• Desert
+* Prairie
+* Jungle
+* Mountains
+* Marsh
+* City
+* Desert
 
 Each player is always in exactly one location. A player may, during their turn, choose to change their location. A player can only perform this action once per turn, and may not use this action to change their location to or from the Desert. Other rules may introduce alternative ways of changing a player's location without coming into conflict with this rule.
 
