@@ -62,9 +62,6 @@ An adopted rule-change takes full effect at the moment of the completion of the 
 ## 207
 Each player always has exactly one vote.
 
-## 208
-The winner is the first player to achieve 200 (positive) points.
-
 ## 210
 If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
@@ -213,3 +210,6 @@ Player(s) may transfer gold from their personal account to the personal account 
 
 ## 329
 In voting for a rule, any vote starting with the letter n is considered a 'Nay' (vote against) and any vote starting with the letter y is a 'Yay' (vote in favor). Votes must be cast starting with one of these two letters, and must be under 10 characters. Any attempted votes not following this rule are considered invalid. The voting words are not case sensitive.
+
+## 330
+The winner is the first player to achieve 200 (positive) points or if at any time there are only three (active) players they each receive 200 points and all win
