@@ -164,39 +164,6 @@ No transaction that would put a party's treasury below 0 gold may be voted on.
 
 Players have the option of voting for multiple simultaneous transactions as though they were one transaction, so long as the combined transaction adheres to the previous paragraph.
 
-## 323
-Each class has a basic ability specific to them:
-
-Cephalopodracer:
-
-If a Cephalopodracer is the first player on a turn to cast a vote aside from the proposer they receive an additional 10 gold, if second 5 and if third 3. If a Cephalopodracer is last player on a turn to cast a vote they will lose 5 gold. (They may not earn gold from this ability on turns in which they propose rule-changes and changed votes count as their new place in the voting order)
-
-Chaos Mage:
-
-Has the ability to change their class ability to that of any other class by spending 25 gold. Changed ability lasts for 5 turns and may not be changed during this time.
-
-Cowboy:
-
-This town ain't big enough for the both of us. Cowboys may attempt to duel another player once per turn. If they win the cowboy steals 5 gold from that player. If they lose they drop 2 gold for the challenged player to pick up in their hasty escape.
-
-* A duel master is selected by the person challenged from one of the active players not participating in the duel, both participants must type "Ready", the duel master then posts "GO" in game chat and the first player to send the message "Bang" after the go message wins the duel. Challenged players are obligated to participate. If either player types "Bang" before the "GO" message it is counted as an instant loss for that player.
-
-Dancesassin:
-
-May assassinate a player with their dance moves to remove player status from them for the duration of a vote for a rule-change. The assassin will lose 10 gold and be too tired to do this again for 4 turns. Parties that have fewer than three players due to this ability are treated as though they have three players, superseding Rule 316. Dancesassins may not assassinate players that are currently taking their turn.
-
-DOG:
-
-Golden retriever. DOGs are such good boys that they earn a consistent 2 extra gold every turn.
-
-Extreme Accountant:
-
-Due to EXTREME knowledge of money accountants are able to deduct 25% of the cost from anything that they spend gold on. This ability does not affect the cost of changing classes.
-
-Miss Nomic:
-
-Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote.
-
 ## 324
 Players can buy bonds at a cost of 5 gold per bond. Each bond will, once 5 turns have passed (5 voting rounds finished) yield back 6 gold. A bond purchase cannot be refunded, except in the case that a rule disrupts the bond system in a way that would prevent players from  receiving  their expected yield in their expected timeframe. A panel of the last 3 (active) players to have completed a proposal turn can elect to stop the further issuing of bonds, requiring a majority vote among them. Simillarly, such a panel could elect to reinstate the issuing of bonds with a majority vote.
 
@@ -226,3 +193,40 @@ The following are defined as locations:
 Each player is always in exactly one location. A player may, during their turn, choose to change their location. A player can only perform this action once per turn, and may not use this action to change their location to or from the Desert. Other rules may introduce alternative ways of changing a player's location without coming into conflict with this rule.
 
 Players start out in the City, and their location automatically becomes the City if they do not have any location.
+
+## 333
+Each class has a basic ability specific to them:
+
+Cephalopodracer:
+
+If a Cephalopodracer is the first player on a turn to cast a vote aside from the proposer they receive an additional 8 gold, if second 5 and if third 3. If a Cephalopodracer is last player on a turn to cast a vote they will lose 5 gold. (They may not earn gold from this ability on turns in which they propose rule-changes and changed votes count as their new place in the voting order)
+
+Chaos Mage:
+
+Has the ability to change their class ability to that of any other class by spending 25 gold. Changed ability lasts for 5 turns and may not be changed during this time. An additional cooldown period of 3 turns must pass before the Chaos Mage can switch again
+
+Cowboy:
+
+This town ain't big enough for the both of us. Cowboys may attempt to duel another player once per turn. If they win the cowboy steals 5 gold from that player. If they lose they drop 2 gold for the challenged player to pick up in their hasty escape.
+
+A duel master is selected by the person challenged from one of the active players not participating in the duel, both participants must type "Ready", the duel master then posts "GO" in game chat and the first player to send the message "Bang" after the go message wins the duel. Challenged players are obligated to participate. If either player types "Bang" before the "GO" message it is counted as an instant loss for that player.
+
+If the duel does not take place in the turn that it was called the cowboy the challenged a player loses two gold to the cowboy and the duel expires.
+
+Dancesassin:
+
+May assassinate a player with their dance moves to remove player status from them for the duration of a vote for a rule-change. The assassin will lose 15 gold and be too tired to do this again for 4 turns. Parties that have fewer than three players due to this ability are treated as though they have three players, superseding Rule 316. Dancesassins may not assassinate players that are currently taking their turn.
+
+DOG:
+
+Golden retriever. DOGs are such good boys that they earn a consistent 3 extra gold every turn.
+
+Extreme Accountant:
+
+Due to EXTREME knowledge of money accountants can deduct 25% of the cost from anything that they spend gold on. This ability does not affect the cost of changing classes. This ability supersedes all other rules that allow for purchases.
+
+Miss Nomic:
+
+Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote. This action forces said player to immediately cast their vote and they may not change it again until the turn is over.
+
+Players may not use their abilities if they have changed their class in the same turn
