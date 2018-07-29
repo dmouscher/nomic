@@ -8,6 +8,7 @@ Initially rules in the 100's are immutable and rules in the 200's are mutable. R
 ## 103 (IMMUTABLE)
 
 A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
+
 ## 104 (IMMUTABLE)
 All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
@@ -47,7 +48,7 @@ A person is a server administrator if and only if they have the "Administrator" 
 Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 ## 201
-Players shall initially alternate in alphabetical order by forename (with their surname as a tiebreaker), taking one whole turn apiece. Players joining the game will have their turn order set to preceed the player that is taking their turn at the time of the player’s joining.  Turns belonging to active players may not be skipped or passed, and parts of turns belonging to active players may not be omitted. All players begin with zero points.
+Players shall initially alternate in a random order to be determined by the server administrator by the start of the game, taking one whole turn apiece. Players joining the game will have their turn order set to preceed the player that is taking their turn at the time of the player’s joining.  Turns belonging to active players may not be skipped or passed, and parts of turns belonging to active players may not be omitted. All players begin with zero points.
 
 ## 202
 One turn consists of proposing one rule-change and having it voted on.
