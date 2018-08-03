@@ -111,3 +111,16 @@ Persons may not pretend to be multiple players at once. Persons that are found t
 
 ## 301
 No more than three (3) players may win the game.  Once any player or group of players wins, the game ends. After the game has ended, no rule changes may be proposed or enacted and no in-game actions may be taken.
+
+## 302
+The following are defined as locations:
+* Prairie
+* Jungle
+* Mountains
+* Marsh
+* City
+* Desert
+
+Each player is always in exactly one location. A player may, during their turn, choose to change their location. A player can only perform this action once per turn, and may not use this action to change their location to or from the Desert. Other rules may introduce alternative ways of changing a player's location without coming into conflict with this rule.
+
+Players start out in the City, and their location automatically becomes the City if they do not have any location.
