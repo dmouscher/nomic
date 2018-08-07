@@ -124,3 +124,6 @@ The following are defined as locations:
 Each player is always in exactly one location. A player may, during their turn, choose to change their location. A player can only perform this action once per turn, and may not use this action to change their location to or from the Desert. Other rules may introduce alternative ways of changing a player's location without coming into conflict with this rule.
 
 Players start out in the City, and their location automatically becomes the City if they do not have any location.
+
+## 304
+Each player must create a short bio introducing themselves.
