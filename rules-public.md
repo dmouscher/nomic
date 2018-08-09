@@ -127,3 +127,18 @@ Players start out in the City, and their location automatically becomes the City
 
 ## 304
 Each player must create a short bio introducing themselves.
+
+## 305
+Players start out with 0 wheat, timber, iron, fish, and stock options. These five values are referred to as "location resources".
+
+Players are either Landowners or not Landowners. A player is a Landowner by default, and loses their Landowner status by having their turn skipped. A player that is not a Landowner regains their Landowner status by gaining location resources via the method described below.
+
+Following the end of their turn, players may choose to gain location resources by rolling 2d6 in the #actions channel. A player that performs this action will then gain either 2 or (X - L) resources, whichever is larger. X is equal to the number that the player rolled, and L is equal to the number of other Landowners in the player's location, unless the player is in the City, in which case L is equal to 0.
+
+Players may roll to gain location resources at any time from the end of their turn to the end of the following turn. Once a player has rolled for a location resource, they cannot roll for a location resource again until another one of their turns has ended.
+
+The location resource that they player gains depends on the location that they are in at the time of their roll. Locations correspond to location resources as follows:
+
+![305 graph](305.png)
+
+If the location that a player is currently in does not correspond to a location resource, that player will be unable to roll for location resources.
