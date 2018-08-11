@@ -148,3 +148,35 @@ If the location that a player is currently in does not correspond to a location 
 Players may trade location resources to each other. All aspects of a trade must be public and mutually agreed upon.
 
 A trade may only be performed if both players involved in the trade are in the same location. A player may change their location once every 3 turns.
+
+## 307
+
+Players may choose one profession as an action during their turn. 
+Professions are as follows: 
+* Blacksmith
+* Cook
+* Alchemists
+* Woodcarver
+
+Players may not exceed one profession. If a player wishes to change professions they must wait a full round past their last pick
+
+#### 307b: Items
+
+Professions have the ability to create items that have a one time effect on the game state. After a use the item is expended and is destroyed. An item may not used on the same turn that it was created. Items may be traded between players if they're on the same location. If an item can be used, any player can be targeted. Items can only be crafted by players of that specific profession.
+
+Blacksmith:
+* Axe: Target player rolls an extra d3 when collecting resources if they're in the jungle location. 6 iron and 3 timber create 1.
+* Pickaxe: Target player rolls an extra d3 when collecting resources if they're in the mountain location. 6 iron and 3 timber create 1. 
+
+Wood carver:
+* Fishing Rod: Target player rolls an extra d3 when collecting resources if they're in the marsh location. 9 timber create 1. 
+* Hoe: Target player rolls an extra d3 when collection resources if they're in the prairie location. 9 timber create 1.
+
+Cook
+* Bread: Two target players swap locations. 8 wheat and 1 timber create 1. 
+* Stew: Move target player to the location of the user's choice. 5 fish and 4 wheat create 1. 
+
+Alchemist
+* Fish Oil: Target player takes their turn after this one (that will be their turn for this round). If a player has already taken their during that current round, then the effect is void. 50 fish, 10 wheat, 2 iron, and 2 timber create 1. 
+* Gold Flakes: No effect. 5 iron and 3 timber create 1.
+* Potion of Cleansing:  All effects are removed from target player. 3 Gold Flakes and 1 Fish Oil create 1.
