@@ -142,3 +142,9 @@ The location resource that they player gains depends on the location that they a
 ![305 graph](305.png)
 
 If the location that a player is currently in does not correspond to a location resource, that player will be unable to roll for location resources.
+
+## 306
+
+Players may trade location resources to each other. All aspects of a trade must be public and mutually agreed upon.
+
+A trade may only be performed if both players involved in the trade are in the same location. A player may change their location once every 3 turns.
