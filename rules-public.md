@@ -180,3 +180,19 @@ Alchemist
 * Fish Oil: Target player takes their turn after this one (that will be their turn for this round). If a player has already taken their during that current round, then the effect is void. 50 fish, 10 wheat, 2 iron, and 2 timber create 1. 
 * Gold Flakes: No effect. 5 iron and 3 timber create 1.
 * Potion of Cleansing:  All effects are removed from target player. 3 Gold Flakes and 1 Fish Oil create 1.
+
+## 308
+
+* Players may lay claim to territory in a location once they have ended 3 consecutive turns in said location.
+
+* Each player may have only one claim.
+
+* A player loses their claim if they leave their claim's location for more then one turn without having spent the previous four turns at said location.
+
+* Max of 5 claims per location.
+
+* Claimed territory yields and adition d3 die's amount of resources at no cost.
+
+* Claimed territory yields may be upgraded up to 8 times by an additional d3 dice to the yield roll.
+
+* The cost to upgrade a territory is the previous upgrade's cost plus 20 wood, 15 iron, and 15 wheat. 
