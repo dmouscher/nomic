@@ -196,3 +196,11 @@ Alchemist
 * Claimed territory yields may be upgraded up to 8 times by an additional d3 dice to the yield roll.
 
 * The cost to upgrade a territory is the previous upgrade's cost plus 20 wood, 15 iron, and 15 wheat. 
+
+## 309
+
+* If a bot or part of a bot was written by any player then the source code that runs on this server must be available to other players.
+
+* Bots can not bias one player over the other unless as part of the rules that govern them
+
+* If a rule requires a bot that has not been finished or needs maintenance then the game should ignore that rule. If any part of the rule does not need the bot then those parts should not be ignored. 
