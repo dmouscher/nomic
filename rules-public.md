@@ -220,3 +220,7 @@ adaptable whistle flag cling surround young event hall vase sash
 This person's mouth must be clearly visible when saying the words and username, and the words and username must be clearly audible.
 
 • The video must not be doctored or edited in any way that would change the above conditions. To allow other persons to analyze the video and determine its veracity, 48 hours shall pass between the player providing the video and the provider winning the game. If any player believes to have found evidence of tampering in the video during this time, Judgement shall be invoked to decide whether the video is valid or not. If Judgement is invoked, the player providing the video cannot win via this rule while the judgement is ongoing (i.e. the 48-hour timer is ignored). During the judgement process, the providing player may give further evidence to support the video (e.g. a description of when/where the video was taken, evidence that Danny DeVito and the player were both in that location, etc.) If the providing player is found to have falsified the video, they shall be inactive for an entire round of turns after their turn ends. After the round of turns, the player will be considered active again, and may take their next turn.
+
+## 311
+
+Any person who is found to have written something on this server from more than one account will be kicked from the server and unable to win the game. This includes alternate accounts as well as typing something from someone else's account on the server with or without his or her consent.
