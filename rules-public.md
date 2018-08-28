@@ -5,6 +5,7 @@ All players must always abide by all the rules then in effect, in the form in wh
 
 ## 102 (IMMUTABLE)
 Initially rules in the 100's are immutable and rules in the 200's are mutable. Rules subsequently enacted or transmuted (that is, changed from immutable to mutable or vice versa) may be immutable or mutable regardless of their numbers, and rules in the Initial Set may be transmuted regardless of their numbers.
+
 ## 103 (IMMUTABLE)
 
 A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
@@ -225,3 +226,11 @@ This person's mouth must be clearly visible when saying the words and username, 
 ## 311
 
 Any person who is found to have written something on this server from more than one account will be kicked from the server and unable to win the game. This includes alternate accounts as well as typing something from someone else's account on the server with or without his or her consent.
+
+## 313
+
+Each player may create a Religion at any time. A player must have and provide a name for their Religion when creating it. A player may be a member (or "follower") of up to one Religion at a time. Players may perform up to one of the following actions during a turn:
+* Join a Religion
+* Leave a Religion
+ 
+Religions are created with zero Faith. At the end of every turn, all Religions with one or fewer followers are disbanded. Following this, all extant Religions gain 2^(n+1)-1 Faith, where n is equal to the number of followers that that Religion has.
