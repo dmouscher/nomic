@@ -234,3 +234,18 @@ Each player may create a Religion at any time. A player must have and provide a 
 * Leave a Religion
  
 Religions are created with zero Faith. At the end of every turn, all Religions with one or fewer followers are disbanded. Following this, all extant Religions gain 2^(n+1)-1 Faith, where n is equal to the number of followers that that Religion has.
+
+## 316
+
+* A Contract is a document formalizing an agreement between signatories with enforced penalties for failure to follow or complete. 
+* All Contracts are posted in the Actions channel under a unique title, and if passed posted in the Changelog.
+* Contracts cannot be edited.
+
+* A Contract contains 3 parts to be clearly noted in the document.
+    1. Terms. - The written agreement between signatories.
+    2. Penalties Clause -  The section of the contract stipulating consequences of failing to follow or complete the contract.
+    3. Signatories - Players and their titles who are part of the contract. 
+
+* Signatories need to announce their signing of the specific contract in the actions channel to affirm their agreement to the Contract.
+* A Contract cannot effect non signatories.
+* Contracts can only enforce legal player actions (a legal action that a player is allowed to make on their own) as penalties.
