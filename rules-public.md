@@ -249,3 +249,23 @@ Religions are created with zero Faith. At the end of every turn, all Religions w
 * Signatories need to announce their signing of the specific contract in the actions channel to affirm their agreement to the Contract.
 * A Contract cannot effect non signatories.
 * Contracts can only enforce legal player actions (a legal action that a player is allowed to make on their own) as penalties.
+
+## 317
+
+When the game is won, the winning player(s) shall receive the book "The Internet -- Complete Reference", written by Harley Hahn and Rick Stout, ISBN 0-07-881980-6, Copyright 1994. A copy of this book is currently in the posession of the player Coconutpies at the time of the proposal of this rule (pictures below). Any further reference to "the book" in this rule refers to the copy described above.
+
+When a player or group of players has won the game, the player(s) must contact Coconutpies about how they could have the book delivered to them. If shipping is required for the winning player(s) to receive the book, the winning player(s) must pay any shipping costs. If multiple players have won, they must come to an agreement about how to divide any shipping costs before the book is shipped.
+
+If multiple players have won the game and
+
+1. it is geographically or logistically infeasible for them to share the book, or
+2. they do not wish to share the book,
+
+then the winning players must come to an agreement on who will receive the book (again, before the book is given to any of the players).
+If the book is destroyed, stolen, or for any other reason is no longer able to be awarded (at Coconutpies' discretion) when a player has won, this rule is considered null and void.
+
+![317 picture 1](20180902_162433.jpg)
+
+![317 picture 2](20180902_162503.jpg)
+
+![317 picture 3](20180902_163119.jpg)
