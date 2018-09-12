@@ -275,3 +275,29 @@ If the book is destroyed, stolen, or for any other reason is no longer able to b
 At every midnight (Central Time) a bot shall automatically roll 1d4. This modifies the number of stock options that all players have by (X-2)%, where X is the number that that bot rolled. If a player would gain or lose a non-integer number of stock options as a result of this, the gain or loss is rounded away from zero.
 
 Only the first roll that the bot makes on midnight have this effect.
+
+## 319
+
+#### 319a: The Bank
+
+* A building will be constructed in the city called “The Bank” where from any place and at any time any player may trade their Land Based resources for “Bucks” a new universal currency. 
+* The bank has a vault that can store land based resources that the bank purchases.
+* To buy from the bank a player must make a request in actions.
+    * All purchases are requested during a turn and processed once the turn has been completed.
+    * The priority for purchases occurs in chronological order and once all the banks money is up no more purchases will be processed.
+
+#### 319b: Bucks
+
+* Bucks is a universal currency that the bank uses to exchange for land based resources.
+* The Bank has only 100 Bucks it can spend each day and does not carry over on the next day if all the Bucks are not spent. 
+* The amount of Bucks a player will receive for their resources is based on a 1d4 roll that occurs at midnight every night for each resource to determine buying and selling price. 
+    * A BOT will call Roll BOT to make these rolls.
+* Any resources sold to The Bank are stored there and may be re purchased with bucks. 
+* The Bank buys and 70% rounded down the current value of Land Based resources a player may wish to sell. 
+
+#### 319c: The Banker Class
+
+* Banker: Gains an extra Stock Option when in the city every 4 turns.
+    * Items:
+    * Golden Age: 13 stock option; Each player gains 2 land based resources for the location they are in. 
+    * Depression: 40 stock options; Prevents the gaining of all land based resources for 5 turns for all players.
