@@ -269,3 +269,9 @@ If the book is destroyed, stolen, or for any other reason is no longer able to b
 ![317 picture 2](20180902_162503.jpg)
 
 ![317 picture 3](20180902_163119.jpg)
+
+## 318
+
+At every midnight (Central Time) a bot shall automatically roll 1d4. This modifies the number of stock options that all players have by (X-2)%, where X is the number that that bot rolled. If a player would gain or lose a non-integer number of stock options as a result of this, the gain or loss is rounded away from zero.
+
+Only the first roll that the bot makes on midnight have this effect.
