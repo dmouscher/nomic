@@ -301,3 +301,12 @@ Only the first roll that the bot makes on midnight have this effect.
     * Items:
     * Golden Age: 13 stock option; Each player gains 2 land based resources for the location they are in. 
     * Depression: 40 stock options; Prevents the gaining of all land based resources for 5 turns for all players.
+
+## 321
+
+* A crusade targets a location and inhibits players on that location from gaining any resources until each player's turn has passed. 
+* Each member of a religion gets 5 of that location's resource if the location is free of crusades, superceeding the previous rule.
+* To start a crusade any member of crusading religion will post in Actions their support to start a crusade and their religion. 
+* A crusade may not be started if it would cause negative faith.
+* A dice of d(# of the total crusading religion's members) is rolled at the end of the turn.
+* If (the value of the roll) <= (# of crusade supporters in said religion) the crusade begins at the start of the next turn and 500 Faith is deducted, otherwise the religion is blocked from starting crusades for one turn.
