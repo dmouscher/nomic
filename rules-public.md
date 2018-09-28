@@ -279,28 +279,23 @@ Only the first roll that the bot makes on midnight have this effect.
 ## 319
 
 #### 319a: The Bank
-
-* A building will be constructed in the city called “The Bank” where from any place and at any time any player may trade their Land Based resources for “Bucks” a new universal currency. 
-* The bank has a vault that can store land based resources that the bank purchases.
-* To buy from the bank a player must make a request in actions.
-    * All purchases are requested during a turn and processed once the turn has been completed.
-    * The priority for purchases occurs in chronological order and once all the banks money is up no more purchases will be processed.
+* The Bank is an entity with which players may trade their location resources for Bucks.
+* The Bank has an inventory which contains Bucks and location resources.
+* To make a transaction with the bank, a player must make a request in the actions channel stating what they are trading with and for.
+    * All requested transactions are processed once the turn that the transactions have been made on has been completed.
+    * Transactions are processed in the order that they were made. If either party does not have the location resources or Bucks needed for the transaction, that transaction is skipped. After all transactions have been processed, all skipped transactions are processed again, in the order that they were made. This continues until every transaction in an iteration has been skipped, after which they are ignored.
 
 #### 319b: Bucks
+* On the passing of this amendment, all players' Bucks will be set to 0, the Bank's Bucks will be set to 100, all of the Bank's location resources will be set to 0, and 1d4 will be rolled 5 times to determine the initial prices at which the Bank sells each location resource.
+* At midnight (Central Time) the Bank's Bucks is set to 100, and each price at which the Bank sells each location resource is set to 1d4, with a bot making rolls for each individual location resource's price.
+* The price at which the Bank buys a given location resource is 70% of the Bank's selling price for said location resource, rounded down.
 
-* Bucks is a universal currency that the bank uses to exchange for land based resources.
-* The Bank has only 100 Bucks it can spend each day and does not carry over on the next day if all the Bucks are not spent. 
-* The amount of Bucks a player will receive for their resources is based on a 1d4 roll that occurs at midnight every night for each resource to determine buying and selling price. 
-    * A BOT will call Roll BOT to make these rolls.
-* Any resources sold to The Bank are stored there and may be re purchased with bucks. 
-* The Bank buys and 70% rounded down the current value of Land Based resources a player may wish to sell. 
-
-#### 319c: The Banker Class
-
-* Banker: Gains an extra Stock Option when in the city every 4 turns.
-    * Items:
-    * Golden Age: 13 stock option; Each player gains 2 land based resources for the location they are in. 
-    * Depression: 40 stock options; Prevents the gaining of all land based resources for 5 turns for all players.
+#### 319c: The Banker Profession
+* "Banker" is a profession, superceding Rule 307.
+* A player with the Banker profession in the City gains 1 stock option at the start of a turn if that turn is the (4k)th consecutive turn that that player was of the Banker profession and in the City, where k is a positive integer.
+* Bankers can craft the following items:
+    * Golden Age: Every active player gains 2 location resources corresponding to their current location. Players that would be unable to roll for location resources do not gain any location resources from this item. 13 stock options create 1.
+    * Depression: No player can perform any action that would increase the number of a specific location resource that they have. This effect lasts for 5 turns. 40 stock options creates 1.
 
 ## 321
 
