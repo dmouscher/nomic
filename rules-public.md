@@ -305,3 +305,10 @@ Only the first roll that the bot makes on midnight have this effect.
 * A crusade may not be started if it would cause negative faith.
 * A dice of d(# of the total crusading religion's members) is rolled at the end of the turn.
 * If (the value of the roll) <= (# of crusade supporters in said religion) the crusade begins at the start of the next turn and 500 Faith is deducted, otherwise the religion is blocked from starting crusades for one turn.
+
+## 327
+
+
+When a turn ends if any player has more than 250 points and their number of points is a prime number* then they win the game. If more than the maximum number of players able to win the game qualify for this condition, then players with higher point totals will be prioritized over players with lower point totals.
+
+<sup>* A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers.</sup>
