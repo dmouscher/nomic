@@ -316,3 +316,9 @@ When a turn ends if any player has more than 250 points and their number of poin
 ## 329
 
 ![329 picture](image0.jpg)
+
+# 330
+
+Once per turn, active players may post an image containing a corgi in the #corgis channel. At the end of the turn, any player who has posted a corgi picture receives 2 points, provided the picture has not been posted before. No points are awarded for duplicate images. Images created from the same source image are duplicates.
+
+Jactually is the Corgi Lord.
