@@ -322,3 +322,30 @@ When a turn ends if any player has more than 250 points and their number of poin
 Once per turn, active players may post an image containing a corgi in the #corgis channel. At the end of the turn, any player who has posted a corgi picture receives 2 points, provided the picture has not been posted before. No points are awarded for duplicate images. Images created from the same source image are duplicates.
 
 Jactually is the Corgi Lord.
+
+## 331
+
+All proposals that rhyme  
+from here-on in time,  
+shall give their creator  
+a number of points in their favor.
+
+The points to be awarded,  
+only by judgement can be thwarted,  
+and shall be of count nine  
+for every eighth line.  
+
+One may rhyme how they will,  
+so long as a pattern holds still.  
+And once the proposal is passed,  
+may they claim the points cast.
+
+For this rule that will hold soon,  
+a gift of an 18 point boon,  
+will be given Fenris Wolf, the player,  
+aswell as the title of "Rhyme Slayer".
+
+As final point to dictate how this rule goes,  
+the majority of the proposal must not be irrelevant prose,  
+So let there be a bonanza,  
+of some very dope stanza!
