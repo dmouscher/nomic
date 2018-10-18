@@ -349,3 +349,9 @@ As final point to dictate how this rule goes,
 the majority of the proposal must not be irrelevant prose,  
 So let there be a bonanza,  
 of some very dope stanza!
+
+## 332
+
+Hell is a location, superceding Rule 302.
+
+When a player leaves a religion, that player is automatically moved to Hell.
