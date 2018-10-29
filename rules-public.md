@@ -355,3 +355,24 @@ of some very dope stanza!
 Hell is a location, superceding Rule 302.
 
 When a player leaves a religion, that player is automatically moved to Hell.
+
+# 333
+
+* A player is randomly assigned The Holy Hand Grenade Of Antioch.
+
+* To use the Holy Hand Grenade of Antioch one must follow and preform the actions bellow 
+in #Actions.
+
+"First shalt thou take out the Holy Pin, then shalt thou count to three, no more, no less.  
+Three shall be the number thou shalt count, and the number of the counting shall be three.  
+ Four shalt thou not count, neither count thou two, excepting that thou then proceed to three.  
+Five is right out. Once the number three, being the third number, be reached, then lobbest  
+thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naught in My sight,  
+shall snuff it."
+
+* If used incorrectly the wielder will "snuff it."
+
+* The definition of "Snuff it" for the purpose of this rule is to have their location 
+changed to hell and loose 15% of their points.
+* The Holy Hand Grenade Of Antioch is tradeable. 
+* Once used it is removed from game.
