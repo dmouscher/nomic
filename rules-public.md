@@ -394,3 +394,9 @@ The turkey has a 50/50 chance of being dead or alive decided by a roll of 1d2 di
 On thanksgiving if obsererved this turkey will shortly spontainiously combust and no longer exist.  
 If observed prior to combustion to be alive, the owner gets 15 of any resource.  
 If the turkey is observed dead everyone but the owner gets 5 of any resource.  
+
+## 337
+
+Gray Goo is a tradable item. At the end of every turn, the number of Gray Goo that players have in their inventory doubles.
+
+When this proposal passes, a random active player receives one Gray Goo.
