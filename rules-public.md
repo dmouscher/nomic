@@ -386,3 +386,11 @@ Each member of any religion may once per turn praise the god of their religion. 
 Any player of a religion may pray to their god for and one of these on their turn. This costs 30 of your religions faith.
 * An extra 1d3 on resource rolls
 * A blessing that protects them from any item that may target them for one round.
+
+## 336
+
+An active player is randomly assigned a quantum turkey.  
+The turkey has a 50/50 chance of being dead or alive decided by a roll of 1d2 dice upon observation.  
+On thanksgiving if obsererved this turkey will shortly spontainiously combust and no longer exist.  
+If observed prior to combustion to be alive, the owner gets 15 of any resource.  
+If the turkey is observed dead everyone but the owner gets 5 of any resource.  
