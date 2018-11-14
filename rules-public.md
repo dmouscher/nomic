@@ -400,3 +400,15 @@ If the turkey is observed dead everyone but the owner gets 5 of any resource.
 Gray Goo is a tradable item. At the end of every turn, the number of Gray Goo that players have in their inventory doubles.
 
 When this proposal passes, a random active player receives one Gray Goo.
+
+## 338
+
+#### Praise:
+
+Each member of any religion may once per turn praise the god of their religion. This action gives the religion 10 faith per player that participates. 
+
+#### Praying:
+
+Any player of a religion may pray to their god for any one of the actions listed below on their turn only. This costs 30 of your religions faith.
+* An extra 1d3 on resource rolls
+* A blessing that protects them from any item that may target them for one round.
