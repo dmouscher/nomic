@@ -412,3 +412,7 @@ Each member of any religion may once per turn praise the god of their religion. 
 Any player of a religion may pray to their god for any one of the actions listed below on their turn only. This costs 30 of your religions faith.
 * An extra 1d3 on resource rolls
 * A blessing that protects them from any item that may target them for one round.
+
+## 339
+
+All players who vote "yay" for this proposal immediately gain 1 point when it is passed.
