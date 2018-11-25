@@ -418,3 +418,9 @@ Any player of a religion may pray to their god for any one of the actions listed
 ## 339
 
 All players who vote "yay" for this proposal immediately gain 1 point when it is passed.
+
+## 341
+
+A player may challenge another player to a duel in a game of the challenger's choosing. Each player may only issue a challenge once per turn. The challenge includes a points wager, which is paid to the winner by the loser. If a player does not wish to participate in the duel, they may forfeit the challenge by spending one point, which is not paid to the challenger. Additionally, the player may suggest another game to be used for the challenge. If the change is not accepted by their opponent, the player forfeits the duel and loses one point.
+
+Each player who votes "yay" on this proposal gains 25 points when it is passed.
