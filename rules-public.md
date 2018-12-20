@@ -377,16 +377,6 @@ changed to hell and loose 15% of their points.
 * The Holy Hand Grenade Of Antioch is tradeable. 
 * Once used it is removed from game.
 
-## 335
-
-Each member of any religion may once per turn praise the god of their religion. This action gives the religion 10 faith per player that participates. 
-
-#### Praying
-
-Any player of a religion may pray to their god for and one of these on their turn. This costs 30 of your religions faith.
-* An extra 1d3 on resource rolls
-* A blessing that protects them from any item that may target them for one round.
-
 ## 336
 
 An active player is randomly assigned a quantum turkey.  
