@@ -415,3 +415,15 @@ Votes can only affect proposal passing or failure.
 Proposals are not allowed to distinguish those who voted for it, those who voted against it, or those who did not vote on it from each other.
 
 <sup>* Legal jargon was provided by Crorem, who shall if he chooses recieve the title, "The Loyal Linguist Of Legalese "</sup>
+
+## 345
+
+This proposal is made,  
+to pass only this.  
+That one can trade,  
+their points if they wish.  
+
+One cannot trade.  
+if the result is debt.  
+For a trade to be made,  
+in #actions it must be set.  
