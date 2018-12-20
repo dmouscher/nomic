@@ -64,7 +64,7 @@ An adopted rule-change takes full effect at the moment of the completion of the 
 Every active player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
 ## 206
-Active players that have not voted after 36 hours of the start of a vote on a rule-change, that have not made a proposal after 36 hours of the start of their turn, or that have publicly declared that they are no longer active become inactive (i.e. lose their active status). Inactive players that have become inactive through the above methods may become active again by attempting to cast a vote (the vote will be counted as though it was cast when they were active) or by publicly declaring that they are active.
+Active players that have not voted after 36 hours of the start of a vote on a rule-change, that have not made a proposal after 36 hours of the start of their turn, or that have publicly declared that they are no longer active become inactive (i.e. lose their active status). Inactive players that have become inactive through the above methods may become active again by attempting to cast a vote (the vote will be counted as though it was cast when they were active) or by publicly declaring that they are active. An inactive player that has become inactive at least twice in the past 168 hours (one week) may not use the above methods to regain active status.
 
 If a player becomes inactive during their turn, their turn ends immediately. If an inactive player's turn would start, their turn is skipped instead.
 
