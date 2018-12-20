@@ -433,3 +433,16 @@ in #actions it must be set.
 On December 25th every active player may request 20 of any one resource and recive it as a gift once.  
 A player may roll once a d20 dice, and if it equals 20,then the player has observed santa, and may mug him for an extra gift request of 20 resources of any one item.  
 These actions may only be preformed on December 25th 2018.
+
+## 349
+
+A new section Called “Task Board” will be added to the business tab in the discord.  
+A task is similar to a quest. Tasks are proposed and voted on through the rules process.  
+A task has three parts. A) What the player will be doing. B) How the player will achieve this by the given means available (through discord) C) The reward for the given task upon completion.  
+Once passed a task is placed ind the “Task Board” and is active for all players to complete for one round counted from the Task proposers turn.  
+A Task is to be outlined as described bellow.
+
+Proposal XXXX: Task–Glorb killer 
+
+Go and destroy the glorbs in the marsh. You will get 10 Glorb brains for doing so.  
+To destroy the glorbs the player must roll a d20 and get any number above 13 to spawn a glorb. 13 spowns 1 glorb and each numberical increase in dice outcome will spawn an additional glorb. To defeat a glorb that player must roll 1d6 per glorb and roll a 5 or greater.
