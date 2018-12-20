@@ -446,3 +446,9 @@ Proposal XXXX: Task–Glorb killer
 
 Go and destroy the glorbs in the marsh. You will get 10 Glorb brains for doing so.  
 To destroy the glorbs the player must roll a d20 and get any number above 13 to spawn a glorb. 13 spowns 1 glorb and each numberical increase in dice outcome will spawn an additional glorb. To defeat a glorb that player must roll 1d6 per glorb and roll a 5 or greater.
+
+## 350
+
+* Players get 2 points for every item they create through an action in #actions.
+* The item must have been defined in a rule prior to creation inorder to recieve points.
+* Resources are not items.
