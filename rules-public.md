@@ -446,3 +446,7 @@ To destroy the glorbs the player must roll a d20 and get any number above 13 to 
 * Players get 2 points for every item they create through an action in #actions.
 * The item must have been defined in a rule prior to creation inorder to recieve points.
 * Resources are not items.
+
+## 356
+
+I'm the man
