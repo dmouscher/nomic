@@ -428,12 +428,6 @@ if the result is debt.
 For a trade to be made,  
 in #actions it must be set.  
 
-## 348
-
-On December 25th every active player may request 20 of any one resource and recive it as a gift once.  
-A player may roll once a d20 dice, and if it equals 20,then the player has observed santa, and may mug him for an extra gift request of 20 resources of any one item.  
-These actions may only be preformed on December 25th 2018.
-
 ## 349
 
 A new section Called “Task Board” will be added to the business tab in the discord.  
