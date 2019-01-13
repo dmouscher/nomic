@@ -377,16 +377,6 @@ changed to hell and loose 15% of their points.
 * The Holy Hand Grenade Of Antioch is tradeable. 
 * Once used it is removed from game.
 
-## 336
-
-An active player is randomly assigned a quantum turkey.  
-The turkey has a 50/50 chance of being dead or alive decided by a roll of 1d2 dice upon observation.  
-On thanksgiving if obsererved this turkey will shortly spontainiously combust and no longer exist.  
-If observed prior to combustion to be alive, the owner gets 15 of any resource.  
-If the turkey is observed dead everyone but the owner gets 5 of any resource.  
-The Quantum Turkey will only reward Active players.  
-Players must choose their rewarded resource type in actions within a day of the turkey's combustion,  else it will be randomly assigned by the moderator.
-
 ## 337
 
 Gray Goo is a tradable item. At the end of every turn, the number of Gray Goo that players have in their inventory doubles.
