@@ -451,3 +451,7 @@ To destroy the glorbs the player must roll a d20 and get any number above 13 to 
 
 A player in a current religion with more than 4 players becomes "The Jezus" (this is a title)  
 This is determined by random(Discretion of random method is left to the admin)
+
+## 359
+
+If a player is inactive for a period of 2 weeks, their status becomes like that of a new player (no religion, no claims, no items, no titles, etc) with the exception that they keep their current points. Timers begin after the passing of this proposal.
