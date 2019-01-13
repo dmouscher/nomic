@@ -446,3 +446,8 @@ To destroy the glorbs the player must roll a d20 and get any number above 13 to 
 * Players get 2 points for every item they create through an action in #actions.
 * The item must have been defined in a rule prior to creation inorder to recieve points.
 * Resources are not items.
+
+## 358
+
+A player in a current religion with more than 4 players becomes "The Jezus" (this is a title)  
+This is determined by random(Discretion of random method is left to the admin)
