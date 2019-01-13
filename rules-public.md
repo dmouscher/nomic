@@ -440,7 +440,8 @@ To destroy the glorbs the player must roll a d20 and get any number above 13 to 
 ## 358
 
 A player in a current religion with more than 4 players becomes "The Jezus" (this is a title)  
-This is determined by random(Discretion of random method is left to the admin)
+This is determined by random(Discretion of random method is left to the admin)  
+If the chosen player is not active it is rerolled with only the active players.
 
 ## 359
 
