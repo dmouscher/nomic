@@ -437,6 +437,10 @@ To destroy the glorbs the player must roll a d20 and get any number above 13 to 
 * The item must have been defined in a rule prior to creation inorder to recieve points.
 * Resources are not items.
 
+## 352
+
+One week after this rule comes into effect, the Corgi Lord will choose a picture from the #corgis channel and grant it the "Nice Corg Award". The player who posted the picture is rewarded with 3 points. Only pictures posted after this rule comes into effect may be considered, and the Corgi Lord is not eligible for the prize.
+
 ## 358
 
 A player in a current religion with more than 4 players becomes "The Jezus" (this is a title)  
