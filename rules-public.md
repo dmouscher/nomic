@@ -450,3 +450,7 @@ If the chosen player is not active it is rerolled with only the active players.
 ## 359
 
 If a player is inactive for a period of 2 weeks, their status becomes like that of a new player (no religion, no claims, no items, no titles, etc) with the exception that they keep their current points. Timers begin after the passing of this proposal.
+
+## 363
+
+A random active player will recieve a ring. One may bring the ring to a new location called Mordor for 10 points. A player may only enter Mordor by legal game actions. One cannot simply walk/move into Mordor.
