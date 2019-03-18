@@ -309,9 +309,9 @@ Only the first roll that the bot makes on midnight have this effect.
 
 ## 327
 
-When a turn ends if any player has more than 250 points and their number of points is a prime number* then they win the game. If more than the maximum number of players able to win the game qualify for this condition, then players with higher point totals will be prioritized over players with lower point totals.
+When a turn ends if any player has more than 250 points and their number of points is a prime number then they win the game. If more than the maximum number of players able to win the game qualify for this condition, then players with higher point totals will be prioritized over players with lower point totals. If still more than the maximum number of players able to win the game qualify, then play proceeds as normal until the end of next turn, at which the check is made again.
 
-<sup>* A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers.</sup>
+At midnight Central Time on March 25, the text of this rule will automatically change to "When a turn ends, if any player has more than [X] points then they win the game. If more than the maximum number of players able to win the game qualify for this condition, then players with higher point totals will be prioritized over players with lower point totals. If still more than the maximum number of players able to win the game qualify, then play proceeds as normal until the end of next turn, at which the check is made again.", where "[X]" will be the highest number of points that a player has in the game at the time of the rules text changing, plus three.
 
 ## 329
 
