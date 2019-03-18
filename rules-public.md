@@ -480,3 +480,7 @@ At any given time, one location will be occupied by the Robber. Players in a loc
 When a player that rolls for location resources or rolls as described above rolls a 7, that player may move the Robber to a location of their choosing.
 
 The Robber starts out in the Desert.
+
+## 375
+
+Once changelog gains a backlog of 5 or more, the game will pause between turns untill the backlog is removed.
