@@ -456,3 +456,17 @@ A random active player will recieve a ring. One may bring the ring to a new loca
 Once the total gray goo reaches a count of 2^169 (number of atoms on earth), the game ends as the earth is consummed by the gray goo. 
 The person with the most points wins the game at that point.  
 It is believed that at that point gray goo consumes the rest of the universe, collapses to form a singularity, and births a new universe where corgis evolved as the intelligent species.
+
+## 368
+
+A new location is added called “The West”
+
+Any player may travel to this location. Once there, player(s) may not leave until their next turn.  Players may “Duel” other players in “The West”.
+
+Players may not own or claim land in “The West”
+
+
+#### Duels
+
+A duel master is selected by the person challenged from one of the active players not participating in the duel, both participants must type "Ready", the duel master then posts "GO" in game chat and the first player to send the message "Bang" after the go message wins the duel. Challenged players are obligated to participate. If either player types "Bang" before the "GO" message it is counted as an instant loss for that player.  
+If the duel does not take place in the turn that it was called the challenged player loses two items of the winners choice and the duel expires.
