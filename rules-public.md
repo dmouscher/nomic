@@ -484,3 +484,7 @@ The Robber starts out in the Desert.
 ## 375
 
 Once changelog gains a backlog of 5 or more, the game will pause between turns untill the backlog is removed.
+
+## 377
+
+A random word will be generated from an online word generator chosen by the moderator. For every past instance of the word posted by a player in Buisness and Discussion, that player will get 1 point. If no points are allocated then a new word will be generated and the process repeated. One may gain no more then 50 points by this rule.  Banana.
