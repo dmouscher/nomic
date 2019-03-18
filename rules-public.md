@@ -450,3 +450,9 @@ If a player is inactive for a period of 2 weeks, their status becomes like that 
 ## 363
 
 A random active player will recieve a ring. One may bring the ring to a new location called Mordor for 10 points. A player may only enter Mordor by legal game actions. One cannot simply walk/move into Mordor.
+
+## 367
+
+Once the total gray goo reaches a count of 2^169 (number of atoms on earth), the game ends as the earth is consummed by the gray goo. 
+The person with the most points wins the game at that point.  
+It is believed that at that point gray goo consumes the rest of the universe, collapses to form a singularity, and births a new universe where corgis evolved as the intelligent species.
