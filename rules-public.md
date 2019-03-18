@@ -472,3 +472,11 @@ A duel master is selected by the person challenged from one of the active player
 If the duel does not take place in the turn that it was called the challenged player loses two items of the winners choice and the duel expires.
 
 The player that wins the duel gets 7% rounded down of target item the losing player owns.
+
+## 373
+
+At any given time, one location will be occupied by the Robber. Players in a location occupied by the Robber cannot roll for location resources. Players that are unable to roll for location resources in this manner can still make a roll as if they were rolling for location resources, subject to the same restrictions on when they are able to do so.
+
+When a player that rolls for location resources or rolls as described above rolls a 7, that player may move the Robber to a location of their choosing.
+
+The Robber starts out in the Desert.
