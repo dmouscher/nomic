@@ -470,3 +470,5 @@ Players may not own or claim land in “The West”
 
 A duel master is selected by the person challenged from one of the active players not participating in the duel, both participants must type "Ready", the duel master then posts "GO" in game chat and the first player to send the message "Bang" after the go message wins the duel. Challenged players are obligated to participate. If either player types "Bang" before the "GO" message it is counted as an instant loss for that player.  
 If the duel does not take place in the turn that it was called the challenged player loses two items of the winners choice and the duel expires.
+
+The player that wins the duel gets 7% rounded down of target item the losing player owns.
