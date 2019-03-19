@@ -488,3 +488,35 @@ Once changelog gains a backlog of 5 or more, the game will pause between turns u
 ## 377
 
 A random word will be generated from an online word generator chosen by the moderator. For every past instance of the word posted by a player in Buisness and Discussion, that player will get 1 point. If no points are allocated then a new word will be generated and the process repeated. One may gain no more then 50 points by this rule.  Banana.
+
+## 379
+
+Roses are red,
+violets are blue,
+i got a proposal
+from me to you!
+
+Any item you hold
+and any resource too,
+if youre so bold
+can be eaten, true!
+
+The item is then used
+without it's effect
+and into your hand
+the remains you collect.
+
+So in conclusion you have
+an item of shit, 
+as what goes in, comes out
+and so it is writ.
+
+Shit has no use,
+except in this,
+one can fling it to another,
+like monkeys if you wish.
+
+Just be sure that the target,
+is in your location
+Otherwise the distance,
+will be their salvation.
