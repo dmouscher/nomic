@@ -520,3 +520,15 @@ Just be sure that the target,
 is in your location  
 Otherwise the distance,  
 will be their salvation.  
+
+## 380
+
+On the topic of items  
+One may not eat shit  
+The game frowns upon that  
+And you'll be kicked from it  
+
+One may fling at the Robber  
+Five of their shits  
+And back to the Desert  
+He'll go in a fit  
