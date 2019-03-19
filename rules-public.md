@@ -491,32 +491,32 @@ A random word will be generated from an online word generator chosen by the mode
 
 ## 379
 
-Roses are red,
-violets are blue,
-i got a proposal
-from me to you!
+Roses are red,  
+violets are blue,  
+i got a proposal  
+from me to you!  
 
-Any item you hold
-and any resource too,
-if youre so bold
-can be eaten, true!
+Any item you hold  
+and any resource too,  
+if youre so bold  
+can be eaten, true!  
 
-The item is then used
-without it's effect
-and into your hand
-the remains you collect.
+The item is then used  
+without it's effect  
+and into your hand  
+the remains you collect.  
 
-So in conclusion you have
-an item of shit, 
-as what goes in, comes out
-and so it is writ.
+So in conclusion you have  
+an item of shit,   
+as what goes in, comes out  
+and so it is writ.  
 
-Shit has no use,
-except in this,
-one can fling it to another,
-like monkeys if you wish.
+Shit has no use,  
+except in this,  
+one can fling it to another,  
+like monkeys if you wish.  
 
-Just be sure that the target,
-is in your location
-Otherwise the distance,
-will be their salvation.
+Just be sure that the target,  
+is in your location  
+Otherwise the distance,  
+will be their salvation.  
