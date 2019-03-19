@@ -230,3 +230,39 @@ Miss Nomic:
 Using her extremely good looks (and 50 gold) Miss Nomic may force another player of her choice to vote the way she chooses, either before or after they have cast their vote. This action forces said player to immediately cast their vote and they may not change it again until the turn is over.
 
 Players may not use their abilities if they have changed their class in the same turn
+
+## 334
+
+Based on the location of a player , they have access to these abilities, with the resources acquired being tradeable at a delivery fee of 5 gold per 'shipment' (a shipment being one trade of any resources between players). These shipment fees also apply to selling on market. Market sale and trading must all be declared and consented to by all parties involved in the #game channel.:
+
+* Prairie - For 40 gold, you can get a *pet prairie DOG*.  Similarly to DOGs, they earn 2 (NOT 3) gold every turn. Additionally, for 80 gold, you can start a farm, which will accrue you 1 *wheat* every turn. Once starting the farm you must stay at the prairie and tend to it in order to receive wheat, but it can also be tended to by a consenting other player in the prairie.
+
+* Jungle - On your turn, if you have 2 other consenting players in the jungle with you, you can each pay 20 gold to go on a jungle expedition, and search for hidden treasures. The expedition will take till your next turn, and can only be embarked on by players who have not been on an expedition in the past 3 turns. Players are stuck in the jungle for the duration of the expedition, being unable to trade gold or resources with players not on the expedition. Upon completion of the expedition each player will have found an emerald, sellable on market for 85 gold, and 5 gold.
+
+* Mountains - For 40 gold you can buy a  bronze mining kit. A mining kit allows you to go mining.  A mining  run takes 2 turns in which you cannot leave the mountains, and cannot trade with players in any location other than a mine within one tier of yours. Each mining run rewards 2 material of the tier (Bronze mining run rewards 1 bronze) . After every 3 mining runs of a tier, you are instead lucky to find 1 of the tier above. Materials acquired can be sold on market, or converted into a mining kit of that material tier for market value cost. Mining kits have durability, and after said number of mining runs will be broken, repairable at half material value. 1 *Dynamite* can be used up to complete a mining expedition instantly (of a viable tier). The material tier list is as follows, with bronze being the lowest, ascending:
+  ```
+  Material |     Durability     |   Market Value (gold)
+  Bronze   |          2         |     6
+  Iron     |          4         |     8
+  Tungsten |          6         |    10
+  Corundum |         10         |    40
+  Diamond  |         14         |    80
+  ```
+  A mining kit can also be used to scale the mountain and acquire 1 Ice, destroying the mining kit at any time.
+
+* Marsh - On entry of the marsh you cannot leave until one more of your turns have passed than normal. In the marsh you can purchase a fishing rod for 20 gold, and then fish on each of your turns you are in the marsh from then on, receiving normally 50 gold, with every 3rd catch being a 'big catch' worth 80 gold. You can also for 40 gold buy an airboat, allowing you to leave the marsh for a different location at any time, including it not being your turn.
+
+* City - In the city you acquire 30 gold every one of your turns for doing your job, getting a raise of 4 gold every 3 turns. In addition, due to city infrastructure, you have no delivery fee on trades (the other player still does), and can leave the city at any time at a cost of 10 gold (taking 1 turn to reach a different location). Players in cities can also sell things at market value without paying a delivery fee (other locations must)  
+  You can also buy items on the black market:  
+  *Dynamite* 20 gold - Completes a mining run instantly.  
+  *Hired hand* 25 gold - Can be sent to a different location to acquire 1 resource within your power once  
+  *Outsourced labor* 15 gold - You can secretly outsource your job to this cheap laborer until your next turn, allowing you to travel and still get your wage.  
+  *Rifle* 25 gold - Cuts the jungle expedition time for your character down to 3 turns.
+
+* Desert - When stuck in the desert, you lose 10 gold each of your turns paying for water and shelter, and cannot leave until one more turn than you would normally be able to.
+
+A player who acquires one of each of the resources mentioned above can use it to build a magical unicorn, letting them fly between locations at will, ignoring turn addition penalties, but only being able to leave mining runs and jungle expeditions early at the cost of it being treated as not having happened (not getting the reward, but not losing durability.
+
+## 335
+
+All persons active or inactive aside from Dan, Daniel, and Ian (@█████████, @██████, and @███████ respectively) lose any player status they possess when this rule comes into effect and at the beginning of each turn for the entire turn. The three players listed here will receive 200 points at the beginning of each turn. This takes precedence over all mutable rules.
