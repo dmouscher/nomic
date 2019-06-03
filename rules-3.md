@@ -122,3 +122,17 @@ This rule takes precedence over every other rule determining the winner.
 
 ## 216
 Persons wishing to become players may request to do so publicly. Within 24 hours of the request, if no player has publicly objected or privately objected (to a server moderator or administrator) to a player joining the game, that player will join the game. If a player has objected, a vote is immediately held on whether or not the person joins the game. If there is a majority vote in favor after 24 hours of the start of the vote, that player will join the game.
+
+## 301
+
+Following the ratification of this rule, each player will select an emoji. This emoji will function as that player’s sigil. Each player must select a unique emoji. To avoid multiple players selecting the same emoji, players will take turns selecting. The order in which players select their emoji is the opposite of the turn order for Nomic III. Players may only select an emoji that is part of Discord’s default emoji sets. To select an emoji, a player must clearly indicate in the actions channel what emoji they are selecting.
+
+As a reminder, per rule 113,
+
+- Votes must be unambiguous. A vote that would be ambiguous is not considered to be a vote. Additional rules may be made to clarify what constitutes ambiguity.
+
+From here on in, if a player reacts to a proposal on discord with their emoji sigil, that will count as an unambiguous vote in favor of the proposal.
+
+New players joining the game must declare an emoji sigil once they are approved.
+
+If a player wishes to change their sigil, they must petition the group, declaring what they want their new sigil to be. This must be ratified by 2/3rds or more active players.
