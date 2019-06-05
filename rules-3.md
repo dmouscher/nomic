@@ -136,3 +136,7 @@ From here on in, if a player reacts to a proposal on discord with their emoji si
 New players joining the game must declare an emoji sigil once they are approved.
 
 If a player wishes to change their sigil, they must petition the group, declaring what they want their new sigil to be. This must be ratified by 2/3rds or more active players.
+
+## 302
+
+Votes on rule-changes can only affect proposal passing or failure. Proposals are not allowed to distinguish those who voted for it, those who voted against it, or those who did not vote on it from each other.
