@@ -140,3 +140,12 @@ If a player wishes to change their sigil, they must petition the group, declarin
 ## 302
 
 Votes on rule-changes can only affect proposal passing or failure. Proposals are not allowed to distinguish those who voted for it, those who voted against it, or those who did not vote on it from each other.
+
+## 303
+
+
+Players that are required by the rules to perform an action have a total of 48 hours to perform said action.  
+A player that does not perform said action within the allotted 48 hours becomes inactive until either they do perform said action or said action becomes impossible to perform.  
+Additional penalties and regulations may be applied.
+
+At the time of this rules passing, Doby's turn to choose a sigil is skipped and is assigned 🚼, superceeding the first paragraph of rule 301 in this instance.
