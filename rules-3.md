@@ -152,3 +152,23 @@ At the time of this rules passing, Doby's turn to choose a sigil is skipped and 
 ## 305
 
 All bots used to fulfill any action described by a rule must have their code be open source.
+
+## 307
+
+Any player may choose to form a political party during their own turn. To propose a political party, the player whose turn it is must post their intent to create a party in #actions, along with the party name and an emoji, to be used as the party’s emoji sigil. The name or the sigil of the party can only be changed by the unanimous and public consent of all party members. No party can share a name, and no party can share an emoji sigil with any other party or any player (Players cannot choose an emoji that is a political party’s emoji sigil as their own emoji sigil). A player that proposes a political party automatically joins said party.
+
+After a political party is proposed, other players may request to join it in #actions. The members of the political party then vote in #actions to determine if that player is allowed to join. A player is accepted if there is a majority vote to allow that player into the political party.
+
+Players can only be in up to one political party at a time. Players may leave their political party at any time, and automatically leave their current political party when they join a different political party.
+
+If a political party has no players, it automatically dissolves. If, throughout an entire turn, a political party has no active players, it dissolves at the end of said turn.
+Political parties become eligible voters when all of the following criteria are fulfilled:
+* There is an ongoing vote on a rule-change
+* The political party in question has at least 4 members
+* The political party in question has no inactive members
+* No member of the political party in question has changed or withdrawn their vote for the current revision of the proposed rule-change
+* Every member of the political party in question has voted and voted identically on the current revision of the proposed rule-change
+
+Political parties with eligible voter status lose their eligible voter status if the vote for the current revision of the proposed rule-change ends or if any of the above criteria cease to be fulfilled.
+
+Political parties with eligible voter status cast their vote when a member of said political party reacts to the current revision of the proposed rule change with the political party’s emoji sigil. More than one member of said political party may react to the same proposal with said emoji sigil, but no member may withdraw their react. The political party’s vote is the same as all of its members’.
