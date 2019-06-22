@@ -176,3 +176,21 @@ Political parties with eligible voter status cast their vote when a member of sa
 ## 308
 
 This proposal seeks to introduce a system of economy into the Nomic Game. The proposed unit of currency would be a Blemflarck or BF for short. All players would start with 20 Blemflarcks. Players gain 5 Blemflarcks when they vote on a proposal for the first time on a given turn of play. A player can attempt to give Blemflarcks to another player by declaring their intention in actions. This either needs to be accepted or declined by the receiving player before the end of the current turn of play. If the receiving player does not respond before the end of the turn, it is treated as a rejection. An action that would lead to a negative balance of Blemflarck is blocked automatically.
+
+## 309
+
+Things that exist are in a state of being. All active players exist. Therefore, all active players are in a state of being. This rule seeks to further specify in what kind of state all players exist in.
+
+I) The player(s) with the most Blemflarcks is/are eligible to be in a State of Greed. Players instantly lose their eligibility if/when another player(s) surpasses them in number of Blemflarcks.
+
+II) If a player joins a political party on a player’s turn, and remains in that political party until that player’s next turn, they are eligible to be in a State of Loyalty. Players instantly lose their eligibility if/when they lose their status as a member of said political party.
+
+III) If a player’s last proposal passed, they are eligible to be in a State of Honor. Players instantly lose their eligibility if/when a proposal of theirs fails.
+
+IV) If a player votes on a player’s turn, and continues to vote on every proposal until that player’s next turn comes, they are eligible to be in a State of Responsibility. If the player whose turn they voted on becomes inactive, their eligibility is instead judged by when that player’s turn would have taken place in the turn order. Players instantly lose their eligibility if/when they do not vote on a proposal.
+
+V) If a player is not eligible for any other States, they become eligible to be in a State of Passivity. Players instantly lose their eligibilty if/when they become eligible for another State.
+
+If a player is only eligible for only one State, they are automatically in that State. If a player is eligible for multiple States, and they are not already in a State, they must declare in actions which State they are in. If, as per rule 303, a player who is eligible for multiple States has not declared which State they are in within the appropriate amount of time, they are automatically assigned to a State of Headassery and are no longer eligible for any other States. At the end of each turn, players in a State of Headassery may once again become eligible for other States.
+
+Additional States may be defined in future proposals, either as amendments to this rule or as their own rules.
