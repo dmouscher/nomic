@@ -179,9 +179,9 @@ This proposal seeks to introduce a system of economy into the Nomic Game. The pr
 
 ## 309
 
-Things that exist are in a state of being. All active players exist. Therefore, all active players are in a state of being. This rule seeks to further specify in what kind of state all players exist in.
+Things that exist are in a state of being. All players exist. Therefore, all players are in a state of being. This rule seeks to further specify what kind of state all players exist in.
 
-I) The player(s) with the most Blemflarcks is/are eligible to be in a State of Greed. Players instantly lose their eligibility if/when another player(s) surpasses them in number of Blemflarcks.
+I) The player(s) with the most Blemflarcks is/are eligible to be in a State of Greed. Players instantly lose their eligibility if/when another player(s) has more Blemflarcks than them.
 
 II) If a player joins a political party on a player’s turn, and remains in that political party until that player’s next turn, they are eligible to be in a State of Loyalty. Players instantly lose their eligibility if/when they lose their status as a member of said political party.
 
@@ -191,6 +191,8 @@ IV) If a player votes on a player’s turn, and continues to vote on every propo
 
 V) If a player is not eligible for any other States, they become eligible to be in a State of Passivity. Players instantly lose their eligibilty if/when they become eligible for another State.
 
-If a player is only eligible for only one State, they are automatically in that State. If a player is eligible for multiple States, and they are not already in a State, they must declare in actions which State they are in. If, as per rule 303, a player who is eligible for multiple States has not declared which State they are in within the appropriate amount of time, they are automatically assigned to a State of Headassery and are no longer eligible for any other States. At the end of each turn, players in a State of Headassery may once again become eligible for other States.
+If a player is only eligible for one State, they are automatically in that State. If a player is eligible for multiple States, and they are already in a State, they may swap between States that they are eligible for once every 24 hours. If a player is eligible for multiple States, and they are not already in a State, they must declare in #actions which State they are in. If, as per rule 303, a player who is eligible for multiple States has not declared which State they are in within the appropriate amount of time, they are automatically assigned to a State of Headassery and are no longer eligible for any other States until the end of the current turn. At the end of each turn, players in a State of Headassery may once again become eligible for other States.
+
+If a player loses eligibility for the State that they are currently in, they are instantly no longer in that State. A player who is removed from a State in this manner must follow the above proceedings.
 
 Additional States may be defined in future proposals, either as amendments to this rule or as their own rules.
