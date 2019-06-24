@@ -64,7 +64,8 @@ An adopted rule-change takes full effect at the moment of the start of the turn 
 Every active player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
 
 ## 206
-The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours.
+
+The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours. If, at the 24-hour mark of a turn, all active players have cast an unwithdrawn vote on the current revision of the proposal, and Judgement has not been invoked during said turn, the above extension is revoked and the turn ends immediately.
 
 ## 207
 An active player becomes inactive (i.e. loses their active status) if any of the following criteria are met:
