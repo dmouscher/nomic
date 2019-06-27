@@ -197,3 +197,38 @@ If a player is only eligible for one State, they are automatically in that State
 If a player loses eligibility for the State that they are currently in, they are instantly no longer in that State. A player who is removed from a State in this manner must follow the above proceedings.
 
 Additional States may be defined in future proposals, either as amendments to this rule or as their own rules.
+
+## 312
+
++ The world is 75x75 grid map consisting of TILES. TILES exist in the following elements:
+    - WATER (aka RGB[49,108,237] squares) 
+    - LAND     (aka RGB[45, 84, 55] squares)
++ The map to be used is displayed below:
+![312 picture 1](tmpgrid.png)
++ In all rules pertaining to this map, all references to distance and adjacency include diagonals unless explicitly stated otherwise
++ Active players start by placing a Capital on an unmarked LAND TILE at least 2 TILES away from other Capitals. 
++ They will also choose a unique and easily distinguishable color used for all their MARKERS. 
++ The allowed colors for players are presented below
+![312 picture 2](Screen-Shot-2018-08-29-at-2.png)
++ Players who haven't chosen a Capital yet do so in turn order. 
+    - This is all done using !start {coordinates} {color} in actions.
+    
+    <br/>
+  
++ Once per day, players may claim any unmarked LAND TILE if it is adjacent to any of their MARKERS at a cost of 2 BF.
+    - This is done using !claim {coordinates} in actions.
+    
+    <br/>
+  
++ One may view the map in any channel.
+    - This is done using !map anywhere.
+    
+<br/>
+
++ A player's claimed TILES are marked with a medium circle MARKER.
++ A player's capital is marked with a star MARKER.  
+
+<br/>
+  
++ A bot will manage the map and associated actions with the assistance of Moderators and Admins
++ Additional mechanics may be added.
