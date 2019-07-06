@@ -246,3 +246,44 @@ Should a tile be in a state of production when taken over by a different player,
 A tile can only be in production of one resource, and can only produce resources at the rates described above. Production cannot stack on the same tile. If a player would like to change the produced item from a tile, they can do so by paying the cost of the desired tile production.  
 No tiles can enter states of production until all active players have placed capitals on the map.  
 The resources described above can be traded in the #actions channel by a player stating the resources they are trading to another player, and the resources they seek in exchange, followed by the target player accepting. A trade not accepted by the end of turn is counted as declines, and a trade cannot occur unless the players have enough of the resources outlined in the trade such that neither player has a negative amount of the resources afterwards. Players can never have a negative amount of the described resources.
+
+## 318
+
+At the beginning of each turn, Nomitron will make a post in #actions. These posts will henceforth be known as Sermons. The posts will be formatted thusly:
+
+
+> Welcome, players, to our sermon on this blessed day, \*. I invite you all to open your Nomic rulebooks to a favorite quote of mine. “\*” - \*. As you go about your day, think about this quote. Let it grant you wisdom and solace. Amen. 
+
+In each of Nomitron’s Sermons, let the first asterix in the Sermon be replaced by the date of the post.
+
+In each of Nomitron’s Sermons, let the second asterix in the Sermon be replaced by a random sentence from one of the rules in Nomic III. Nomitron shall not be limited in any way in regards to which rules it is allowed to quote. New rules can be quoted from once they are ratified.
+
+In each of Nomitron’s Sermons, let the third asterix in the Sermon be replaced by proper citation. Proper citation will be as follows: The category that the quoted rule belongs in, a number representing which paragraph in the rule the sentence quoted came from, a colon, and a number representing which number sentence in said paragraph the quote is from. Rules in the 100s are categorized as Immutables. Rules in the 200s are categorized as Starters. Rules in the 300s and beyond are categorized as Constructs.
+
+For example, a Sermon might read as follows:
+
+> Welcome, players, to our sermon on this blessed day, Monday, July 1st. I invite you all to open your Nomic rulebooks to a favorite quote of mine. “All players must always abide by all the rules then in effect, in the form in which they are then in effect.” - Immutables 1:1. As you go about your day, think about this quote. Let it grant you wisdom and solace. Amen. 
+
+Players may attend a Sermon by typing “Amen.” Players may also give a tithe of one Blemflarck to Nomitron by reacting to the Sermon with their Emoji Sigil.
+
+If a player attends a Sermon, they have a chance to receive these items with the following probabilities:
+Crackers (20%, 30% if tithe given)
+Wine (10%, 20% if tithe given)
+
+Players receive their item at the end of each turn if they don’t give a tithe. Players receive their item immediately upon giving a tithe.
+
+Nomitron will inform the player which they have received with one of the following responses:
+
+>  Thank you for attending today’s Sermon, @player. Unfortunately, supplies are limited, and I am unable to grant you a gift. I hope the wisdom you will carry with you from my Sermon will suffice. 
+
+>  Thank you for attending today’s Sermon, @player. I grant you one Cracker. May you never hunger while under my tutelage. 
+
+>  Thank you for attending today’s Sermon, @player. I grant you some Wine. It represents the fruits of your labor. I am very proud of you. 
+
+Players cannot trade Crackers or Wine amongst one another. Nomitron is always watching.
+
+Players may consume Crackers and Wine. When a player consumes Crackers or Wine, the Crackers or Wine are destroyed. Crackers and Wine may be consumed at any time. Consumption must be announced in #actions. Consuming 10 Crackers at once grants a player Divine Luck. Consuming 5 Wine at once grants a player Dionysian Aura.
+
+While buffed by Divine Luck, a player has a 1 in 3 chance to discover a treasure chest when claiming LAND TILES, which grants the player 5 Blemflarcks. A player buffed by Divine Luck loses Divine Luck after claiming three LAND TILES.
+
+While buffed by Dionysian Aura, a player can intoxicate a player, preventing them from taking any actions for twelve hours. A player buffed by Dionysian Aura loses Dionysian Aura after intoxicating a player.
