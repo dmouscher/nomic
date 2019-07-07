@@ -315,3 +315,7 @@ Players may consume Crackers and Wine. When a player consumes Crackers or Wine, 
 While buffed by Divine Luck, a player has a 1 in 3 chance to discover a treasure chest when claiming LAND TILES, which grants the player 5 Blemflarcks. A player buffed by Divine Luck loses Divine Luck after claiming three LAND TILES.
 
 While buffed by Dionysian Aura, a player can intoxicate a player, preventing them from taking any actions for twelve hours. A player buffed by Dionysian Aura loses Dionysian Aura after intoxicating a player.
+
+## 319
+
+Gay Rights
