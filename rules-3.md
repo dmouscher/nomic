@@ -204,7 +204,7 @@ Political parties with eligible voter status cast their vote when a member of sa
 
 ## 308
 
-This proposal seeks to introduce a system of economy into the Nomic Game. The proposed unit of currency would be a Blemflarck or BF for short. All players would start with 20 Blemflarcks. Players gain 5 Blemflarcks when they vote on a proposal for the first time on a given turn of play. A player can attempt to give Blemflarcks to another player by declaring their intention in actions. This either needs to be accepted or declined by the receiving player before the end of the current turn of play. If the receiving player does not respond before the end of the turn, it is treated as a rejection. An action that would lead to a negative balance of Blemflarck is blocked automatically.
+The Blemflarck, or BF, is the official unit of currency for this game of Nomic. All players would start with 20 Blemflarcks. Players gain 5 Blemflarcks at the end of a turn if they have cast a vote on a rule-change at any point in said turn. A player can attempt to give Blemflarcks to another player by declaring their intention in actions. This either needs to be accepted or declined by the receiving player before the end of the current turn of play. If the receiving player does not respond before the end of the turn, it is treated as a rejection. An action that would lead to a negative balance of Blemflarck is blocked automatically.
 
 ## 309
 
