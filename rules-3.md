@@ -362,3 +362,14 @@ Mob (EXAMPLE) - Group Of People (M1):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Can only move on land.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Movement Cost: 2 Food  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gain 4 wood/day  
+
+## 322
+
+A player can place any actions in #actions under a condition. This acts so that when the condition is met, the action is taken.
+For example a player could say "If it is {time}, then do {action}".  
+Similarly, this can act to facilitate non player-targeted trades. By placing a conditional on the desired trading item, the player can leave an offer open for another player to accept the trade.  
+Once a condition is met causing an action to occur, the conditional action is completed and will not occur the following times the condition is satisfied.  
+A player can only have a single conditional active at once, and can repeal a conditional at any time, but cannot retroactively undo  after the condition is met.  
+Any time the rules would prevent an action from being carried out, the conditional is immediately forfeit. For example, a player leaving a conditional that would give another player 10 BF while only having 5 would be unable to leave the condition active, unless the condition's satisfaction would require the action be valid.  
+To facilitate the management of conditionals, players will be responsible for managing their conditions in the newly created #conditionals channel. Within this channel, each player will be permitted one message, which they can edit to reflect their current conditional. This can also be accomplished by sending a new conditional into the channel, but the player must delete their previous condition. All messages in this channel should follow the format "If [A] then I [B]", where [A] is the condition that must be satisfied, and [B] is the action they would take given the condition's satisfaction.  
+In the case that players create conditions based on the same specific times being reached, they will resolve in the order the conditionals were created.  
