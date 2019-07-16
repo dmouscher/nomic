@@ -319,3 +319,46 @@ While buffed by Dionysian Aura, a player can intoxicate a player, preventing the
 ## 319
 
 Gay Rights
+
+## 321
+
+The items below are created and/or set as raw material in the world.
+* BF, Corn, Fish, Food, Steel, Wood, Oil, Energy, and Technology.
+
+Units are structures/organizations one may create/upgrade from a cost of raw materials and may have prerequisites.  
+Prerequisites include but are not limited to: Location and Ownership of Other Units.  
+(eg. A Missile Factory requiring a Explosives Factory)  
+Units may have daily upkeep costs as a prerequisite, which will be collected at midnight.  
+If a prerequisite for a unit is later missing, or willfully made unavailable by a players request, that unit becomes inactive and can preform no changes on the game until said prerequisite is met again.
+
+Upgrades do not inherit previous version costs.  
+Units may not share locations, cannot be harvested, and must be initially placed on, and upgraded on a player's own tiles.  
+Mobile Units may move to adjacent tiles at a movement cost.  
+Destroyed Units are completely removed.   
+Capitals may not be destroyed, and may not have units on them.  
+
+All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
+New units and upgrades may be proposed.  
+All Unit Markers will be decided by Moderators/Admins.  
+
+The Following is AN EXAMPLE:  
+Mob (EXAMPLE) - Group Of People (M1):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Food + 3 Food/Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can only move on land.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Movement Cost: 0 Food  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effects: Nothing  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Upgrades: Angry Mob(EXAMPLE) (M2):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 5 Steel + 4 Food/Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Mobile  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Can only move on land.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Movement Cost: 4 Food  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Effects: Once a turn destroy an adjacent tile unit to the mob with 50% chance of success.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ Upgrades: Lumberjacks (EXAMPLE)(L):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 5 Steel + 4 Food/Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Mobile  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Can only move on land.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Movement Cost: 2 Food  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gain 4 wood/day  
