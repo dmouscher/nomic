@@ -357,3 +357,11 @@ In the case that players create conditions based on the same specific times bein
 ## 326
 
 On their turn, a player may make a request in #actions for additional map space. For all intents and purposes, map extension requests fall under the jurisdiction of rule 210. It is the responsibility of the player making this request to specify what the map extension would look like and how it would connect to the existing map. If they fail to do this before the end of their turn, the request automatically fails. The map extension must be agreed to by at least two thirds of active players by the end of the turn. Players may indicate their approval or disapproval of the map extension in #actions in the same manner(s) as they would vote on a normal rule proposal. If the extension is ratified, the map will be updated at the end of the following turn, or at a later date formally established in #actions by one of the players responsible for implementing the change.
+
+## 327
+
+All changelog-live and map layout/design elements that have no effect on game dynamics are managed by Mods/Admins.  
+This includes but is not limited to: Marker shapes, Image Resolution, Territory Markers, and availability of information like number of harvests in changelog-live.  
+This supersedes all prior rules (e.g. lower number)  
+All future rules and rule amendments/changes that specify design/implementation of map or changelog-live elements must strictly specify  
+their superseding of this rule otherwise have this rule take precedence.  
