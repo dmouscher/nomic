@@ -360,6 +360,14 @@ On their turn, a player may make a request in #actions for additional map space.
 
 ## 327
 
+Changes to the world as it is specified in Rule 312 may not be made without the approval of a two-thirds majority of eligible voters.
+
+A change to the world is defined as the addition of, removal of, or change in the element of any TILE or TILES.
+
+This rule applies to both proposed rule-changes and other in-game mechanisms.
+
+## 328
+
 All changelog-live and map layout/design elements that have no effect on game dynamics are managed by Mods/Admins.  
 This includes but is not limited to: Marker shapes, Image Resolution, Territory Markers, and availability of information like number of harvests in changelog-live.  
 This supersedes all prior rules (e.g. lower number)  
