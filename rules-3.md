@@ -266,7 +266,7 @@ In each of Nomitron’s Sermons, let the first asterix in the Sermon be replaced
 
 In each of Nomitron’s Sermons, let the second asterix in the Sermon be replaced by a random sentence from one of the rules in Nomic III. Nomitron shall not be limited in any way in regards to which rules it is allowed to quote. New rules can be quoted from once they are ratified.
 
-In each of Nomitron’s Sermons, let the third asterix in the Sermon be replaced by proper citation. Proper citation will be as follows: The category that the quoted rule belongs in, a number representing which paragraph in the rule the sentence quoted came from, a colon, and a number representing which number sentence in said paragraph the quote is from. Rules in the 100s are categorized as Immutables. Rules in the 200s are categorized as Starters. Rules in the 300s and beyond are categorized as Constructs.
+In each of Nomitron’s Sermons, let the third asterix in the Sermon be replaced by proper citation. Proper citation will be as follows: The category that the quoted rule belongs in, a number representing which number rule in the category the sentence quoted came from, a colon, and a number representing which number sentence in said rule the quote is from. Rules in the 100s are categorized as Immutables. Rules in the 200s are categorized as Starters. Rules in the 300s and beyond are categorized as Constructs.
 
 For example, a Sermon might read as follows:
 
