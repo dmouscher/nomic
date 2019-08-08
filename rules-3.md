@@ -316,6 +316,7 @@ Units may not share locations, cannot be harvested, and must be initially placed
 Mobile Units may move to adjacent tiles at a movement cost.  
 Destroyed Units are completely removed.   
 Capitals may not be destroyed, and may not have units on them.  
+Units May Exist on Harvested Tiles, however said Harvest produces no resources so long as a unit shares the Tile. 
 
 All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
 New units and upgrades may be proposed.  
@@ -341,7 +342,48 @@ Mob (EXAMPLE) - Group Of People (M1):
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Mobile  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Can only move on land.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Movement Cost: 2 Food  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gain 4 wood/day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gain 4 wood/day 
+
+The following units are creatable:
+
+PowerPlant (P1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Steel + 12 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produce 5 Energy/Day  
+
+Granary (G1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 12 Corn/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 10 Food/Day  
+
+Mill (L1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 5 Wood/Day  
+
+Oil (O1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Or Water  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Oil/Day  
+
+Mines (S1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Steel/Day  
+
+University (U1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day + 2 Steel/Day + 2 Energy/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 4 Technology/Day  
+
+ExplorerGuild (E1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 25 Steel  
+|&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Base daily claim limit increased by 5.  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BF Cost increases by 1 for every purchased claim that day, and is reset to 2 BF the next day.  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claim Cost Optionally In Food Amount Equal to Sum Of Horizontal And Vertical Distance In Tiles From Capital.  
+L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eg. A tile 5 units left and 3 units down from capital costs 5+3=8 Food to claim  
 
 ## 322
 
