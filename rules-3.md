@@ -400,7 +400,7 @@ In the case that players create conditions based on the same specific times bein
 
 On their turn, a player may make a request in #actions for additional map space. For all intents and purposes, map extension requests fall under the jurisdiction of rule 210. It is the responsibility of the player making this request to specify what the map extension would look like and how it would connect to the existing map. If they fail to do this before the end of their turn, the request automatically fails. The map extension must be agreed to by at least two thirds of active players by the end of the turn. Players may indicate their approval or disapproval of the map extension in #actions in the same manner(s) as they would vote on a normal rule proposal. If the extension is ratified, the map will be updated at the end of the following turn, or at a later date formally established in #actions by one of the players responsible for implementing the change.
 
-## 327
+## 327 (IMMUTABLE)
 
 Changes to the world as it is specified in Rule 312 may not be made without the approval of a two-thirds majority of eligible voters.
 
