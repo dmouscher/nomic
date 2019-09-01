@@ -243,17 +243,17 @@ The Blemflarck, or BF, is the official unit of currency for this game of Nomic. 
 
 ## 314
 
-This proposal looks to build off of rule 312.  
-At a cost of blemflarck, a player can start harvesting resources from their controlled tiles on the map.  
-For 4 BF, a player can start a tile's production of perpetual resources. Perpetual resources will produce 5 units of their resource a turn. A LAND tile will produce the perpetual resource of corn.  
-A WATER tile will produce the perpetual resource of fish.  
-For 7 BF, a player can start a non-perpetual operation on a tile. This operation will produce 1 of the tile's non-perpetual resource each turn for the next 5 turns, after which the tile will lose its status  of producing the resource. At a cost of more BF it can reenter this status.  
-A LAND tile will produce the non-perpetual resource of steel.  
-A WATER tile will produce the non-perpetual resource of oil.  
-Should a tile be in a state of production when taken over by a different player, it will then contribute those resources produced to the new owner.  
-A tile can only be in production of one resource, and can only produce resources at the rates described above. Production cannot stack on the same tile. If a player would like to change the produced item from a tile, they can do so by paying the cost of the desired tile production.  
-No tiles can enter states of production until all active players have placed capitals on the map.  
-The resources described above can be traded in the #actions channel by a player stating the resources they are trading to another player, and the resources they seek in exchange, followed by the target player accepting. A trade not accepted by the end of turn is counted as declines, and a trade cannot occur unless the players have enough of the resources outlined in the trade such that neither player has a negative amount of the resources afterwards. Players can never have a negative amount of the described resources.
+This proposal looks to build off of rule 312.
+At a cost of blemflarck, a player can start harvesting resources from their controlled tiles on the map.
+For 4 BF, a player can start a tile's production of perpetual resources. Perpetual resources will produce 3 units of their resource a Day. A LAND tile will produce the perpetual resource of corn.
+A WATER tile will produce the perpetual resource of fish.
+For 7 BF, a player can start a non-perpetual operation on a tile. This operation will produce 1 of the tile's non-perpetual resource each Day for the next 5 days, after which the tile will lose its status  of producing the resource. At a cost of more BF it can reenter this status.
+A LAND tile will produce the non-perpetual resource of steel.
+A WATER tile will produce the non-perpetual resource of oil.
+Should a tile be in a state of production when taken over by a different player, it will then contribute those resources produced to the new owner.
+A tile can only be in production of one resource, and can only produce resources at the rates described above. Production cannot stack on the same tile. If a player would like to change the produced item from a tile, they can do so by paying the cost of the desired tile production.
+No tiles can enter states of production until all active players have placed capitals on the map.
+The resources described above can be traded in the #actions channel by a player stating the resources they are trading to another player, and the resources they seek in exchange, followed by the target player accepting. A trade not accepted by the end of turn is counted as declined, and a trade cannot occur unless the players have enough of the resources outlined in the trade such that neither player has a negative amount of the resources afterwards. Players can never have a negative amount of the described resources.
 
 ## 318
 
