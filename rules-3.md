@@ -415,3 +415,13 @@ This includes but is not limited to: Marker shapes, Image Resolution, Territory 
 This supersedes all prior rules (e.g. lower number)  
 All future rules and rule amendments/changes that specify design/implementation of map or changelog-live elements must strictly specify  
 their superseding of this rule otherwise have this rule take precedence.  
+
+## 348
+
+Each LAND tile has a 1/175 chance of spawning a Town Unit when this proposal passes.
+Players may claim tiles with a Town on them.
+
+Town (Diamons):
+&nbsp;&nbsp;&nbsp;&nbsp;Land Only.
+&nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:
+&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day. 
