@@ -418,10 +418,10 @@ their superseding of this rule otherwise have this rule take precedence.
 
 ## 348
 
-Each LAND tile has a 1/175 chance of spawning a Town Unit when this proposal passes.
+Each LAND tile has a 1/175 chance of spawning a Town Unit when this proposal passes.  
 Players may claim tiles with a Town on them.
 
-Town (Diamons):
-&nbsp;&nbsp;&nbsp;&nbsp;Land Only.
-&nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:
-&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day. 
+Town (Diamons):  
+&nbsp;&nbsp;&nbsp;&nbsp;Land Only.  
+&nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:  
+&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day.  
