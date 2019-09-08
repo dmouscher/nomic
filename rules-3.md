@@ -432,3 +432,21 @@ When a new player joins they gain bf equal to the minimum possible amount of vot
 
 Retroactive Compensation:  
 Jana gains 50 BF and 10 free claims that expire after 24 hours to compensate for joining later than others.
+
+## 351
+
+Players will be allowed to trade a negotiated amount of adjacent tiles among themselves. Once any two players arrive at a final trade. They would have to declare the assets exchanged by listing the exact assets transferred in #actions in the format:
+
+Asset Exchange
+
+Player 1 gives to Player 2: 
+
+Asset 1  
+Asset 2
+
+Player 2 gives to Player 1:
+
+Asset 1  
+Asset 2
+
+Once this is posted @Crorem  or @Fenris Wolf would proceed to ensure the transaction is processsed accordingly.
