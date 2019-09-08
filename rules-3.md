@@ -425,3 +425,10 @@ Town (Diamons):
 &nbsp;&nbsp;&nbsp;&nbsp;Land Only.  
 &nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:  
 &nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day.  
+
+## 350
+
+When a new player joins they gain bf equal to the minimum possible amount of voting bf gains from before they joined (5 blemflarks every 2 days) to the date that blemflarks were introduced 6/18/2019. Upon day of using the !start command new players gain 6 free claims to establish some units and some harvests on their first day. If not used these free claims go away after 24 hours. 
+
+Retroactive Compensation:  
+Jana gains 50 BF and 10 free claims that expire after 24 hours to compensate for joining later than others.
