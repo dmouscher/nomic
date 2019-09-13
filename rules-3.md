@@ -451,7 +451,7 @@ Asset 2
 
 Once this is posted @Crorem  or @Fenris Wolf would proceed to ensure the transaction is processsed accordingly.
 
-## 353
+## 354
 
 This rule establishes the creation of the resource Gloop. Krozr may join the game under these conditions:
 
