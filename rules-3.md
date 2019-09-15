@@ -416,7 +416,7 @@ This supersedes all prior rules (e.g. lower number)
 All future rules and rule amendments/changes that specify design/implementation of map or changelog-live elements must strictly specify  
 their superseding of this rule otherwise have this rule take precedence.  
 
-## 348
+## 349
 
 Each LAND tile has a 1/175 chance of spawning a Town Unit when this proposal passes.  
 Players may claim tiles with a Town on them.
@@ -426,14 +426,14 @@ Town (Diamons):
 &nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:  
 &nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day.  
 
-## 350
+## 351
 
 When a new player joins they gain bf equal to the minimum possible amount of voting bf gains from before they joined (5 blemflarks every 2 days) to the date that blemflarks were introduced 6/18/2019. Upon day of using the !start command new players gain 6 free claims to establish some units and some harvests on their first day. If not used these free claims go away after 24 hours. 
 
 Retroactive Compensation:  
 Jana gains 50 BF and 10 free claims that expire after 24 hours to compensate for joining later than others.
 
-## 351
+## 352
 
 Players will be allowed to trade a negotiated amount of adjacent tiles among themselves. Once any two players arrive at a final trade. They would have to declare the assets exchanged by listing the exact assets transferred in #actions in the format:
 
@@ -451,7 +451,7 @@ Asset 2
 
 Once this is posted @Crorem  or @Fenris Wolf would proceed to ensure the transaction is processsed accordingly.
 
-## 353
+## 354
 
 This rule establishes the creation of the resource Gloop. Krozr may join the game under these conditions:
 
@@ -477,7 +477,7 @@ This rule establishes the creation of the resource Gloop. Krozr may join the gam
 
 11) He can never win
 
-## 354
+## 355
 
 Players can trade items between each other, unless a rule specifically prohibits trading an item.
 
