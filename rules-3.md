@@ -508,3 +508,16 @@ A member of the Fed may propose a change in any rate's velocity in #actions. The
 Velocity Adjustment Petitions cannot be edited or deleted. A Velocity Adjustment Petition that is edited and not yet passed is no longer considered to be a Velocity Adjustment Petition. The first time a player edits or deletes a Velocity Adjustment Petition will cause said player to be unable create any Velocity Adjustment Petitions for the next 24 hours, and any subsequent times said player edits or deletes a Velocity Adjustment Petition will bar said player from creating any Velocity Adjustment Petitions for the remainder of their term as a member of the Fed.
 
 When the Fed rotates, all outstanding Velocity Adjustment Petitions become invalid and must be reproposed by the new members of the Fed, should they wish.
+
+## 356
+
+The groups Raw Materials, Materials, and Resources are:  
+&nbsp;&nbsp;&nbsp;&nbsp;defined equal to each other and visa versa,  
+&nbsp;&nbsp;&nbsp;&nbsp;a subset of items,  
+&nbsp;&nbsp;&nbsp;&nbsp;contain tradable unless stated otherwise,  
+&nbsp;&nbsp;&nbsp;&nbsp;contain items with non negative quantaties,  
+&nbsp;&nbsp;&nbsp;&nbsp;contain items with integer amounts only.  
+&nbsp;&nbsp;&nbsp;&nbsp;contain the following:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corn, Fish, Food, Steel, Wood, Oil, Energy, and Technology.  
+
+BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Materials, or Resources.
