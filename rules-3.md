@@ -246,7 +246,7 @@ The Blemflarck, or BF, is the official unit of currency for this game of Nomic. 
 This proposal looks to build off of rule 312.
 At a cost of blemflarck, a player can start harvesting resources from their controlled tiles on the map.
 For 4 BF, a player can start a tile's production of perpetual resources. Perpetual resources will produce 3 units of their resource a Day. A LAND tile will produce the perpetual resource of corn.
-A WATER tile will produce the perpetual resource of fish.
+A WATER tile will produce nothing.
 For 7 BF, a player can start a non-perpetual operation on a tile. This operation will produce 1 of the tile's non-perpetual resource each Day for the next 5 days, after which the tile will lose its status  of producing the resource. At a cost of more BF it can reenter this status.
 A LAND tile will produce the non-perpetual resource of steel.
 A WATER tile will produce the non-perpetual resource of oil.
@@ -303,7 +303,7 @@ Gay Rights
 ## 321
 
 The items below are created and/or set as raw material in the world.
-* BF, Corn, Fish, Food, Steel, Wood, Oil, Energy, and Technology.
+* BF, Corn, Food, Steel, Wood, Oil, Energy, and Technology.
 
 Units are structures/organizations one may create/upgrade from a cost of raw materials and may have prerequisites.  
 Prerequisites include but are not limited to: Location and Ownership of Other Units.  
@@ -518,6 +518,10 @@ The groups Raw Materials, Materials, and Resources are:
 &nbsp;&nbsp;&nbsp;&nbsp;contain items with non negative quantaties,  
 &nbsp;&nbsp;&nbsp;&nbsp;contain items with integer amounts only.  
 &nbsp;&nbsp;&nbsp;&nbsp;contain the following:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corn, Fish, Food, Steel, Wood, Oil, Energy, and Technology.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corn, Food, Steel, Wood, Oil, Energy, and Technology.  
 
 BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Materials, or Resources.
+
+## 357
+
+Fish is eliminated from the game. Fish towns have a random role to be any other type of town. Modify rules to not have fish. Also Janwich gets 5 compensation fish as condolences for giving up her dream of getting fish, and all other fish players own is turned into compensation fish. Players can use 1 compensation fish to slap someone, it does nothing. But hey compensation!
