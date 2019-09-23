@@ -529,3 +529,19 @@ Fish is eliminated from the game. Fish towns have a random role to be any other 
 ## 358
 
 Persons may not pretend to be multiple players at once. Persons that are found to have done this are banned from the game.
+
+## 360
+
+Units, harvests, and claims may be razed (removed) by the player who owns them.
+
+Razing a claim costs nothing. It refunds nothing.
+
+Razing a harvest costs 1 BF. It refunds 1 item each for every kind of item it produced.
+
+Razing a unit costs 2 BF. It refunds 1 item each for every kind of item it produced if it produced any items, 1 item each for every kind of item required for daily upkeep if it required a daily upkeep, and 20% of the initial build cost rounded up to the nearest whole number, if it had any initial build cost.
+
+The commands for doing these will be, respectively:
+
+!raze claim coordinates  
+!raze harvest coordinates  
+!raze unit coordinates  
