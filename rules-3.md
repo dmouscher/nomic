@@ -525,3 +525,7 @@ BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Ma
 ## 357
 
 Fish is eliminated from the game. Fish towns have a random role to be any other type of town. Modify rules to not have fish. Also Janwich gets 5 compensation fish as condolences for giving up her dream of getting fish, and all other fish players own is turned into compensation fish. Players can use 1 compensation fish to slap someone, it does nothing. But hey compensation!
+
+## 358
+
+Persons may not pretend to be multiple players at once. Persons that are found to have done this are banned from the game.
