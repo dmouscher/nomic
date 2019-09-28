@@ -424,7 +424,7 @@ Players may claim tiles with a Town on them.
 Town (Diamons):  
 &nbsp;&nbsp;&nbsp;&nbsp;Land Only.  
 &nbsp;&nbsp;&nbsp;&nbsp;Cost: 100 BF:  
-&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a resouce and gives 2 of that resouce every day.  
+&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a raw material and gives 2 of that raw material every day.  
 
 ## 351
 
