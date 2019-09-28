@@ -305,7 +305,7 @@ Gay Rights
 The items below are created and/or set as raw material in the world.
 * BF, Corn, Food, Steel, Wood, Oil, Energy, and Technology.
 
-Units are structures/organizations one may create/upgrade from a cost of raw materials and may have prerequisites.  
+Units are structures/organizations one may create/upgrade from a cost of items and may have prerequisites.  
 Prerequisites include but are not limited to: Location and Ownership of Other Units.  
 (eg. A Missile Factory requiring a Explosives Factory)  
 Units may have daily upkeep costs as a prerequisite, which will be collected at midnight.  
@@ -313,6 +313,7 @@ If a prerequisite for a unit is later missing, or willfully made unavailable by 
 
 Upgrades do not inherit previous version costs.  
 Units may not share locations, cannot be harvested, and must be initially placed on, and upgraded on a player's own tiles.  
+It is allowed to place units on tiles adjacent to the player's own claims(eg boats on water next to cliamed beaches)  
 Mobile Units may move to adjacent tiles at a movement cost.  
 Destroyed Units are completely removed.   
 Capitals may not be destroyed, and may not have units on them.  
@@ -321,6 +322,9 @@ Units May Exist on Harvested Tiles, however said Harvest produces no resources s
 All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
 New units and upgrades may be proposed.  
 All Unit Markers will be decided by Moderators/Admins.  
+
+Every unit can be moved to any valid location at a cost of 3^N Energy if not mobile.  
+N is equal to the amount of times the Unit has been moved previously.  
 
 The Following is AN EXAMPLE:  
 Mob (EXAMPLE) - Group Of People (M1):  
@@ -384,6 +388,11 @@ ExplorerGuild (E1):
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BF Cost increases by 1 for every purchased claim that day, and is reset to 2 BF the next day.  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claim Cost Optionally In Food Amount Equal to Sum Of Horizontal And Vertical Distance In Tiles From Capital.  
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eg. A tile 5 units left and 3 units down from capital costs 5+3=8 Food to claim  
+
+Wall (Cost 7 Steel):  
+Is placeable on land only  
+Not Mobile  
+Stops 2 targeted effects on its tile if effect originated not from its owner, then is removed. (blocking attacks and similar tile targeted effects)
 
 ## 322
 
