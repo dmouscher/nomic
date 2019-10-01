@@ -531,7 +531,9 @@ The groups Raw Materials, Materials, and Resources are:
 &nbsp;&nbsp;&nbsp;&nbsp;contain the following:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corn, Food, Steel, Wood, Oil, Energy, and Technology.  
 
-BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Materials, or Resources.
+BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Materials, or Resources.  
+This proposal supersedes 321 and 354  
+All towns producing items that are no longer raw materials are rerolled
 
 ## 357
 
