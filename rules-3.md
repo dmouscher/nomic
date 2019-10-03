@@ -558,3 +558,7 @@ The commands for doing these will be, respectively:
 !raze claim coordinates  
 !raze harvest coordinates  
 !raze unit coordinates  
+
+## 364
+
+If 'The Oracle' does not place a capital or become active within 24 hours of this passing, rule 354 is removed.
