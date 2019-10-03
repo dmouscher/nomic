@@ -460,32 +460,6 @@ Asset 2
 
 Once this is posted @Crorem  or @Fenris Wolf would proceed to ensure the transaction is processsed accordingly.
 
-## 354
-
-This rule establishes the creation of the resource Gloop. Krozr may join the game under these conditions:
-
-1) He can only speak/propose in rhyme when regarding the game
-
-2) Nomitron addresses him only as "The Oracle"
-
-3) He begins at level 1
-
-4) If the amount of 'nays' on a proposal at the end of the turn is an odd number he levels up
-
-5) If he reaches level 10 he can turn all existing resources of a specific type in the game into Gloop
-
-6) Upon using his ability specified in part 5, or upon reaching level 11, he reverts back to level 1
-
-7) If his level is even he must always tell the truth; if it is odd he must always lie. This extends to everything he is asked. If he is caught making a mistake, he is kicked from the game
-
-8) His vote will always be the option that insights more chaos
-
-9) If a player collects 1,000,000,000 Gloop, all of their resources are swapped with the player holding the lowest amount of Gloop. Following this, all players’ Gloop resources are reset to 0
-
-10) He theoretically knows the future
-
-11) He can never win
-
 ## 355
 
 Players can trade items between each other, unless a rule specifically prohibits trading an item.
