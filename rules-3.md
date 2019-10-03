@@ -536,3 +536,7 @@ The commands for doing these will be, respectively:
 ## 364
 
 If 'The Oracle' does not place a capital or become active within 24 hours of this passing, rule 354 is removed.
+
+## 365
+
+Everyone gets 1 BF
