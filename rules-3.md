@@ -540,3 +540,35 @@ If 'The Oracle' does not place a capital or become active within 24 hours of thi
 ## 365
 
 Everyone gets 1 BF
+
+## 366
+
+1. Statehood  
+&nbsp;&nbsp;&nbsp;&nbsp;1. The criteria for being a state are as follows. 1) A state must control territory 2) effectively administer that territory and 3) have an embassy unit.  
+2. Alliance  
+&nbsp;&nbsp;&nbsp;&nbsp;1. An association between two or more states.  
+3. All states have nominal equality.  
+4. The term state and nation are functionally interchangeable.  
+5. A player may request to become a state if that player has successfully fulfilled the previously stated criteria for statehood.   
+6. Conditionals can only used by states with an Embassy.  
+7. This proposal is not case sensitive.  
+8. This proposal supersedes rule 322.  
+9. Trading Diplomats  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Player A may in #Actions propose to player B a trade of diplomats.  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Player B may accept or decline by a thumbs up emoji for accept, thumbs down emoji for decline, written response or any other clear and affirmative means that is not verbal/oral.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. e.g. @playerB i propose a trade of diplomats.  
+10. Units  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Embassy (EB)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 15 steel + 2 Technology  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Land  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Immobile  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Effect(s)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Allows for the production of up to 3 Diplomats.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Allows for states to change its allegiances willingly.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. If you and another state have Diplomats in each others embassy then you have an alliance with that state(s).  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Diplomats (D)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 2 Technology + 4 Corn/Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Land  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mobile  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Effect(s)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Can be traded to another state with a Diplomat and active Embassy.   
