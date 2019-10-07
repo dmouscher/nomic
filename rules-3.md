@@ -571,4 +571,44 @@ Everyone gets 1 BF
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Land  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mobile  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Effect(s)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Can be traded to another state with a Diplomat and active Embassy.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Can be traded to another state with a Diplomat and active Embassy.
+
+## 367
+
+Vinny the Vagabond is an explorer from a far away land. He spawns on a random tile on the border of the map, designated by a smiley face. Every day, he moves one tile in a random direction. After moving each day he has a 6% chance of triggering an Event. Every time Vinny moves, the tile coordinates are posted in #actions. If an Event is triggered, the name of the Event is posted in #actions.
+
+Events that may only occur when Vinny moves to a LAND tile are:
+
+ARCHAEOLOGICAL DISCOVERY: If a tile does not already have a unit on it, Vinny happens upon some ancient ruins.
+
+Dig Site:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: Only Vinny can discover Dig Sites.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effect: Every day, a Dig Site has a 5% chance of discovering an Artifact. A Dig Site can only have one Artifact at a time. Artifacts can be consumed by players for their choice of five of any raw material.  
+
+
+FIRST CONTACT: If a tile does not already have a unit on it, Vinny discovers a small village.
+
+Village:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: Only Vinny can discover Villages.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effect: Randomly choose a raw material and gives 1 of that raw material every day.  
+
+Events that may only occur when Vinny moves to a WATER tile are:
+
+ATLANTEAN ENVOY: Vinny comes into contact with an Atlantian who has heard of Vinny’s exploits and offers to lend a helping hand. For 5 days, if Vinny moves from one Water tile to another Water tile, he gets an additional move. Only the second tile can trigger an event.
+
+RELEASE THE KRAKEN: Vinny, hero that he is, is set upon by a monstrous creature from the deep. He is victorious, but the creature is so massive that its corpse results in a MEAT tile. A MEAT tile:
+
+- Can be claimed
+- Cannot be harvested
+- Can’t have a capital on it
+- Can’t have the following units on it: Town, Village, Dig Site, Mill, Oil, Mine, Wall.
+
+A vote in favor of this proposal counts as approval of any future MEAT tiles that may result from the triggering of the RELEASE THE KRAKEN event.
+
+Events that may occur on both LAND and WATER tiles are:
+
+LEGENDARY EXPLORER: Vinny boosts the morale of the workers at any nearby units or harvests in a three tile radius, doubling their production for one day.
+
+EXPLOSIVE ADVENTURE: Vinny sets off a mine. He is unharmed due to min-maxing, but sent flying 10 tiles in a random direction, or until he hits the edge of the map. He really ought to be more careful.
