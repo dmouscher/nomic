@@ -533,11 +533,11 @@ The commands for doing these will be, respectively:
 !raze harvest coordinates  
 !raze unit coordinates  
 
-## 364
+## 364 (TRANSIENT)
 
 If 'The Oracle' does not place a capital or become active within 24 hours of this passing, rule 354 is removed.
 
-## 365
+## 365 (TRANSIENT)
 
 Everyone gets 1 BF
 
