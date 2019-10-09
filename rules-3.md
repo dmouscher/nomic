@@ -612,3 +612,17 @@ Events that may occur on both LAND and WATER tiles are:
 LEGENDARY EXPLORER: Vinny boosts the morale of the workers at any nearby units or harvests in a three tile radius, doubling their production for one day.
 
 EXPLOSIVE ADVENTURE: Vinny sets off a mine. He is unharmed due to min-maxing, but sent flying 10 tiles in a random direction, or until he hits the edge of the map. He really ought to be more careful.
+
+## 368
+
+Rules are either transient or nontransient. Rules are by default nontransient. Existing rules can be designated as transient or nontransient by amendments or other rules. New rules can be designated as transient if the proposal enacting said rule states so. Such a designation is part of the proposal and is not included in the text of the proposed rule.
+
+A transient rule will repeal itself after either of the following conditions are fulfilled:
+* The rule exerts a change on the game state
+* It is impossible for the rule to exert a change on the game state without directly amending said rule
+
+Transient rules may not define game constructs; a proposal that would create such a rule is not valid. Immutable rules cannot be transient, and a transient rule that is transmuted to an immutable rule loses its transience.
+
+If the current proposed rule-change is to amend a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered a proposal to reenact the transient rule instead. If the current proposed rule-change is to repeal a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered automatically defeated when its voting period is over, regardless of the votes that it receives.
+
+Following the passage of this rule, Rules 364 and 365 are designated as transient, and this paragraph is subsequently deleted.
