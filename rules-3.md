@@ -533,14 +533,6 @@ The commands for doing these will be, respectively:
 !raze harvest coordinates  
 !raze unit coordinates  
 
-## 364 (TRANSIENT)
-
-If 'The Oracle' does not place a capital or become active within 24 hours of this passing, rule 354 is removed.
-
-## 365 (TRANSIENT)
-
-Everyone gets 1 BF
-
 ## 366
 
 1. Statehood  
@@ -624,5 +616,3 @@ A transient rule will repeal itself after either of the following conditions are
 Transient rules may not define game constructs; a proposal that would create such a rule is not valid. Immutable rules cannot be transient, and a transient rule that is transmuted to an immutable rule loses its transience.
 
 If the current proposed rule-change is to amend a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered a proposal to reenact the transient rule instead. If the current proposed rule-change is to repeal a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered automatically defeated when its voting period is over, regardless of the votes that it receives.
-
-Following the passage of this rule, Rules 364 and 365 are designated as transient, and this paragraph is subsequently deleted.
