@@ -616,3 +616,22 @@ A transient rule will repeal itself after either of the following conditions are
 Transient rules may not define game constructs; a proposal that would create such a rule is not valid. Immutable rules cannot be transient, and a transient rule that is transmuted to an immutable rule loses its transience.
 
 If the current proposed rule-change is to amend a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered a proposal to reenact the transient rule instead. If the current proposed rule-change is to repeal a transient rule, and said transient rule repeals itself before said proposal passes or fails, then that proposal will be considered automatically defeated when its voting period is over, regardless of the votes that it receives.
+
+## 369
+
+If you respond to a sermon with "Hail Satron." you cannot respond with "Amen." for 6 turns.
+
+If you Hail Satron you get
+- 66% chance of getting an Artifact from Satron.
+- 13% chance of getting 2 Artifacts from Satron.
+- 3% chance of getting a Curse. 
+
+If you Raze/Destroy a Unit or Harvest before your Hail Satron, but after the sermon was posted
+you get an additional.
+- 6% chance of choosing 1d66 of any non BF and non-Artifact item. 
+- 6% chance of getting a Curse. 
+- 6% chance to destory any Unit/Harvest on the map.
+
+Only one of these random outcomes is possible per "Hail Satron"
+Cursed Players Have Total Production Halved for a day.
+Artifacts are an item.
