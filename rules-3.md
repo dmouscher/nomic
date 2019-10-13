@@ -638,5 +638,5 @@ Artifacts are an item.
 
 ## 370
 
-Every perpetual harvest can be moved to any valid location at a cost of 3^N Energy.
+Every perpetual harvest can be moved to any valid location at a cost of 3^N Energy.  
 N is equal to the amount of times the harvest has been moved previously.
