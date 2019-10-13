@@ -635,3 +635,8 @@ you get an additional.
 Only one of these random outcomes is possible per "Hail Satron"
 Cursed Players Have Total Production Halved for a day.
 Artifacts are an item.
+
+## 370
+
+Every perpetual harvest can be moved to any valid location at a cost of 3^N Energy.
+N is equal to the amount of times the harvest has been moved previously.
