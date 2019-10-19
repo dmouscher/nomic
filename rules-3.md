@@ -535,9 +535,9 @@ The commands for doing these will be, respectively:
 
 ## 366
 
-1. Statehood
+1. Statehood  
 &nbsp;&nbsp;&nbsp;&nbsp;1. The criteria for being a state are as follows. 1) A state must control territory 2) effectively administer that territory and 3) have an embassy unit.
-2. Alliance
+2. Alliance  
 &nbsp;&nbsp;&nbsp;&nbsp;1. An association between two or more states. 
 3. All states have nominal equality.
 4. The term state and nation are functionally interchangeable.
