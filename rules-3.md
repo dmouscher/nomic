@@ -575,7 +575,7 @@ The commands for doing these will be, respectively:
 
 ## 367
 
-Vinny the Vagabond is an explorer from a far away land. He spawns on a random tile on the border of the map, designated by a smiley face. Every day, he moves one tile in a random direction. After moving each day he has a 6% chance of triggering an Event. Every time Vinny moves, the tile coordinates are posted in #actions. If an Event is triggered, the name of the Event is posted in #actions.
+Vinny the Vagabond is an explorer from a far away land. He spawns on a random tile on the border of the map. Every day, he makes two to four one tile movements in a random direction. He is 50% more likely to favor tiles that he has never moved to before. After the final movement of each day, he has a 10% chance of triggering an Event. Every time Vinny moves, the tile coordinates are posted in #actions. If an Event is triggered, the name of the Event is posted in #actions.
 
 Events that may only occur when Vinny moves to a LAND tile are:
 
@@ -596,7 +596,7 @@ Village:
 
 Events that may only occur when Vinny moves to a WATER tile are:
 
-ATLANTEAN ENVOY: Vinny comes into contact with an Atlantian who has heard of Vinny’s exploits and offers to lend a helping hand. For 5 days, if Vinny moves from one Water tile to another Water tile, he gets an additional move. Only the second tile can trigger an event.
+ATLANTEAN ENVOY: Vinny comes into contact with an Atlantean who has heard of Vinny’s exploits and offers to lend a helping hand. For 5 days, after his initial 2-4 movements, he gains an additional movement for every time he moved from one Water tile to another Water tile.
 
 RELEASE THE KRAKEN: Vinny, hero that he is, is set upon by a monstrous creature from the deep. He is victorious, but the creature is so massive that its corpse results in a MEAT tile. A MEAT tile:
 
@@ -611,7 +611,7 @@ Events that may occur on both LAND and WATER tiles are:
 
 LEGENDARY EXPLORER: Vinny boosts the morale of the workers at any nearby units or harvests in a three tile radius, doubling their production for one day.
 
-EXPLOSIVE ADVENTURE: Vinny sets off a mine. He is unharmed due to min-maxing, but sent flying 10 tiles in a random direction, or until he hits the edge of the map. He really ought to be more careful.
+EXPLOSIVE ADVENTURE: Vinny sets off a mine. He is unharmed due to min-maxing, but sent flying 12 tiles in a random direction, or until he hits the edge of the map. He really ought to be more careful. For the purposes of ATLANTEAN ENVOY, this only counts as one movement.
 
 ## 368
 
