@@ -496,18 +496,14 @@ When the Fed rotates, all outstanding Velocity Adjustment Petitions become inval
 
 ## 356
 
-The groups Raw Materials, Materials, and Resources are:  
-&nbsp;&nbsp;&nbsp;&nbsp;defined equal to each other and visa versa,  
-&nbsp;&nbsp;&nbsp;&nbsp;a subset of items,  
-&nbsp;&nbsp;&nbsp;&nbsp;contain tradable unless stated otherwise,  
-&nbsp;&nbsp;&nbsp;&nbsp;contain items with non negative quantaties,  
-&nbsp;&nbsp;&nbsp;&nbsp;contain items with integer amounts only.  
-&nbsp;&nbsp;&nbsp;&nbsp;contain the following:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corn, Food, Steel, Wood, Oil, Energy, and Technology.  
+An in-game entity is an item if the following is true:
+* There can only be exactly one owner of any one single quantity of said entity 
+* There is nothing distinguishing any one single quantity of said entity with any other single quantity of said entity aside from ownership
+* It is not explicitly allowed to have a fractional quantity of said entity
 
-BF, Gloop, Wine, and Crackers are defined as items, but not as Raw Materials, Materials, or Resources.  
-This proposal supersedes 321 and 354  
-All towns producing items that are no longer raw materials are rerolled
+Points are not items, notwithstanding the above definition. Items are tradable unless stated otherwise. There can be no fractional quantity, nor any negative quantity, of an item. If a performed action would lead to a player having a negative quantity of said item, it is blocked. If a player were to obtain a fractional quantity of any item, said player obtains the floor of that quantity instead.
+
+A list of items and item categories, to the best of the server administrator's understanding, will be publicly provided and updated as needed.
 
 ## 357
 
