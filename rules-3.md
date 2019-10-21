@@ -636,8 +636,8 @@ you get an additional.
 - 6% chance of getting a Curse. 
 - 6% chance to destory any Unit/Harvest on the map.
 
-Only one of these random outcomes is possible per "Hail Satron"
-Cursed Players Have Total Production Halved for a day.
+Only one of these random outcomes is possible per "Hail Satron"  
+Cursed Players Have Total Production Halved for a day.  
 Artifacts are an item.
 
 ## 370
