@@ -651,3 +651,53 @@ N is equal to the amount of times the harvest has been moved previously.
 ## 375
 
 For 100bf any player may purchase a custom emoji slot on the discord. If their image is deemed inappropriate by the mods they must change it. Players may trade their custom emoji slots
+
+## 376
+
+#### Technology Tree
+
+Players can now purchase technological advancements in the form of “Tech Nodes” in the #Actions-map chat with the new command “!tech (Tech Name)”. The command “!tech” lists all available technology nodes to purchase. Tech nodes can be bought with the technology resource. Tech nodes are effects that apply only to the player that has purchased them. Nodes can be effects that affect the player and that players units. Once a technology is purchased it cannot be purchased again unless specifically stated. For tech nodes that can be purchased more than once their cost doubles each time after the first. Players cannot lose a tech node once purchased.  
+This proposal is not case sensitive.  
+
+#### Upgrades
+
+For tech nodes that are upgrades they allow for currently controlled units to be upgraded. Upgrades can only be purchased 10 times. Once an upgrade tech is purchased all units of that type are upgraded to the new tech level. This is true for all new units created of that type as well.
+
+#### Tech Nodes
+
+1. Granary Upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 5 technology  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Owns at least 1 granary.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Produce 1 more resource. Each time this is purchased the amount of production is increased by 1.  
+2. Mine Upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 5 technology  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Owns at least 1 mine.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Produce 1 more resource. Each time this is purchased the amount of production is increased by 1.  
+3. Oil Upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 5 technology  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Owns at least 1 Oil unit.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Produce 1 more resource. Each time this is purchased the amount of production is increased by 1.  
+4. Powerplant Upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 5 technology  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Owns at least 1 powerplant.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Produce 1 more resource. Each time this is purchased the amount of production is increased by 1.  
+5. University  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost: 5 technology  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Owns at least 1 University.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Produce 1 more resource. Each time this is purchased the amount of production is increased by 1.  
+6. Sailing  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost 40 tech  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Has territory that borders a water tile.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Allows for the production of sail boat units.  
+7. Sailing upgrade  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost 15 tech  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Prerequisite: Has at least 1 sail boat.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Effect: Increases the distance sail boats can travel to 2 distance away from a land tile. Each time this is purchased the amount of production is increased by 1.  
+
+#### Units
+
+1. Sail Boat  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Cost 15 wood and 12 energy  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Mobil: Can move 1 tile per day at a distance of 1 tile from and land tile.  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Boats do not count as markers for the purposes of claiming, superceding Rule 312  
+&nbsp;&nbsp;&nbsp;&nbsp;4. Effect: Allows for the harvesting of oil on unit owners border. 
