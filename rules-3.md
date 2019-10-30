@@ -647,3 +647,7 @@ Artifacts are an item.
 
 Every perpetual harvest can be moved to any valid location at a cost of 3^N Energy.  
 N is equal to the amount of times the harvest has been moved previously.
+
+## 375
+
+For 100bf any player may purchase a custom emoji slot on the discord. If their image is deemed inappropriate by the mods they must change it. Players may trade their custom emoji slots
