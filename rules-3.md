@@ -326,6 +326,9 @@ All Unit Markers will be decided by Moderators/Admins.
 Every unit can be moved to any valid location at a cost of 3^N Energy if not mobile.  
 N is equal to the amount of times the Unit has been moved previously.  
 
+Capitals can be moved to a player's claimed tile for a cost of 15 Technology, 25 Energy, and 10 Wood.
+This can only be done on the player's turn and to a max distance of 10 adjacent tiles away from the old location. 
+
 The Following is AN EXAMPLE:  
 Mob (EXAMPLE) - Group Of People (M1):  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Food + 3 Food/Day  
@@ -389,10 +392,10 @@ ExplorerGuild (E1):
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claim Cost Optionally In Food Amount Equal to Sum Of Horizontal And Vertical Distance In Tiles From Capital.  
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eg. A tile 5 units left and 3 units down from capital costs 5+3=8 Food to claim  
 
-Wall (Cost 7 Steel):  
+Wall (Cost 4 Steel):  
 Is placeable on land only  
 Not Mobile  
-Stops 2 targeted effects on its tile if effect originated not from its owner, then is removed. (blocking attacks and similar tile targeted effects)
+Stops 2 targeted effects on its tile or itself if the effect didnt originated from its owner. After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects) 
 
 ## 322
 
