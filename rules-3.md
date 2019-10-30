@@ -719,3 +719,19 @@ The purpose of this rule is to establish a tier list of harvests and units. At d
 11. Universities
 12. Diplomats
 13. Dig Sites
+
+## 378
+
+The moon is a 30x30 grid map consisting of TILES, namely MOONDUST (#7F7F7F) and STARSEA (#404040) TILES. The map to be used is displayed below:
+
+![378 picture](moon2.png)
+
+In all rules pertaining to this map, all references to distance and adjacency are orthogonal-only unless explicitly stated otherwise.
+
+Once per game, players can spend 500 Technology and 500 Energy to place a Lunar Colony on any MOONDUST TILE. This automatically claims the TILE in question. Players can also use their daily claim or claims to claim MOONDUST TILES adjacent to existing claims.
+
+Players can harvest MOONDUST and STARSEA for perpetual and non-perpetual resources.
+
+A perpetual harvest on a MOONDUST tile produces the perpetual resource of Cheese, A non-perpetual harvest on a MOONDUST tile produces the non-perpetual resource of Silica.
+
+A perpetual harvest on a STARSEA tile produces the perpetual resource of Starfish. A non-perpetual harvest on a STARSEA tile produces the non-perpetual resource of Æther.
