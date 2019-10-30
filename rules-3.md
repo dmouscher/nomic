@@ -701,3 +701,21 @@ For tech nodes that are upgrades they allow for currently controlled units to be
 &nbsp;&nbsp;&nbsp;&nbsp;2. Mobil: Can move 1 tile per day at a distance of 1 tile from and land tile.  
 &nbsp;&nbsp;&nbsp;&nbsp;3. Boats do not count as markers for the purposes of claiming, superceding Rule 312  
 &nbsp;&nbsp;&nbsp;&nbsp;4. Effect: Allows for the harvesting of oil on unit owners border. 
+
+## 377
+
+The purpose of this rule is to establish a tier list of harvests and units. At daily reset, when Nomitron calculates productions and daily upkeep costs, units and resources get priority based on where on the tier list they are, starting with 1 and continuing in descending order. If a unit has no production or upkeep, it does not need to be on the tier list. If not specified, new units are assumed to be added to the bottom of the list.
+
+1. Perpetual harvests
+2. Non-perpetual harvests
+3. Towns
+4. Villages
+5. Granaries
+6. Mines
+7. Mills
+8. Oil
+9. Sail Boats
+10. Power Plants
+11. Universities
+12. Diplomats
+13. Dig Sites
