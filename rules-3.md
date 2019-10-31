@@ -223,7 +223,10 @@ The Blemflarck, or BF, is the official unit of currency for this game of Nomic. 
     
     <br/>
   
-+ Once per day, players may claim any unmarked LAND TILE if it is adjacent to any of their MARKERS at a cost of 2 BF.
++ Players may claim any unmarked LAND TILE if it is adjacent to any of their MARKERS at a cost of 2 BF.  
+Other methods of claiming are limited to 1 base daily claim limit unless otherwise specified.  
+BF Cost increases by 1 for every purchased claim that day, and is reset to 2 BF the next day.  
+BF Claiming Cost cannot be altered by other rules.  
     - This is done using !claim {coordinates} in actions.
     
     <br/>
