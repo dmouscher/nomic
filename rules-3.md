@@ -738,3 +738,18 @@ Players can harvest MOONDUST and STARSEA for perpetual and non-perpetual resourc
 A perpetual harvest on a MOONDUST tile produces the perpetual resource of Cheese, A non-perpetual harvest on a MOONDUST tile produces the non-perpetual resource of Silica.
 
 A perpetual harvest on a STARSEA tile produces the perpetual resource of Starfish. A non-perpetual harvest on a STARSEA tile produces the non-perpetual resource of Æther.
+
+## 381
+
+Raw materials are a category of items. The items below are raw materials. All items not on this list are not raw materials.
+
+* BF
+* Corn
+* Steel
+* Oil
+* Food
+* Wood
+* Energy
+* Technology
+
+This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not define raw materials.
