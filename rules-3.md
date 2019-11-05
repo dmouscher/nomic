@@ -85,6 +85,8 @@ Every active player is an eligible voter. Every eligible voter must participate 
 
 The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours. If, at the 24-hour mark of a turn, all active players have cast an unwithdrawn vote on the current revision of the proposal, and Judgement has not been invoked during said turn, the above extension is revoked and the turn ends immediately.
 
+PAT
+
 ## 207
 
 An active player becomes inactive (i.e. loses their active status) if any of the following criteria are met:
@@ -205,6 +207,8 @@ Political parties with eligible voter status cast their vote when a member of sa
 ## 308
 
 The Blemflarck, or BF, is the official unit of currency for this game of Nomic. All players would start with 20 Blemflarcks. Players gain 5 Blemflarcks at the end of a turn if they have cast a vote on a rule-change at any point in said turn. A player can attempt to give Blemflarcks to another player by declaring their intention in actions. This either needs to be accepted or declined by the receiving player before the end of the current turn of play. If the receiving player does not respond before the end of the turn, it is treated as a rejection. An action that would lead to a negative balance of Blemflarck is blocked automatically.
+
+PAT
 
 ## 312
 
@@ -399,6 +403,8 @@ Wall (Cost 4 Steel):
 Is placeable on land only  
 Not Mobile  
 Stops 2 targeted effects on its tile or itself if the effect didnt originated from its owner. After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects) 
+
+FENRIS WINS
 
 ## 322
 
@@ -753,29 +759,3 @@ Raw materials are a category of items. The items below are raw materials. All it
 * Technology
 
 This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not define raw materials.
-
-## 382
-
-**I**n order to spite Ian, passed proposals with  
-**A** clause written using the first character per line vertically  
-**N**ow  have that text added to their rule. 
-
-**I  
-S**
-
-**S  
-P  
-I  
-T  
-E  
-D**
-
-**B  
-Y**
-
-**F**or this proposal to pass, Fenris will not get 5 BF at the  
-**E**nd of the turn and will be cursed because he is  
-**N**aughty.  
-**R  
-I  
-S**
