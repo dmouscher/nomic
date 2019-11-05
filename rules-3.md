@@ -753,3 +753,29 @@ Raw materials are a category of items. The items below are raw materials. All it
 * Technology
 
 This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not define raw materials.
+
+## 382
+
+**I**n order to spite Ian, passed proposals with  
+**A** clause written using the first character per line vertically  
+**N**ow  have that text added to their rule. 
+
+**I  
+S**
+
+**S  
+P  
+I  
+T  
+E  
+D**
+
+**B  
+Y**
+
+**F**or this proposal to pass, Fenris will not get 5 BF at the  
+**E**nd of the turn and will be cursed because he is  
+**N**aughty.  
+**R  
+I  
+S**
