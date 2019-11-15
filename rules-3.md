@@ -474,10 +474,6 @@ Once this is posted @Crorem  or @Fenris Wolf would proceed to ensure the transac
 
 ## 355
 
-Players can trade items between each other, unless a rule specifically prohibits trading an item.
-
-Players cannot have a negative quantity of any item. Any action that would cause such a quantity is automatically blocked.
-
 Players can sell raw materials (except for BF) in bulk to Nomitron at certain rates. The number of BF gained in these transactions is rounded down to the nearest integer.
 
 The rate for any given raw material is comprised of two values: BFs/unit and velocity. BFs/unit is a positive real number that determines how many BFs a player gains per unit of raw material sold, while a rate’s velocity can be one of the following values with the following effects:
@@ -494,7 +490,7 @@ The rate for any given raw material is comprised of two values: BFs/unit and vel
 └───────────┴────────────────────────────────────────────────┘
 ```
 
-A velocity cannot have more or less than one value. Rates are initially set to and default to a BFs/unit of 0.01 and a static velocity.
+A velocity cannot have more or fewer than one value. Rates are initially set to and default to a BFs/unit of 0.01 and a static velocity. If at any time a rate has a BFs/unit of above 0.03, its BFs/unit is set to 0.03 and its velocity is set to static.
 
 To help Nomitron set reasonable prices, Nomitron keeps a price control advisory board, hereinafter referred to as the Nomic Federal Reserve, or the Fed, to advise Nomitron in determining the appropriate exchange rates. The Fed is comprised of three players, to be appointed when this rule passes and every five turns after that. Nomitron will select Fed members at random from among the pool of active players, giving priority to players that have served on the Fed the fewest number of times.
 
