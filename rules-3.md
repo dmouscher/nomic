@@ -650,8 +650,11 @@ Artifacts are an item.
 
 ## 370
 
-Every perpetual harvest can be moved to any valid location at a cost of 3^N Energy.  
-N is equal to the amount of times the harvest has been moved previously.
+Perpetual harvests and non-mobile units may be moved by the player owning said harvest or unit to any valid TILE (*i.e.* a tile that said harvest or unit could have been initially placed on) at a cost of 3^N Energy, where N is the number of times that said harvest or unit has previously been moved using this mechanism.
+
+On their turn, a player may move their Capital to a valid TILE (*i.e.* a LAND TILE claimed by said player that is at least 2 TILES away from all other Capitals) no more than 10 TILES from the Capital's previous location for a cost of 15 Technology, 25 Energy, and 10 Wood.
+
+This rule supersedes Rule 321. Any part of Rule 321 that describes a mechanism for moving non-mobile units or Capitals is to be considered void. This paragraph is automatically deleted if there are no parts of Rule 321 that describe any such mechanisms.
 
 ## 375
 
