@@ -759,3 +759,58 @@ Raw materials are a category of items. The items below are raw materials. All it
 * Technology
 
 This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not define raw materials.
+
+## 387
+
+All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
+New units and upgrades may be proposed.  
+All Unit Markers will be decided by Moderators/Admins.  
+The following units are creatable:
+
+PowerPlant (P1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Steel + 12 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produce 5 Energy/Day
+
+Granary (G1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 12 Corn/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 10 Food/Day
+
+Mill (L1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 5 Wood/Day
+
+Oil (O1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Or Water  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Oil/Day
+
+Mines (S1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Steel/Day
+
+University (U1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day + 2 Steel/Day + 2 Energy/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 4 Technology/Day
+
+ExplorerGuild (E1):  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 25 Steel  
+|&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Base daily claim limit increased by 5.  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BF Cost increases by 1 for every purchased claim that day, and is reset to 2 BF the next day.  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Claim Cost Optionally In Food Amount Equal to Sum Of Horizontal And Vertical Distance In Tiles From Capital.  
+L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eg. A tile 5 units left and 3 units down from capital costs 5+3=8 Food to claim
+
+Wall (Square):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost 4 Steel  
+|&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stops 2 targeted effects on its tile or itself if the effect didnt originated from its owner.  
+L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects)
+
+This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not include the above information
