@@ -579,7 +579,7 @@ The commands for doing these will be, respectively:
 
 ## 367
 
-Vinny the Vagabond is an explorer from a far away land. He spawns on a random tile on the border of the map. Every day, he makes two to four one tile movements in a random direction. He is 50% more likely to favor tiles that he has never moved to before. After the final movement of each day, he has a 10% chance of triggering an Event. Every time Vinny moves, the tile coordinates are posted in #actions. If an Event is triggered, the name of the Event is posted in #actions.
+Vinny the Vagabond is an explorer from a far away land. He spawns on a random tile on the border of the map. Every day, he makes four to eight one tile movements in a random direction. He is twice as more likely to favor tiles that he has never moved to before. After the final movement of each day, he has a 12% chance of triggering an Event. Every time Vinny moves, the tile coordinates are posted in #actions. If an Event is triggered, the name of the Event is posted in #actions.
 
 Events that may only occur when Vinny moves to a LAND tile are:
 
