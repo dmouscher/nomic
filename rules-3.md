@@ -814,3 +814,18 @@ Wall (Square):
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects)
 
 This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not include the above information
+
+# 388
+
+A GDP number is added to changelog live and continuously calculated for each player. The calculation is bellow. GDP is calculated at the end of the day. 
+
+GDP=J+C+O+I+G+P+(X−M)
+
+J= Total number of current daily production and harvests  
+C= Players total consumption of all items other than BFs and items used for upkeep of units.  
+O= Total number of BFs gained  
+I= Total of all BFs spent  
+G= Total number of players units on the board  
+P= Total current daily upkeep cost for all players units  
+X= Total of anything traded away  
+M= Total of anything gained through trade
