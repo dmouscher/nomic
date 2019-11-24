@@ -818,7 +818,7 @@ L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After stopping 2 targeted effec
 
 This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not include the above information
 
-# 388
+## 388
 
 A GDP number is added to changelog live and continuously calculated for each player. The calculation is bellow. GDP is calculated at the end of the day. 
 
@@ -833,6 +833,6 @@ P= Total current daily upkeep cost for all players units
 X= Total of anything traded away  
 M= Total of anything gained through trade
 
-# 390
+## 390
 
 This rule does nothing.
