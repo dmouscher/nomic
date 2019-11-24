@@ -829,3 +829,7 @@ G= Total number of players units on the board
 P= Total current daily upkeep cost for all players units  
 X= Total of anything traded away  
 M= Total of anything gained through trade
+
+# 390
+
+This rule does nothing.
