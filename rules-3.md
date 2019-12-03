@@ -818,3 +818,35 @@ This rule does nothing.
 Every Sunday at the beginning of the day, Nomitron will tag everyone in an open invitation to an optional town hall meeting. Players may indicate their intention to participate by reacting to the invitation with their emoji sigil. If a majority of players who have been active at any point in the previous week react to the invitation, a town hall meeting will be scheduled. A Doodle poll will be created by the mods or admins for potential meeting times, unless no mods or admins have indicated a desire to attend, in which case it is the responsibility of the players attending to create a Doodle themselves.
 
 The purpose of town hall meetings is to facilitate discussion about the future of the game. This can be as simple as individual proposal ideas, or as far reaching as the ultimate end of Nomic III. Town hall meetings will use voice chat, though no one is obligated to participate or say anything if they do not wish to. Players may attend meetings even if they did not originally indicate their intention to participate. Players who did indicate their intention to participate should forewarn others if they end up unable to attend, though there shall be no in-game punishment for failing to do this. It will simply be regarded as kind of a bad move.
+
+## 397
+
+#### Units:
+
+Cheesecake-Factory (CF):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost 10 Silica + 20 Energy + 6 Cheese/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 14 Food/Day
+
+Moon-Mines (MM):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost 10 Silica + 20 Energy + 10 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces  2 Silica/Day
+
+Lottery ($$):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost 20 Silica + 10 Energy/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gives You 1 Random Item Per Day
+
+Cheese-Grader (CG):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Silica + 10 Cheese/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effect: Produces 1 Shredded Cheese (S-Cheese)/day. 
+
+Taco-Bell (TB):|  
+|&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Silica + 1 Cheese/Day + 1 Beef/Day + 1 Tortilla/Day + 1 Lettuce/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effect: Produces 1 Taco. (Taco is an Item and can be consumed for 2x production for one day.)
+
+The following are defined as Ingredients, Raw Materials, and Items.  
+Shredded Cheese (S-Cheese), Tortilla, Lettuce, and Beef
