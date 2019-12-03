@@ -809,7 +809,7 @@ P= Total current daily upkeep cost for all players units
 X= Total of anything traded away  
 M= Total of anything gained through trade
 
-## 390
+## 390 (IMMUTABLE)
 
 This rule does nothing.
 
