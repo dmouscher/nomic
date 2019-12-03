@@ -547,8 +547,6 @@ Perpetual harvests and non-mobile units may be moved by the player owning said h
 
 On their turn, a player may move their Capital to a valid TILE (*i.e.* a LAND TILE claimed by said player that is at least 2 TILES away from all other Capitals) no more than 10 TILES from the Capital's previous location for a cost of 15 Technology, 25 Energy, and 10 Wood.
 
-This rule supersedes Rule 321. Any part of Rule 321 that describes a mechanism for moving non-mobile units or Capitals is to be considered void. This paragraph is automatically deleted if there are no parts of Rule 321 that describe any such mechanisms.
-
 ## 375
 
 For 100bf any player may purchase a custom emoji slot on the discord. If their image is deemed inappropriate by the mods they must change it. Players may trade their custom emoji slots
@@ -654,8 +652,6 @@ Raw materials are a category of items. The items below are raw materials. All it
 * Energy
 * Technology
 
-This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not define raw materials.
-
 ## 387
 
 All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
@@ -708,8 +704,6 @@ Wall (Square):
 |&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stops 2 targeted effects on its tile or itself if the effect didnt originated from its owner.  
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects)
-
-This rule supersedes Rule 321. This paragraph is automatically deleted if Rule 321 is amended such that it does not include the above information
 
 ## 388
 
