@@ -285,17 +285,17 @@ Gay Rights
 
 ## 321
 
-Units are structures/organizations one may create/upgrade from a cost of items and may have prerequisites.
-Prerequisites include but are not limited to the location and ownership of other units.
-Units may have daily upkeep costs as a prerequisite, which will be collected at midnight.
+Units are structures/organizations one may create/upgrade from a cost of items and may have prerequisites.  
+Prerequisites include but are not limited to the location and ownership of other units.  
+Units may have daily upkeep costs as a prerequisite, which will be collected at midnight.  
 If a prerequisite for a unit is later missing, or willfully made unavailable by a players request, that unit becomes inactive and can preform no changes on the game until said prerequisite is met again.
 
-Upgrades do not inherit previous version costs.
-Units may not share locations, cannot be harvested, and must be initially placed on and upgraded on a player's own TILES.
-It is allowed to place units on TILES adjacent to the player's own claims (e.g. boats on water next to claimed beaches)
-Mobile units may move to adjacent TILES at a movement cost.
-Destroyed units are completely removed.
-Capitals may not be destroyed, and may not have units on them.
+Upgrades do not inherit previous version costs.  
+Units may not share locations, cannot be harvested, and must be initially placed on and upgraded on a player's own TILES.  
+It is allowed to place units on TILES adjacent to the player's own claims (e.g. boats on water next to claimed beaches)  
+Mobile units may move to adjacent TILES at a movement cost.  
+Destroyed units are completely removed.  
+Capitals may not be destroyed, and may not have units on them.  
 Units may exist on harvested TILES, however said harvest produces no resources so long as a unit shares the TILE.
 
 ## 322
