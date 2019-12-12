@@ -766,3 +766,47 @@ L&nbsp;&nbsp;&nbsp;&nbsp;Effect: Produces 1 Taco. (Taco is an Item and can be co
 
 The following are defined as Ingredients, Raw Materials, and Items.  
 Shredded Cheese (S-Cheese), Tortilla, Lettuce, and Beef
+
+## 400
+
+The following kinds of tiles are created:
+
+PLAINS:
+
+- Functions as a subset of LAND
+- Can be claimed
+- Can be perpetually harvested; can’t be non-perpetually harvested
+- Can have a capital on it
+- Can’t have the following units on it: Mill.
+- Perpetual harvests give 1 additional item per day
+
+FOREST:
+
+- Functions as a subset of LAND
+- Can be claimed
+- Can’t be perpetually harvested; can be non-perpetually harvested
+- Can have a capital on it
+- Can’t have the following units on it:
+- Mills give 1 additional wood per day
+
+LAVA:
+
+- Can’t be claimed
+- Can’t be harvested
+- Can’t have a capital on it
+- Can’t have units on it unless specified in a unit’s description
+- Can’t have units adjacent to it unless specified in a unit’s description
+
+BASALT:
+
+- Can be claimed
+- Can’t be harvested
+- Can’t have a capital on it
+- Can’t have the following units on it: Granary, Mill, Oil, Mines, Digsite
+
+CAVE:
+
+- Can’t be claimed
+- Can’t be harvested
+- Can’t have a capital on it
+- Can’t have units on it unless specified in a unit’s description
