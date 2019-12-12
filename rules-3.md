@@ -737,7 +737,7 @@ The purpose of town hall meetings is to facilitate discussion about the future o
 
 ## 397
 
-#### Units:
+Units:
 
 Cheesecake-Factory (CF):  
 |&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
@@ -749,22 +749,12 @@ Moon-Mines (MM):
 |&nbsp;&nbsp;&nbsp;&nbsp;Cost 10 Silica + 20 Energy + 10 Food/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces  2 Silica/Day
 
-Lottery ($$):  
-|&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost 20 Silica + 10 Energy/Day  
-L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Gives You 1 Random Item Per Day
-
 Cheese-Grader (CG):  
 |&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Silica + 10 Cheese/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effect: Produces 1 Shredded Cheese (S-Cheese)/day. 
 
-Taco-Bell (TB):|  
-|&nbsp;&nbsp;&nbsp;&nbsp;Moondust Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Silica + 1 Cheese/Day + 1 Beef/Day + 1 Tortilla/Day + 1 Lettuce/Day  
-L&nbsp;&nbsp;&nbsp;&nbsp;Effect: Produces 1 Taco. (Taco is an Item and can be consumed for 2x production for one day.)
-
-The following are defined as Ingredients, Raw Materials, and Items.  
+The following are defined as Ingredients:  
 Shredded Cheese (S-Cheese), Tortilla, Lettuce, and Beef
 
 ## 400
