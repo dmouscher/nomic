@@ -650,6 +650,12 @@ Raw materials are a category of items. The items below are raw materials. All it
 * Wood
 * Energy
 * Technology
+* Shredded Cheese
+* Tortilla
+* Lettuce
+* Beef
+* Seaweed
+* Coral
 
 ## 387
 
