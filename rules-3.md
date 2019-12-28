@@ -296,7 +296,8 @@ It is allowed to place units on TILES adjacent to the player's own claims (e.g. 
 Mobile units may move to adjacent TILES at a movement cost.  
 Destroyed units are completely removed.  
 Capitals may not be destroyed, and may not have units on them.  
-Units may exist on harvested TILES, however said harvest produces no resources so long as a unit shares the TILE.
+Units may exist on harvested TILES, however said harvest produces no resources so long as a unit shares the TILE.  
+Immobile units must be on claimed tiles and can only be constructed on owned tiles. Any immobile unit that is not on a claimed tile or an owned tile is destroyed. The creation cost of that unit is not refunded. Units placed on water tiles are an exception to this.
 
 ## 322
 
