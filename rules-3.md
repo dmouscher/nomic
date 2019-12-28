@@ -660,43 +660,47 @@ Raw materials are a category of items. The items below are raw materials. All it
 
 ## 387
 
-All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin.  
-New units and upgrades may be proposed.  
-All Unit Markers will be decided by Moderators/Admins.  
-The following units are creatable:
+All Units and Upgrade Paths Will be located in an easily accessible location, decided by the admin(s). New Units and Upgrade Paths may be proposed.
+
+The following Units exist:
 
 PowerPlant (P1):  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Steel + 12 Food/Day  
-L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produce 5 Energy/Day
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land, Basalt  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Steel + 12 Food/Day  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produce 5 Energy/Day  
++ Upgrades: Geothermal-PowerPlant(GP):  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Land, Water, Lava, Basalt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 20 Steel + 15 Food/Day. Can only be built through agreement with Ozmycasar.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;Effects: 25 Energy/Day
+
 
 Granary (G1):  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 12 Corn/Day  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 12 Corn/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 10 Food/Day
 
 Mill (L1):  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only, Excluding Plains  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 5 Wood/Day
 
 Oil (O1):  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Or Water  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Oil/Day
 
 Mines (S1):  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Steel + 10 Food/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 2 Steel/Day
 
 University (U1):  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
-|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day + 2 Steel/Day + 2 Energy/Day  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land, Basalt  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost: 10 Steel + 10 Food/Day + 2 Steel/Day + 2 Energy/Day  
 L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Produces 4 Technology/Day
 
 ExplorerGuild (E1):  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land, Basalt  
 |&nbsp;&nbsp;&nbsp;&nbsp;Cost: 25 Steel  
 |&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Base daily claim limit increased by 5.  
@@ -705,11 +709,33 @@ ExplorerGuild (E1):
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eg. A tile 5 units left and 3 units down from capital costs 5+3=8 Food to claim
 
 Wall (Square):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Land, Basalt  
 |&nbsp;&nbsp;&nbsp;&nbsp;Cost 4 Steel  
-|&nbsp;&nbsp;&nbsp;&nbsp;Land Only  
 |&nbsp;&nbsp;&nbsp;&nbsp;Effects:  
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stops 2 targeted effects on its tile or itself if the effect didnt originated from its owner.  
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stops 2 targeted effects on its tile or itself if the effect didn’t originated from its owner.  
 L&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After stopping 2 targeted effects, it is removed. (blocking attacks and similar tile targeted effects)
+
+Spider-Garrison (SG):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Forest Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Can’t be built by players.  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: If there are less Spider-Troops within claimed territory on the same map as there are Spider-Garrisons, the Spider-Garrison will produce 1 Spider-Troop on a tile adjacent to said Spider-Garrison.
+
+Spider-Troop (ST):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Land, Cave, or Basalt  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: Can only be produced by Spider-Garrisons.  
+|&nbsp;&nbsp;&nbsp;&nbsp;Mobile. Can only move on Land, Cave, or Basalt.  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Can move a distance of up to two tiles once per day. Can attack a unit, destroying it. Other units with previously described defenses apply. (I.E. a Spider-Troop will take 3 tries to destroy a Wall).
+
+Seaweed-Farm (SF):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Water Only  
+|&nbsp;&nbsp;&nbsp;&nbsp;Cost: 15 Coral + 10 Food/Day.  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: 10 Seaweed/Day.
+
+Canospear (C):  
+|&nbsp;&nbsp;&nbsp;&nbsp;Land, Cave, Basalt  
+|&nbsp;&nbsp;&nbsp;&nbsp;Mobile. Can only move on Land, Cave, or Basalt.  
+|&nbsp;&nbsp;&nbsp;&nbsp;Can’t be built by players.  
+L&nbsp;&nbsp;&nbsp;&nbsp;Effects: Can move a distance of one tile once per day. Can attack a unit, destroying it. Other units with previously described defenses apply. (I.E. a Canospear will take 3 tries to destroy a Wall).
 
 ## 388
 
