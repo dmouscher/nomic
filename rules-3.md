@@ -836,3 +836,7 @@ He is given a curse.
 
 For his spectacular abuse of Tacos he is awarded the following:  
 He is given 1 AtomicTaco, which is an item that has no effect on the game. 
+
+## 406
+
+On Christmas Day everyone gets a random unit to be placed on any valid location they want. The unit is chosen randomly by nomitron using !roll. After this rule comes into effect it will become transient.
