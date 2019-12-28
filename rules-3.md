@@ -800,3 +800,12 @@ CAVE:
 - Can’t be harvested
 - Can’t have a capital on it
 - Can’t have units on it unless specified in a unit’s description
+
+## 402
+
+Fenris Wolf for his use of Weapons of Mass Production (WOMPs) is punished with the following:  
+He has all of his Raw Material items set to zero.  
+He is given a curse.
+
+For his spectacular abuse of Tacos he is awarded the following:  
+He is given 1 AtomicTaco, which is an item that has no effect on the game. 
