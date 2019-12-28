@@ -836,3 +836,9 @@ He is given a curse.
 
 For his spectacular abuse of Tacos he is awarded the following:  
 He is given 1 AtomicTaco, which is an item that has no effect on the game. 
+
+## 408
+
+A player wins when they have 200 points. More than one player may win. This paragraph does not come into effect until January 1st 2020, 12:00 AM Central Standard Time.
+
+At January 1st 2020, 12:00 AM Central Standard Time, all players that have at least one claimed tile on the Moon gain 200 points.
