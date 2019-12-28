@@ -836,3 +836,7 @@ He is given a curse.
 
 For his spectacular abuse of Tacos he is awarded the following:  
 He is given 1 AtomicTaco, which is an item that has no effect on the game. 
+
+## 405
+
+Following the passing of this rule, the game is suspended until December 21, 2019. Upon the resumption of the game, this rule is repealed.
