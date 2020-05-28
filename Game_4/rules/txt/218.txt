@@ -1,0 +1,5 @@
+Rule 218/0
+
+Persons wishing to become players may request to do so publicly. Within 24 hours of the request, if no player has publicly objected or privately objected (to a server moderator or administrator) to a player joining the game, that player will join the game. If a player has objected, a vote is immediately held on whether or not the person joins the game. If there is a majority vote in favor after 24 hours of the start of the vote, that player will join the game.
+
+Persons may not pretend to be multiple players at once. Persons that are found to have done this are banned from the game.

@@ -1,0 +1,3 @@
+Rule 211/0
+
+If a section of a rule relies on a bot to be implemented to the point where its manual implementation would be infeasible, and there is no such bot, then said rule’s section is void until said bot is functional.

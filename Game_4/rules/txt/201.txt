@@ -1,0 +1,3 @@
+Rule 201/0
+
+Players shall initially alternate in a random order to be determined by the server administrator by the start of the game, taking one whole turn apiece. Players joining the game will have their turn order set to precede the player that is taking their turn at the time of the player’s joining. Turns belonging to active players may not be skipped or passed, and parts of turns belonging to active players may not be omitted. All players begin with zero points.
