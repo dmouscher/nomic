@@ -1,0 +1,3 @@
+Rule 111/0 (IMMUTABLE)
+
+The adoption of rule-changes must never become completely impermissible.

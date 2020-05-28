@@ -1,0 +1,3 @@
+Rule 209/0
+
+Players may change or withdraw their votes by stating their intention to do so. Players may not edit or delete their votes (i.e. alter the voting record). A vote that is edited loses its vote status.

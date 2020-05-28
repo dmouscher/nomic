@@ -1,0 +1,3 @@
+Rule 203/0
+
+A rule-change is adopted if and only if a simple majority of eligible voters vote for it.

@@ -1,0 +1,3 @@
+Rule 116/0 (IMMUTABLE)
+
+All actions, including voting and rule-change proposals, must occur in the channel or channels that are designated for them. Any action that does not occur in said action’s designated channel is not considered a valid action.

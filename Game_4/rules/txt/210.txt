@@ -1,0 +1,3 @@
+Rule 210/0
+
+Proposals may not be edited after they are submitted for voting. A proposal may be resubmitted up to two times a turn but may not be resubmitted if the turn has started more than 24 hours ago. Resubmitting a proposal restarts the vote on the proposal.

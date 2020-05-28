@@ -1,0 +1,3 @@
+Rule 114/0 (IMMUTABLE)
+
+Votes must be unambiguous. A vote that would be ambiguous is not considered to be a vote. Additional rules may be made to clarify what constitutes ambiguity.

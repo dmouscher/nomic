@@ -1,0 +1,3 @@
+Rule 208/0
+
+Each player always has exactly one vote.

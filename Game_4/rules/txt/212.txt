@@ -1,0 +1,3 @@
+Rule 212/0
+
+At the end of a player's turn, 1d6 points are added to their score.

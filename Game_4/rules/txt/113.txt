@@ -1,0 +1,3 @@
+Rule 113/0 (IMMUTABLE)
+
+Rules can change their own text or repeal themselves. Rules cannot make any other changes to the rules unless the explicit authority for such a change is already present.
