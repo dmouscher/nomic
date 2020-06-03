@@ -311,10 +311,11 @@ Persons may not pretend to be multiple players at once. Persons that are found t
 
 [*Initial mutable Rule 218, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/218.md)
 
-## 219/0
+## 219/1
 
-Players that are required by the rules to perform an action have a total of 48 hours to perform said action. A player that does not perform said action within the allotted 48 hours becomes inactive until either they do perform said action or said action becomes impossible to perform.
+Players that are required by the rules to perform an action have a total of 48 hours to perform said action unless otherwise specified. A player that does not perform said action within the allotted 48 hours becomes inactive until either they do perform said action or said action becomes impossible to perform.
 
 ##### *History*
 
-[*Initial mutable Rule 219, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/219.md)
+[*Initial mutable Rule 219, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/219.md)  
+[*Amended (1) by Proposal 301 (Sauce), Jun 3, 2020 (R1T1)*](https://github.com/dmouscher/nomic/blob/a87bb84b9cff4d6452f9a7492cf0414acee859c2/Game_4/rules/md/219.md)
