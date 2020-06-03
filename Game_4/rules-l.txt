@@ -467,15 +467,16 @@ History:
 Initial mutable Rule 218, Jun 1, 2020
 
 ----------------------------------------------------------------------
-Rule 219/0
+Rule 219/1
 
       Players that are required by the rules to perform an action have
-      a total of 48 hours to perform said action. A player that does
-      not perform said action within the allotted 48 hours becomes
-      inactive until either they do perform said action or said action
-      becomes impossible to perform.
+      a total of 48 hours to perform said action unless otherwise
+      specified. A player that does not perform said action within the
+      allotted 48 hours becomes inactive until either they do perform
+      said action or said action becomes impossible to perform.
 
 History:
 Initial mutable Rule 219, Jun 1, 2020
+Amended (1) by Proposal 301 (Sauce), Jun 3, 2020 (R1T1)
 
 ----------------------------------------------------------------------

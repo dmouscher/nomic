@@ -173,4 +173,4 @@ Persons may not pretend to be multiple players at once. Persons that are found t
 
 ## 219
 
-Players that are required by the rules to perform an action have a total of 48 hours to perform said action. A player that does not perform said action within the allotted 48 hours becomes inactive until either they do perform said action or said action becomes impossible to perform.
+Players that are required by the rules to perform an action have a total of 48 hours to perform said action unless otherwise specified. A player that does not perform said action within the allotted 48 hours becomes inactive until either they do perform said action or said action becomes impossible to perform.
