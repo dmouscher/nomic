@@ -196,6 +196,9 @@ Rule 117/0 (IMMUTABLE)
 History:
 Initial immutable Rule 117, Jun 1, 2020
 
+Judgments:
+"Regulated" means that concepts explained in the rules cannot have arbitrary actions taken upon them unless explicitly permitted by the rules. (Coconutpies), Jun 6, 2020 (R1T3)
+
 ----------------------------------------------------------------------
 Rule 201/0
 

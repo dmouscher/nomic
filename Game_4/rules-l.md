@@ -140,6 +140,10 @@ Whatever is not prohibited or regulated by a rule is permitted and unregulated, 
 
 [*Initial immutable Rule 117, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/117.md)
 
+##### *Judgments*
+
+*"Regulated" means that concepts explained in the rules cannot have arbitrary actions taken upon them unless explicitly permitted by the rules. (Coconutpies), Jun 6, 2020 (R1T3)*
+
 ## 201/0
 
 Players shall initially alternate in a random order to be determined by the server administrator by the start of the game, taking one whole turn apiece. Players joining the game will have their turn order set to precede the player that is taking their turn at the time of the player’s joining. Turns belonging to active players may not be skipped or passed, and parts of turns belonging to active players may not be omitted. All players begin with zero points.
