@@ -483,3 +483,13 @@ Initial mutable Rule 219, Jun 1, 2020
 Amended (1) by Proposal 301 (Sauce), Jun 3, 2020 (R1T1)
 
 ----------------------------------------------------------------------
+Rule 303/0
+
+      Proposals are not allowed to distinguish those who voted for it,
+      those who voted against it, or those who did not vote on it from
+      each other.
+
+History:
+Enacted by Proposal 303 (THUNDER THIGHS), Jun 7, 2020 (R1T3)
+
+----------------------------------------------------------------------
