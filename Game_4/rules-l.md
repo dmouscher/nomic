@@ -323,3 +323,9 @@ Players that are required by the rules to perform an action have a total of 48 h
 
 [*Initial mutable Rule 219, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/219.md)  
 [*Amended (1) by Proposal 301 (Sauce), Jun 3, 2020 (R1T1)*](https://github.com/dmouscher/nomic/blob/a87bb84b9cff4d6452f9a7492cf0414acee859c2/Game_4/rules/md/219.md)
+
+## 303/0
+
+Proposals are not allowed to distinguish those who voted for it, those who voted against it, or those who did not vote on it from each other.
+
+[*Enacted by Proposal 303 (THUNDER THIGHS), Jun 7, 2020 (R1T3)*](https://github.com/dmouscher/nomic/blob/1ca88db74ef06ce6bfccdc8862ebf0083f84bbde/Game_4/rules/md/303.md)
