@@ -371,3 +371,10 @@ Rule 219
       said action or said action becomes impossible to perform.
 
 ----------------------------------------------------------------------
+Rule 303
+
+      Proposals are not allowed to distinguish those who voted for it,
+      those who voted against it, or those who did not vote on it from
+      each other.
+
+----------------------------------------------------------------------
