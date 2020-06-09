@@ -328,4 +328,14 @@ Players that are required by the rules to perform an action have a total of 48 h
 
 Proposals are not allowed to distinguish those who voted for it, those who voted against it, or those who did not vote on it from each other.
 
+##### *History*
+
 [*Enacted by Proposal 303 (THUNDER THIGHS), Jun 7, 2020 (R1T3)*](https://github.com/dmouscher/nomic/blob/1ca88db74ef06ce6bfccdc8862ebf0083f84bbde/Game_4/rules/md/303.md)
+
+## 304/0
+
+Upon the event that players do not have an idea for a proposal, on their turn they can invoke a phone a friend action in the actions channel requesting ideas for proposals to submit. This action must be invoked in the first 12 hours of a players turn. Other players can then suggest ideas for a proposal. Other players are limited to submitting 1 suggestion, and these suggestions must be unique from others for this turn. A random suggestion is taken for a proposal, this is done 12 hours after the phone a friend action. If there is a question raised of the “uniqueness” of suggestions, judgement must be invoked, and all but the earliest suggestion will be thrown out. The picked suggestion is posted with an @ to the current player, and they have the option of taking the suggestion word for word, or editing it then posting to the voting channel. If a suggestion is taken word for word suggester gains 3 points upon a passed proposal, or they lose 1 point upon the failure of the proposal.  If a suggestion is taken but not copy and pasted, the suggestor gains 1 point upon success, and nothing upon failure. If at any point the current player comes up with their own idea for a proposal so long as it is unique to all suggestions posted, then that player may scrap all suggestions and propose their own idea.
+
+##### *History*
+
+[*Enacted by Proposal 304 (Janwich), Jun 9, 2020 (R1T4)*](https://github.com/dmouscher/nomic/blob/1d7cdcd61b0060da37f060f0d700c84756ce2463/Game_4/rules/md/304.md)
