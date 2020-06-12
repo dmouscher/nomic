@@ -339,3 +339,55 @@ Upon the event that players do not have an idea for a proposal, on their turn th
 ##### *History*
 
 [*Enacted by Proposal 304 (Janwich), Jun 9, 2020 (R1T4)*](https://github.com/dmouscher/nomic/blob/1d7cdcd61b0060da37f060f0d700c84756ce2463/Game_4/rules/md/304.md)
+
+## 305/0
+
+The Political Compass is a 801x801 grid. Four ideological groups control the corners of the grid. Pagan Trans-Humanists control the top left corner, (-400, 400), Lovecraftian Eco-Fascists control the top right corner, (400, 400), Raccoon Gamer-Warlords control the bottom left corner, (-400, -400), and Norse Warrior-Shamans control the bottom right corner, (400, -400). An indicator puck begins on (0, 0).
+
+Players are randomly and evenly distributed to each ideology. New players are distributed to a random ideology among those with the least players. Two players can swap teams if both players unambiguously consent to the swap, but players cannot otherwise change ideology. Players can make this swap once per round.
+
+If *x* players in an ideology vote on a proposal, the indicator puck moves two points towards their corner, (or one point if the puck has reached their corner before), both horizontally and vertically. The first time a player proposes a rule-change on their turn, the indicator puck moves one point towards their ideology’s corner, both horizontally and vertically. This can happen up to *x* times per round for a single ideology. In both cases, *x* is the larger of either, A) the number of active players in the smallest ideology, or B) 2.
+
+Each ideology has an end-goal, which is activated when the indicator puck reaches their corner. This causes all members of that ideology to gain 35 points and resets the indicator puck.
+
+Each ideology has a power. Members of an ideology must vote in #actions to decide to use their power. The power is only used if 2/3rds of the ideology vote in favor of using it. Powers have a 5-day cooldown. The cost of each power moves the indicator puck the listed distance. Power effects that alter aspects of other powers or mechanics supersede the original descriptions of said powers or mechanics. A player cannot be affected by the same power more than once at the same time.
+
+#### Pagan Trans-Humanists
+
+End-Goal: Upload all players to the cloud via witchcraft, and also, the “cloud” part isn’t a metaphor, there's a massive techno-magic cloud that everyone gets to hang out in.
+
+Power Name: r/pan’s Labyrinth  
+Power Description: Force a player to undergo testing for cloud-compatibility.  
+Power Cost: (+5, -4)  
+Power Effect: When another ideology’s power is used, it has an *x*/*n* chance of backfiring and targeting itself, where *x* is the number of players in said ideology who are currently affected by “r/pan’s Labyrinth,” and *n* is the number of players in said ideology. When a power backfires in this manner, the effect is removed from **all** players.
+
+#### Lovecraftian Eco-Fascists
+
+End-Goal: Summon C’Thussolini to annihilate humanity, thereby restoring balance to nature, and most importantly, have fun while doing it.
+
+Power Name: Sieg-Oh-Hell-No  
+Power Description: Force a player to pick up litter at tank-point.  
+Power Cost: (-4, -5)  
+Power Effect: Targeted player’s ideology’s power has an additional 8 days on its cooldown the next time it is used.  
+
+#### Raccoon Gamer-Warlords
+
+End-Goal: Turn the planet into one big collectivist compound, turn all trash into renewable fuel for Fully Automated Luxury Gay Space Communism, eliminate Notch.
+
+Power Name: Where’d You Get Your Ideology, The Dumpster-Fire Store?  
+Power Description: Dox a player on twitter for committing war crimes, forcing them to issue a half-hearted apology.  
+Power Cost: (+4, +5)  
+Power Effect: The next two times that the target player’s ideology would move the indicator puck towards their corner, it instead moves towards the Raccoon Gamer-Warlords’ corner.
+
+#### Norse Warrior-Shamans
+
+End-Goal: Pillage all of civilization, hoard accumulated wealth, build feudal dystopian society, tell everyone else it’s their faults for not sufficiently pleasing Odin through combat.
+
+Power Name: High-Key Loki Hokey-Pokey  
+Power Description: Target player is infected with battle plague, which is like dancing plague, but for murdering the shit out of people.  
+Power Cost: (-5, +4)  
+Power Effect: Target player’s ideology’s next power usage must target two non-Norse Warrior-Shamans simultaneously, with a 10-day cooldown and 3 times the normal cost, stacking whatever the result is.
+
+##### *History*
+
+[*Enacted by Proposal 305 (Alekosen), Jun 11, 2020 (R1T5)*](https://github.com/dmouscher/nomic/blob/f6cf8bd76123d6d9827103d044723a85f1a13579/Game_4/rules/md/305.md)
