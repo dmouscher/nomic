@@ -340,17 +340,17 @@ Upon the event that players do not have an idea for a proposal, on their turn th
 
 [*Enacted by Proposal 304 (Janwich), Jun 9, 2020 (R1T4)*](https://github.com/dmouscher/nomic/blob/1d7cdcd61b0060da37f060f0d700c84756ce2463/Game_4/rules/md/304.md)
 
-## 305/0
+## 305/1
 
 The Political Compass is a 801x801 grid. Four ideological groups control the corners of the grid. Pagan Trans-Humanists control the top left corner, (-400, 400), Lovecraftian Eco-Fascists control the top right corner, (400, 400), Raccoon Gamer-Warlords control the bottom left corner, (-400, -400), and Norse Warrior-Shamans control the bottom right corner, (400, -400). An indicator puck begins on (0, 0).
 
 Players are randomly and evenly distributed to each ideology. New players are distributed to a random ideology among those with the least players. Two players can swap teams if both players unambiguously consent to the swap, but players cannot otherwise change ideology. Players can make this swap once per round.
 
-If *x* players in an ideology vote on a proposal, the indicator puck moves two points towards their corner, (or one point if the puck has reached their corner before), both horizontally and vertically. The first time a player proposes a rule-change on their turn, the indicator puck moves one point towards their ideology’s corner, both horizontally and vertically. This can happen up to *x* times per round for a single ideology. In both cases, *x* is the larger of either, A) the number of active players in the smallest ideology, or B) 2.
+If *x* players in an ideology vote on a proposal, the indicator puck moves two points towards their corner, (or one point if the puck has reached their corner before), both horizontally and vertically. This can happen up to once per turn per ideology. The first time a player proposes a rule-change on their turn, the indicator puck moves one point towards their ideology’s corner, both horizontally and vertically. This can happen up to *x* times per round for a single ideology. In both cases, *x* is equal to the larger of either A) the smallest number *n* such that every ideology has at least *n* active players, or B) 2.
 
 Each ideology has an end-goal, which is activated when the indicator puck reaches their corner. This causes all members of that ideology to gain 35 points and resets the indicator puck.
 
-Each ideology has a power. Members of an ideology must vote in #actions to decide to use their power. The power is only used if 2/3rds of the ideology vote in favor of using it. Powers have a 5-day cooldown. The cost of each power moves the indicator puck the listed distance. Power effects that alter aspects of other powers or mechanics supersede the original descriptions of said powers or mechanics. A player cannot be affected by the same power more than once at the same time.
+Each ideology has a power. Members of an ideology must vote in #actions to decide to use their power. The power is only used if at least 2/3rds of the active players in the ideology vote in favor of using it. Powers have a 5-day cooldown. The cost of each power moves the indicator puck the listed distance. Power effects that alter aspects of other powers or mechanics supersede the original descriptions of said powers or mechanics. A player cannot be affected by the same power more than once at the same time.
 
 #### Pagan Trans-Humanists
 
@@ -390,4 +390,5 @@ Power Effect: Target player’s ideology’s next power usage must target two no
 
 ##### *History*
 
-[*Enacted by Proposal 305 (Alekosen), Jun 11, 2020 (R1T5)*](https://github.com/dmouscher/nomic/blob/f6cf8bd76123d6d9827103d044723a85f1a13579/Game_4/rules/md/305.md)
+[*Enacted by Proposal 305 (Alekosen), Jun 11, 2020 (R1T5)*](https://github.com/dmouscher/nomic/blob/f6cf8bd76123d6d9827103d044723a85f1a13579/Game_4/rules/md/305.md)  
+[*Amended (1) by Proposal 306 (JRK), Jun 13, 2020 (R1T6)*](https://github.com/dmouscher/nomic/blob/f53a3e8f4f368c6927997cc993f43cee6647adef/Game_4/rules/md/305.md)
