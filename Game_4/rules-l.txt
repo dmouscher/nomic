@@ -522,7 +522,7 @@ History:
 Enacted by Proposal 304 (Janwich), Jun 9, 2020 (R1T4)
 
 ----------------------------------------------------------------------
-Rule 305/0
+Rule 305/1
 
       The Political Compass is a 801x801 grid. Four ideological
       groups control the corners of the grid. Pagan Trans-Humanists
@@ -542,12 +542,14 @@ Rule 305/0
       If x players in an ideology vote on a proposal, the indicator
       puck moves two points towards their corner, (or one point if
       the puck has reached their corner before), both horizontally
-      and vertically. The first time a player proposes a rule-change
-      on their turn, the indicator puck moves one point towards
-      their ideology’s corner, both horizontally and vertically.
-      This can happen up to x times per round for a single ideology.
-      In both cases, x is the larger of either, A) the number of
-      active players in the smallest ideology, or B) 2.
+      and vertically. This can happen up to once per turn per
+      ideology. The first time a player proposes a rule-change on
+      their turn, the indicator puck moves one point towards their
+      ideology’s corner, both horizontally and vertically. This can
+      happen up to x times per round for a single ideology. In both
+      cases, x is equal to the larger of either A) the smallest
+      number n such that every ideology has at least n active
+      players, or B) 2.
 
       Each ideology has an end-goal, which is activated when the
       indicator puck reaches their corner. This causes all members
@@ -556,12 +558,13 @@ Rule 305/0
 
       Each ideology has a power. Members of an ideology must vote in
       #actions to decide to use their power. The power is only used
-      if 2/3rds of the ideology vote in favor of using it. Powers
-      have a 5-day cooldown. The cost of each power moves the
-      indicator puck the listed distance. Power effects that alter
-      aspects of other powers or mechanics supersede the original
-      descriptions of said powers or mechanics. A player cannot be
-      affected by the same power more than once at the same time.
+      if at least 2/3rds of the active players in the ideology vote
+      in favor of using it. Powers have a 5-day cooldown. The cost
+      of each power moves the indicator puck the listed distance.
+      Power effects that alter aspects of other powers or mechanics
+      supersede the original descriptions of said powers or
+      mechanics. A player cannot be affected by the same power more
+      than once at the same time.
 
       Pagan Trans-Humanists
 
@@ -627,5 +630,6 @@ Rule 305/0
 
 History:
 Enacted by Proposal 305 (Alekosen), Jun 11, 2020 (R1T5)
+Amended by Proposal 306 (JRK), Jun 13, 2020 (R1T6)
 
 ----------------------------------------------------------------------
