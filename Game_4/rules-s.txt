@@ -511,3 +511,52 @@ Rule 305
       the result is.
 
 ----------------------------------------------------------------------
+Rule 308
+
+      When this rule passes, each player is given 5 random words.
+      (https://wordcounter.net/random-word-generator)
+
+      At the end of a player's turn, the player is given 5 random
+      words. If a player has more than 25 words, they must discrard
+      words until they have no more than 25 words.
+      Groups or individuals of players may combine words to create a
+      temporary rule in #Actions. Once used in a temporary rule, the
+      player cannot use that word again, unless randomly assigned it
+      again. Temporary rules must contain 3 or more words from a
+      player's randomly given word list. 
+
+      Temporary rules are not rules, but become rules on the next
+      turn, or if the turn ends in less then 24 hours, the turn after
+      that.
+
+      Words may be modified to fit gramatically, but the root word
+      meaning must be retained. 
+      Punctuation as well as numerical characters 0 to 9 may be used
+      freely.
+      The following words may be used without players having them:
+      the, be, to, of, and, a, in, that, have, it, for, not, on, with,
+      as, you, do, at, this, but, by, from, they, we, or, will, all,
+      there, their, what, so, if, when, can, no, into, some, can,
+      other, than, then
+
+      By default rules created from temporary rules may not superceed
+      other rules, and are numbered 600's and above.
+      This rule superceed all previous rules. 
+
+      This rule has the authority to repeal rules created from
+      temporary rules.
+      Changes to this rule, can cause ammendments or removal of rules
+      created from temporary rules.
+      Rules created from temporary rules that, either by general
+      consensus or by the Judge's reasoning, are paradoxical, create a
+      situation that has an ambiguous legality, or are too vague to be
+      resolved with confidence are repealed.
+
+      A vote may be invoked in #actions to destroy a temporary rule
+      before it becomes a rule. Once invoked, players have untill the
+      end of the next day (24-48hrs) to vote. At the end of the time
+      period (midnight), if a 65% majority agree, the temprory rule is
+      destroyed, else the temproary rule becomes a rule at the end of
+      the current turn.
+
+----------------------------------------------------------------------
