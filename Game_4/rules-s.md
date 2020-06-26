@@ -259,3 +259,7 @@ A vote may be invoked in #actions to destroy a temporary rule before it becomes 
 All players have an individual emoji list. Once every round, players can add, swap, or remove an emoji from their emoji list by declaring so in #actions. All emojis in a player's emoji list are added at the end of said player's name.
 
 Players must have at least one emoji in their emoji list, and are required to add an emoji to their emoji list if it is empty. Players cannot remove an emoji from their emoji list if doing so would cause their emoji list to become empty.
+
+## 312
+
+If a player, as an individual, proposes a temporary rule that is a quote from a work by Shakespeare, then that player receives five (5) points. The entire rule must be a quote.

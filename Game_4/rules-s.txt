@@ -577,3 +577,10 @@ Rule 309
       doing so would cause their emoji list to become empty.
 
 ----------------------------------------------------------------------
+Rule 312
+
+      If a player, as an individual, proposes a temporary rule that
+      is a quote from a work by Shakespeare, then that player
+      receives five (5) points. The entire rule must be a quote.
+
+----------------------------------------------------------------------
