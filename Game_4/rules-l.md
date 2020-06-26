@@ -419,3 +419,13 @@ A vote may be invoked in #actions to destroy a temporary rule before it becomes 
 ##### *History*
 
 [*Enacted by Proposal 308 (Fenris Wolf), Jun 17, 2020 (R1T8)*](https://github.com/dmouscher/nomic/blob/179894fc90b6536a8b320f9f075215a50e028ca0/Game_4/rules/md/308.md)  
+
+## 309/0
+
+All players have an individual emoji list. Once every round, players can add, swap, or remove an emoji from their emoji list by declaring so in #actions. All emojis in a player's emoji list are added at the end of said player's name.
+
+Players must have at least one emoji in their emoji list, and are required to add an emoji to their emoji list if it is empty. Players cannot remove an emoji from their emoji list if doing so would cause their emoji list to become empty.
+
+##### *History*
+
+[*Enacted by Proposal 309 (iann39), Jun 19, 2020 (R1T9)*](https://github.com/dmouscher/nomic/blob/3e59214a5af9e27a977fd7249a9d8e00f04832e2/Game_4/rules/md/309.md)
