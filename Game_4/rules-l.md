@@ -430,3 +430,11 @@ Players must have at least one emoji in their emoji list, and are required to ad
 ##### *History*
 
 [*Enacted by Proposal 309 (iann39), Jun 19, 2020 (R1T9)*](https://github.com/dmouscher/nomic/blob/3e59214a5af9e27a977fd7249a9d8e00f04832e2/Game_4/rules/md/309.md)
+
+## 312/0
+
+If a player, as an individual, proposes a temporary rule that is a quote from a work by Shakespeare, then that player receives five (5) points. The entire rule must be a quote.
+
+##### *History*
+
+[*Enacted by Proposal 312 (Sauce), Jun 25, 2020 (R2T1)*](https://github.com/dmouscher/nomic/blob/e09d779f41a3f8def00b1aa69ff110e95b9239a8/Game_4/rules/md/312.md)
