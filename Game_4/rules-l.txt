@@ -685,3 +685,19 @@ History:
 Enacted by Proposal 308 (Fenris Wolf), Jun 17, 2020 (R1T8)
 
 ----------------------------------------------------------------------
+Rule 309/0
+
+      All players have an individual emoji list. Once every round,
+      players can add, swap, or remove an emoji from their emoji
+      list by declaring so in #actions. All emojis in a player's
+      emoji list are added at the end of said player's name.
+
+      Players must have at least one emoji in their emoji list, and
+      are required to add an emoji to their emoji list if it is
+      empty. Players cannot remove an emoji from their emoji list if
+      doing so would cause their emoji list to become empty.
+
+History:
+Enacted by Proposal 309 (iann39), Jun 19, 2020 (R1T9)
+
+----------------------------------------------------------------------

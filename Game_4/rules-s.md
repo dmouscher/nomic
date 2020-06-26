@@ -253,3 +253,9 @@ Changes to this rule, can cause ammendments or removal of rules created from tem
 Rules created from temporary rules that, either by general consensus or by the Judge's reasoning, are paradoxical, create a situation that has an ambiguous legality, or are too vague to be resolved with confidence are repealed.
 
 A vote may be invoked in #actions to destroy a temporary rule before it becomes a rule. Once invoked, players have untill the end of the next day (24-48hrs) to vote. At the end of the time period (midnight), if a 65% majority agree, the temprory rule is destroyed, else the temproary rule becomes a rule at the end of the current turn.
+
+## 309
+
+All players have an individual emoji list. Once every round, players can add, swap, or remove an emoji from their emoji list by declaring so in #actions. All emojis in a player's emoji list are added at the end of said player's name.
+
+Players must have at least one emoji in their emoji list, and are required to add an emoji to their emoji list if it is empty. Players cannot remove an emoji from their emoji list if doing so would cause their emoji list to become empty.
