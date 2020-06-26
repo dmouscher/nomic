@@ -186,7 +186,11 @@ Rule 206
 
       The length of a turn defaults to 24 hours. If the player whose
       turn it is has made a proposal, the length of the turn is
-      extended by 24 more hours.
+      extended by 24 more hours. If, at the 24-hour mark of a turn,
+      all active players have cast an unwithdrawn vote on the
+      current revision of the proposal, and Judgment has not been
+      invoked during said turn, the above extension is revoked and
+      the turn ends immediately.
 
 ----------------------------------------------------------------------
 Rule 207
