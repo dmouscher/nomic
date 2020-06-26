@@ -186,11 +186,12 @@ Every active player is an eligible voter. Every eligible voter must participate 
 
 ## 206/0
 
-The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours.
+The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours. If, at the 24-hour mark of a turn, all active players have cast an unwithdrawn vote on the current revision of the proposal, and Judgment has not been invoked during said turn, the above extension is revoked and the turn ends immediately.
 
 ##### *History*
 
-[*Initial mutable Rule 206, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/206.md)
+[*Initial mutable Rule 206, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/206.md)  
+[*Amended (1) by Proposal 311 (Crorem), Jun 23, 2020 (R1T11)*](https://github.com/dmouscher/nomic/blob/1a312b472fc5530a3a40a069cdd116ba5414b82f/Game_4/rules/md/206.md)
 
 ## 207/0
 
