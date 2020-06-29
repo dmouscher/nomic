@@ -438,3 +438,27 @@ If a player, as an individual, proposes a temporary rule that is a quote from a 
 ##### *History*
 
 [*Enacted by Proposal 312 (Sauce), Jun 25, 2020 (R2T1)*](https://github.com/dmouscher/nomic/blob/e09d779f41a3f8def00b1aa69ff110e95b9239a8/Game_4/rules/md/312.md)
+
+## 314/0
+
+#### Battleship:  
+Each player will have their own 10x10 grid that they have to place 5 ships. Horizontal coordinates are the first 10 letters of the alphabet, and vertical are 1-10  
+1. Carrier with size 5  
+2. Battleship with size 4  
+3. Destroyer with size 3  
+4. Submarine with size 3  
+5. Patrol Boat with size 2
+
+Each of these ships has a width of 1 and a length of its size. They can be oriented any way so that it takes up consecutive grid spots equal to the size of the ship. Each player must submit their ship positions before they can participate in the bombing of other players. Ships may touch, but cannot occupy the same grid square as another.
+
+Each turn players who have placed their ships may bomb another player by calling out their name and the grid coordinates they are bombing. After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
+
+If a player places their ships following the first day of Battleship being active, that players grid system is randomly bombed the number of turns since the start of battleship multiplied by 4. Players can bomb twice per turn.
+
+When a player no longer has a ship that hasnt been sunk, that player has lost the game of battleship. Players who have lost can no longer bomb other players. When a final player of all active players is alone with floating ships that player gains 10 points. 
+
+Upon conclusion another game of battleship begins.
+
+##### *History*
+
+[*Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)*](https://github.com/dmouscher/nomic/blob/9e25ddb9de9437ee78bf13ab9302e8a1494f9b27/Game_4/rules/md/314.md)
