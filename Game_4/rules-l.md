@@ -462,3 +462,11 @@ Upon conclusion another game of battleship begins.
 ##### *History*
 
 [*Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)*](https://github.com/dmouscher/nomic/blob/9e25ddb9de9437ee78bf13ab9302e8a1494f9b27/Game_4/rules/md/314.md)
+
+## 316/0
+
+Whichever active player has the fewest points at the conclusion of the game must, as punishment for their poor performance, craft a self deprecating meme, made identifiable by using a photograph of themselves, or copy of their profile picture. The meme must show that the player understands that they lost, and show some level of shame and embarrassment. If the player fails to submit the meme within 72 hours of the conclusion of the game, the meme will be made for them by @Lovergirls Precinct, and will be made *Extra Savage*.
+
+##### *History*
+
+[*Enacted by Proposal 316 (Lovergirls Precinct), Jul 2, 2020 (R2T5)*](https://github.com/dmouscher/nomic/blob/8bd9a9e94bd97a3af17c05c2917ecc83ca87adbf/Game_4/rules/md/316.md)
