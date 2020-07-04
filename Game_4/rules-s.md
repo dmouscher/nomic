@@ -287,3 +287,36 @@ Upon conclusion another game of battleship begins.
 ## 316
 
 Whichever active player has the fewest points at the conclusion of the game must, as punishment for their poor performance, craft a self deprecating meme, made identifiable by using a photograph of themselves, or copy of their profile picture. The meme must show that the player understands that they lost, and show some level of shame and embarrassment. If the player fails to submit the meme within 72 hours of the conclusion of the game, the meme will be made for them by @Lovergirls Precinct, and will be made *Extra Savage*.
+
+## 317
+
+An action is a direct change to the state of the game. An action can be directly player-initiated or created as the result of an ability.
+
+An ability is a property that each player may or may not have. Abilities create actions depending on what triggers that the ability has. Actions created by an ability are treated as though they were initiated by the originator of said ability.
+
+An action is either an inalienable action or an actionable action. Actionable actions are further divided into immediate actionable action and delayed actionable actions. Abilities have the same classification. An ability of any given type will create actions with the corresponding type.
+
+Action stacks are stacks that delayed actionable actions are pushed on to, popped off from, or created in. Only delayed actionable actions may go on action stacks. If at any point a delayed actionable action on an action stack ceases to be a delayed actionable action, it is removed from its action stack. If the former delayed actionable action is still an action, it is simultaneously put into action.
+
+When an action exerts its stated effect on the game, that action is said to be "put into action".
+
+An inalienable action or an immediate actionable action is put into action the moment it is performed or created, and is irreversible save for Judgment that it was performed or created illegally. A delayed actionable action is pushed onto a specific action stack when it is performed or created. If an action stack and all of the actions that it contains have been unmodified for four consecutive hours, the action stack will pop actions until either a new action has been placed onto said action stack or said action stack is empty, at which point it is deleted. Actions popped in this manner are put into action unless they are blocked or don't meet their prerequisites at the time they are popped. Popped actions occur consecutively.
+
+If an action has a cost, said cost must be paid to perform said action. Costs to perform an action are paid the moment said action is performed and are not part of the action itself. Paying a cost to perform an action is itself an immediate actionable action.
+
+While on its action stack, a delayed actionable action may be blocked, removed, copied, or modified by other actions that target said delayed actionable action.
+
+* When an action that blocks a target delayed actionable action is put into action, the target action is blocked
+* When an action that removes a target delayed actionable action is put into action, the target action is removed from its action stack.
+* When an action that copies a target delayed actionable action is put into action, a copy of the target action is pushed onto a specific stack. The copy of the action is identical to the target action at the time that it was copied, save that it is treated as though it was performed by the player who performed the actions that copied the action that the copy of the action was copied from. 
+* When an action that modifies a target delayed actionable action is put into action, the target action is modified as the targeting action specifies, keeping both its action stack and its placement on its action stack.
+
+Actions may not target themselves. If an action that is put into action would target an action not on its action stack, it instead does nothing.
+
+By default, performing or creating a delayed actionable action creates a new action stack and pushes said action onto it. A player can choose to push a newly-performed action of theirs on top of a preexisting action stack by specifying that they are doing so. Stating that an action is going on the same stack that some specific action is or was on is sufficient specification.
+
+Performed or created actions that target a specific action automatically go on the same action stack as said specific action, any specification to the contrary notwithstanding. If an action targets actions on multiple action stacks, all action stacks containing action that said action targets are merged, and said action is pushed onto the merged stack. Actions in the merged stack are sorted chronologically, with the action created most recently on the top of the action stack and the action created least recently on the bottom of the action stack.
+
+Copied delayed actionable action are put onto the same stack that they would be were the copied delayed actionable action a performed delayed actionable action, with the exception that the player who copied the copied delayed actionable action cannot choose to push said copied delayed actionable action onto an action stack with no action that said copied delayed actionable action targets.
+
+All actions and abilities defined or regulated by the Initial Set (i.e. actions defined or regulated by any rule with a rule number less than 300) are classified as inalienable, while all other actions and abilities are classified as actionable. All actionable actions are immediate actionable actions unless otherwise stated, and all actionable abilities are immediate actionable abilities unless otherwise stated.
