@@ -283,3 +283,7 @@ If a player places their ships following the first day of Battleship being activ
 When a player no longer has a ship that hasnt been sunk, that player has lost the game of battleship. Players who have lost can no longer bomb other players. When a final player of all active players is alone with floating ships that player gains 10 points. 
 
 Upon conclusion another game of battleship begins.
+
+## 316
+
+Whichever active player has the fewest points at the conclusion of the game must, as punishment for their poor performance, craft a self deprecating meme, made identifiable by using a photograph of themselves, or copy of their profile picture. The meme must show that the player understands that they lost, and show some level of shame and embarrassment. If the player fails to submit the meme within 72 hours of the conclusion of the game, the meme will be made for them by @Lovergirls Precinct, and will be made *Extra Savage*.
