@@ -320,3 +320,7 @@ Performed or created actions that target a specific action automatically go on t
 Copied delayed actionable action are put onto the same stack that they would be were the copied delayed actionable action a performed delayed actionable action, with the exception that the player who copied the copied delayed actionable action cannot choose to push said copied delayed actionable action onto an action stack with no action that said copied delayed actionable action targets.
 
 All actions and abilities defined or regulated by the Initial Set (i.e. actions defined or regulated by any rule with a rule number less than 300) are classified as inalienable, while all other actions and abilities are classified as actionable. All actionable actions are immediate actionable actions unless otherwise stated, and all actionable abilities are immediate actionable abilities unless otherwise stated.
+
+## 318
+
+Players may request a custom emoji on their turn in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
