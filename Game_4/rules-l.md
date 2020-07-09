@@ -515,3 +515,32 @@ Players may request a custom emoji on their turn in #actions to be added to the 
 ##### *History*
 
 [*Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)*](https://github.com/dmouscher/nomic/blob/2b4d7c42cca91aacaece964226a3ab5e826a0927/Game_4/rules/md/318.md)
+
+## 319/0
+
+A Type is a property that may belong to a in-game entity or an action. Actions may have up to one Type. Non-action entities may have up to two Types. An entity or action that has at least one Type is said to be Typed.
+
+The list of Types is as follows:
+
+* Executive
+* Legislative
+* Judicial
+* Bureaucratic
+* Military
+* Lobbyist
+* Diplomat
+* Journalist
+* Pundit
+* Delegate
+
+Any given Type is either super effective, not very effective, or normally effective against any other given type. By default, one Type is normally effective against a second Type. The Type Chart, displayed below, indicates the effectiveness of the first type (left) against the second type (top):
+
+![319 graph](images/319.png)
+
+Types bestow their effectiveness properties on the entities that have them; a Typed action targeting a Typed entity with one Type where the action's Type is super effective against entity's Type is considered to be super effective against the entity itself, and likewise for not very effective Types.
+
+If a Typed entity with two Types is targeted by a Typed action, and the action's Type is super effective against one of the entity's Types but not very effective against the other, said action is to be considered normally effective against said entity. Similarly, if the action's Type is super effective against both of the entity's Types, said action is to be considered super super effective against said entity, and if the action's Type is not very effective against both of the entity's Types, said action is to be considered very not very effective against said entity.
+
+##### *History*
+
+[*Enacted by Proposal 319 (Crorem), Jul 8, 2020 (R2T9)*](https://github.com/dmouscher/nomic/blob/91656a3a5a9a14b43fbb0a92f587ac674a535e8a/Game_4/rules/md/319.md)
