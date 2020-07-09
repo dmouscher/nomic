@@ -1,0 +1,24 @@
+Rule 319/0
+
+A Type is a property that may belong to a in-game entity or an action. Actions may have up to one Type. Non-action entities may have up to two Types. An entity or action that has at least one Type is said to be Typed.
+
+The list of Types is as follows:
+
+• Executive
+• Legislative
+• Judicial
+• Bureaucratic
+• Military
+• Lobbyist
+• Diplomat
+• Journalist
+• Pundit
+• Delegate
+
+Any given Type is either super effective, not very effective, or normally effective against any other given type. By default, one Type is normally effective against a second Type. The Type Chart, displayed below, indicates the effectiveness of the first type (left) against the second type (top):
+
+>>319.png
+
+Types bestow their effectiveness properties on the entities that have them; a Typed action targeting a Typed entity with one Type where the action's Type is super effective against entity's Type is considered to be super effective against the entity itself, and likewise for not very effective Types.
+
+If a Typed entity with two Types is targeted by a Typed action, and the action's Type is super effective against one of the entity's Types but not very effective against the other, said action is to be considered normally effective against said entity. Similarly, if the action's Type is super effective against both of the entity's Types, said action is to be considered super super effective against said entity, and if the action's Type is not very effective against both of the entity's Types, said action is to be considered very not very effective against said entity.
