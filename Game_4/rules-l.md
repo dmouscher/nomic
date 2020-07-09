@@ -507,3 +507,11 @@ All actions and abilities defined or regulated by the Initial Set (i.e. actions 
 ##### *History*
 
 [*Enacted by Proposal 317 (Fenris Wolf), Jul 4, 2020 (R2T6)*](https://github.com/dmouscher/nomic/blob/2c883339bd66cabb1f50252daad8bb6f854ae167/Game_4/rules/md/317.md)
+
+## 318/0
+
+Players may request a custom emoji on their turn in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
+
+##### *History*
+
+[*Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)*](https://github.com/dmouscher/nomic/blob/2b4d7c42cca91aacaece964226a3ab5e826a0927/Game_4/rules/md/318.md)
