@@ -355,3 +355,25 @@ If a Typed entity with two Types is targeted by a Typed action, and the action's
 ## 320
 
 Proposing a rule-change counts as a vote for said rule-change. Such a vote may still be changed or withdrawn before the end of the voting process.
+
+## 323
+
+Bot-players are a subcategory of player.
+
+1) Bot-players do not get turns, superseding 201.  
+2) Bot-players do not receive points and cannot win, superseding 201, 212, 213, and 217.  
+3) Bot-players cannot be judges, superseding 215.  
+4) Bot-players can be created through rule-changes, superseding 218.  
+5) Bot-players cannot belong to political ideologies, superseding 305.  
+6) Bot-players cannot participate in Battleship, superseding 314.  
+7) Any future rules that mention players do not necessarily include bot-players. They must refer to bot-players explicitly.
+
+Nomitron is a bot-player.
+
+If all active players have a current & unambiguous vote on a rule-change, the player proposing the rule-change has used all of their re-proposals, and there is a tie, Nomitron will roll 1d3.
+
+1) If Nomitron rolls a one, Nomitron votes yay.  
+2) If Nomitron rolls a two, Nomitron votes nay.  
+3) If Nomitron rolls a three, Nomitron does not vote.
+
+This roll can only happen once a turn. If the circumstances triggering Nomitron’s roll are re-reached after the initial roll, it will not trigger an additional roll.
