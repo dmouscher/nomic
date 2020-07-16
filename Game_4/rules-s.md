@@ -274,15 +274,17 @@ Each player will have their own 10x10 grid that they have to place 5 ships. Hori
 4. Submarine with size 3  
 5. Patrol Boat with size 2
 
-Each of these ships has a width of 1 and a length of its size. They can be oriented any way so that it takes up consecutive grid spots equal to the size of the ship. Each player must submit their ship positions before they can participate in the bombing of other players. Ships may touch, but cannot occupy the same grid square as another.
+Each of these ships has a width of 1 and a length of its size. They can be oriented horizontally or vertically so that it takes up consecutive grid spots equal to the size of the ship. Ships may touch, but cannot occupy the same grid square as another.
 
-Each turn players who have placed their ships may bomb another player by calling out their name and the grid coordinates they are bombing. After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
+Players face off in 1v1s by challenging publicly in actions and both players agreeing to play. Players may only be playing against one other player.
 
-If a player places their ships following the first day of Battleship being active, that players grid system is randomly bombed the number of turns since the start of battleship multiplied by 4. Players can bomb twice per turn.
+After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
 
-When a player no longer has a ship that hasnt been sunk, that player has lost the game of battleship. Players who have lost can no longer bomb other players. When a final player of all active players is alone with floating ships that player gains 10 points. 
+Players can only target the player they are paired against with bombs. Players can bomb twice per turn. If a player does not bomb for 3 turns a player automatically forfeits.
 
-Upon conclusion another game of battleship begins.
+When a player in a 1v1 has no more ships with unhit grid coordinates then the other player wins.
+
+When a player wins a game they gain 2 points. Players can only gain points from battleship once every turn. 
 
 ## 316
 
