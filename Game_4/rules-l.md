@@ -439,7 +439,7 @@ If a player, as an individual, proposes a temporary rule that is a quote from a 
 
 [*Enacted by Proposal 312 (Sauce), Jun 25, 2020 (R2T1)*](https://github.com/dmouscher/nomic/blob/e09d779f41a3f8def00b1aa69ff110e95b9239a8/Game_4/rules/md/312.md)
 
-## 314/0
+## 314/1
 
 #### Battleship:  
 Each player will have their own 10x10 grid that they have to place 5 ships. Horizontal coordinates are the first 10 letters of the alphabet, and vertical are 1-10  
@@ -449,19 +449,22 @@ Each player will have their own 10x10 grid that they have to place 5 ships. Hori
 4. Submarine with size 3  
 5. Patrol Boat with size 2
 
-Each of these ships has a width of 1 and a length of its size. They can be oriented any way so that it takes up consecutive grid spots equal to the size of the ship. Each player must submit their ship positions before they can participate in the bombing of other players. Ships may touch, but cannot occupy the same grid square as another.
+Each of these ships has a width of 1 and a length of its size. They can be oriented horizontally or vertically so that it takes up consecutive grid spots equal to the size of the ship. Ships may touch, but cannot occupy the same grid square as another.
 
-Each turn players who have placed their ships may bomb another player by calling out their name and the grid coordinates they are bombing. After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
+Players face off in 1v1s by challenging publicly in actions and both players agreeing to play. Players may only be playing against one other player.
 
-If a player places their ships following the first day of Battleship being active, that players grid system is randomly bombed the number of turns since the start of battleship multiplied by 4. Players can bomb twice per turn.
+After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
 
-When a player no longer has a ship that hasnt been sunk, that player has lost the game of battleship. Players who have lost can no longer bomb other players. When a final player of all active players is alone with floating ships that player gains 10 points. 
+Players can only target the player they are paired against with bombs. Players can bomb twice per turn. If a player does not bomb for 3 turns a player automatically forfeits.
 
-Upon conclusion another game of battleship begins.
+When a player in a 1v1 has no more ships with unhit grid coordinates then the other player wins.
+
+When a player wins a game they gain 2 points. Players can only gain points from battleship once every turn. 
 
 ##### *History*
 
-[*Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)*](https://github.com/dmouscher/nomic/blob/9e25ddb9de9437ee78bf13ab9302e8a1494f9b27/Game_4/rules/md/314.md)
+[*Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)*](https://github.com/dmouscher/nomic/blob/9e25ddb9de9437ee78bf13ab9302e8a1494f9b27/Game_4/rules/md/314.md)  
+[*Amended (1) by Proposal 322 (Janwich), Jul 12, 2020 (R3T3)*](https://github.com/dmouscher/nomic/blob/2815e469255da49113f0d9a5dd70aca5df5ad8f8/Game_4/rules/md/314.md)
 
 ## 316/0
 
@@ -545,7 +548,7 @@ If a Typed entity with two Types is targeted by a Typed action, and the action's
 
 [*Enacted by Proposal 319 (Crorem), Jul 8, 2020 (R2T9)*](https://github.com/dmouscher/nomic/blob/91656a3a5a9a14b43fbb0a92f587ac674a535e8a/Game_4/rules/md/319.md)
 
-## 320
+## 320/0
 
 Proposing a rule-change counts as a vote for said rule-change. Such a vote may still be changed or withdrawn before the end of the voting process.
 
