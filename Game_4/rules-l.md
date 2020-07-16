@@ -184,7 +184,7 @@ Every active player is an eligible voter. Every eligible voter must participate 
 
 [*Initial mutable Rule 205, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/205.md)
 
-## 206/0
+## 206/1
 
 The length of a turn defaults to 24 hours. If the player whose turn it is has made a proposal, the length of the turn is extended by 24 more hours. If, at the 24-hour mark of a turn, all active players have cast an unwithdrawn vote on the current revision of the proposal, and Judgment has not been invoked during said turn, the above extension is revoked and the turn ends immediately.
 
@@ -555,3 +555,29 @@ Proposing a rule-change counts as a vote for said rule-change. Such a vote may s
 ##### *History*
 
 [*Enacted by Proposal 320 (Sauce), Jul 9, 2020 (R3T1)*](https://github.com/dmouscher/nomic/blob/5638e07ea320d96f4ff76a884a1afcf51227470d/Game_4/rules/md/320.md)
+
+## 323/0
+
+Bot-players are a subcategory of player.
+
+1) Bot-players do not get turns, superseding 201.  
+2) Bot-players do not receive points and cannot win, superseding 201, 212, 213, and 217.  
+3) Bot-players cannot be judges, superseding 215.  
+4) Bot-players can be created through rule-changes, superseding 218.  
+5) Bot-players cannot belong to political ideologies, superseding 305.  
+6) Bot-players cannot participate in Battleship, superseding 314.  
+7) Any future rules that mention players do not necessarily include bot-players. They must refer to bot-players explicitly.
+
+Nomitron is a bot-player.
+
+If all active players have a current & unambiguous vote on a rule-change, the player proposing the rule-change has used all of their re-proposals, and there is a tie, Nomitron will roll 1d3.
+
+1) If Nomitron rolls a one, Nomitron votes yay.  
+2) If Nomitron rolls a two, Nomitron votes nay.  
+3) If Nomitron rolls a three, Nomitron does not vote.
+
+This roll can only happen once a turn. If the circumstances triggering Nomitron’s roll are re-reached after the initial roll, it will not trigger an additional roll.
+
+##### *History*
+
+[*Enacted by Proposal 323 (Alekosen), Jul 14, 2020 (R3T4)*](https://github.com/dmouscher/nomic/blob/b66a826c9a2c9422aa352c68e5ea2236785e0a1d/Game_4/rules/md/323.md)
