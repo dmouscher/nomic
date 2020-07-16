@@ -377,3 +377,10 @@ If all active players have a current & unambiguous vote on a rule-change, the pl
 3) If Nomitron rolls a three, Nomitron does not vote.
 
 This roll can only happen once a turn. If the circumstances triggering Nomitron’s roll are re-reached after the initial roll, it will not trigger an additional roll.
+
+## 324
+
+Should any player mention or reference Bot-player, and all around good guy, @Nomitron in a message which also contains profanity<sup>[1]</sup> the offending player will lose 1 point for each such message posted.  
+
+<sup>[1]</sup> Profanity is described here as any word included in the list found here:  
+https<span>://</span>github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt

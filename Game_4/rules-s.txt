@@ -860,3 +860,15 @@ Rule 323
       roll, it will not trigger an additional roll.
 
 ----------------------------------------------------------------------
+Rule 324
+
+      Should any player mention or reference Bot-player, and all
+      around good guy, @Nomitron in a message which also contains
+      profanity[1] the offending player will lose 1 point for each
+      such message posted.
+      [1]Profanity is described here as any word included in the list
+      found here: 
+      https://github.com/RobertJGabriel/Google-profanity-words/blob/
+      master/list.txt
+
+----------------------------------------------------------------------
