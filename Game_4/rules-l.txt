@@ -966,3 +966,13 @@ History:
 Enacted by Proposal 319 (Crorem), Jul 8, 2020 (R2T9)
 
 ----------------------------------------------------------------------
+Rule 320/0
+
+      Proposing a rule-change counts as a vote for said rule-change.
+      Such a vote may still be changed or withdrawn before the end
+      of the voting process.
+
+History:
+Enacted by Proposal 320 (Sauce), Jul 9, 2020 (R3T1)
+
+----------------------------------------------------------------------

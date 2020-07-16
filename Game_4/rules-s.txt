@@ -819,3 +819,10 @@ Rule 319
       very effective against said entity.
 
 ----------------------------------------------------------------------
+Rule 320
+
+      Proposing a rule-change counts as a vote for said rule-change.
+      Such a vote may still be changed or withdrawn before the end
+      of the voting process.
+
+----------------------------------------------------------------------
