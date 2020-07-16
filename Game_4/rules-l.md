@@ -581,3 +581,14 @@ This roll can only happen once a turn. If the circumstances triggering Nomitronâ
 ##### *History*
 
 [*Enacted by Proposal 323 (Alekosen), Jul 14, 2020 (R3T4)*](https://github.com/dmouscher/nomic/blob/b66a826c9a2c9422aa352c68e5ea2236785e0a1d/Game_4/rules/md/323.md)
+
+## 324/0
+
+Should any player mention or reference Bot-player, and all around good guy, @Nomitron in a message which also contains profanity<sup>[1]</sup> the offending player will lose 1 point for each such message posted.  
+
+<sup>[1]</sup> Profanity is described here as any word included in the list found here:  
+https<span>://</span>github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt
+
+##### *History*
+
+[*Enacted by Proposal 324 (Lovergirls Precinct), Jul 15, 2020 (R3T5)*](https://github.com/dmouscher/nomic/blob/6698cb96cfad2e2b4b2457ba31722d54b338fa77/Game_4/rules/md/324.md)
