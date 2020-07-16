@@ -544,3 +544,11 @@ If a Typed entity with two Types is targeted by a Typed action, and the action's
 ##### *History*
 
 [*Enacted by Proposal 319 (Crorem), Jul 8, 2020 (R2T9)*](https://github.com/dmouscher/nomic/blob/91656a3a5a9a14b43fbb0a92f587ac674a535e8a/Game_4/rules/md/319.md)
+
+## 320
+
+Proposing a rule-change counts as a vote for said rule-change. Such a vote may still be changed or withdrawn before the end of the voting process.
+
+##### *History*
+
+[*Enacted by Proposal 320 (Sauce), Jul 9, 2020 (R3T1)*](https://github.com/dmouscher/nomic/blob/5638e07ea320d96f4ff76a884a1afcf51227470d/Game_4/rules/md/320.md)
