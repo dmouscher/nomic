@@ -1,0 +1,46 @@
+Rule 325/0
+
+Criminal Court:
+
+If a player is formally accused of breaking a rule by a moderator, or by majority player agreement, then that player is given the status “Suspicari Criminalibus”. A player with the status Suspicari Criminalibus cannot perform any actionable actions save for those defined in this rule.
+
+When a player is granted the status of Suspicari Criminalibus, a Criminal Judge is picked using the same method as Judges, i.e. the first eligible active player in reverse turn order, starting from the player preceding the player whose turn it currently is, is made Criminal Judge. A player is not eligible to be a Criminal Judge if they have a conflict of interest that would not allow them to be impartial. A player is not eligible to be Criminal Judge if they are the Prosecutor or the Defense. A player is not eligible to be Criminal Judge if they are Judge. A player is not eligible to be Judge if they are Criminal Judge, superseding Rule 215.
+
+If the Suspicari Criminalibus was formally accused by a moderator, said moderator will be designated as Prosecutor. If not, a willing mod will be chosen as Prosecutor instead. The Suspicari Criminalibus will be designated as the Defense. A player is not eligible to be Judge if they are the Prosecutor or Defense, superseding Rule 215. If the Prosecutor or Defense becomes Judge, the case is suspended until they are no longer Judge.
+
+A court channel will be used for criminal proceedings. Only the Prosecutor, Defense, Criminal Judge, and any Appeals Judges may use the court channel. A Judge may also use the court channel if Judgment is currently invoked.
+
+If the prosecutor proves beyond a reasonable doubt to the Criminal Judge that the Defense is guilty of breaking a rule, or if the Defense pleads guilty to the offense during or prior to the start of the trail, then the Defense is convicted of breaking said rule. It is the Criminal Judge’s job to then declare the Defendant’s guilt or innocence and, if the former was declared, assign a punishment.
+
+The severity of a Criminal Judge’s punishment is largely dependent on the severity of the crime itself. On a guilty verdict, the Criminal Judge classifies the crime under one of three different categories:
+• Misdemeanors are the class of reversible crimes.
+• Felonies are the class of irreversible crimes.
+• War Crimes are the class of irreversible crimes that do excessive harm to the game. 
+
+The Prosecutor and Defence take turns making opening statements, arguments, and closing statements. Opening statements, arguments, and closing statements must be submitted within 24 hours of the previous statement. A Prosecutor or Defense that fails to do so within the allotted time is considered to have made a blank statement at the end of the allotted time. Once closing statements are done, the Criminal Judge has 24 hours to make a verdict and post it. If 24 hours pass without such a verdict the Criminal Judge is considered to have automatically posted an innocent verdict.
+
+After the verdict is posted roles of Criminal Judge, Prosecutor, Defence, and Suspicari Criminalibus are removed.
+
+The following are established punishments to crimes, however it is up to the Criminal Judge to augment or reduce punishment, taking into account the severity of the offense, whether or not the offense was a repeated one, the Defense’s plea, and other relevant context:
+• If the Defense is charged with a Misdemeanor, and the Misdemeanor is not a repeat offence, then they are given a warning.
+• If the Defense is charged with a Misdemeanor, and the Misdemeanor is a repeat offence, then they are restricted in a manner to inhibit repetition of the crime, and a bail is posted. If this bail is paid, then the restrictions are removed. The length of time that a player is restricted may is up to the judge's prerogative. 
+• If the Defense is charged with a Felony, and the Felony is not a repeat offence, then they are given a warning, temporary restriction or are somehow publicly shamed in a manner that does not impact the game state. Additionally, bail is posted. If this bail is paid, then the restrictions and/or humiliation are removed. 
+• If the Defense is charged with a Felony, and the Felony is a repeat offence, then they are banned from performing actionable actions for a certain duration, and fined. The player may be banned from nomic if sufficient intent and malice is demonstrated. 
+• All War Crimes are punishable by ban from Nomic or perpetual restrictions and extensive fines.
+
+If new evidence comes to light or it was discovered that legal errors were made in a previous criminal trial, then an appeals court may be convened. The validity of convening an appeals court is determined by said appeals court. A player must formally request an appeals court be formed and present said new evidence or legal errors.
+
+Following the request, three Appellate Judges are convened in an appeals court using the same method as a Criminal Judge, with the additional restriction that the Criminal Judge for the criminal trial being appealed cannot be an Appellate Judge. (The Prosecutor and Defense, for the purposes of convening Appellate Judges, are considered to be the same players that they were in the criminal trial being appealed.)
+
+The Appellate Judges first must determine the validity of the appeal by majority vote.
+If said appeal is deemed valid then the criminal case referred to by the appeal is reopened with the same Prosecutor and Defence. The appeals court is then held exactly as a criminal court with the Appellate Judges taking the place of the Criminal Judge and with their verdict and sentencing decided by a majority vote between them. As with a Criminal Judge’s verdict, an Appellate Judge’s absence of a verdict after 24 hours of the closing statements is considered to be a vote for an innocent verdict.
+
+All crimes are tried in accordance with the ruleset at the time said rule was broken. No crimes may be charged against a rule ex post facto. 
+
+In the event that no one is eligible to be Judge for Judgment due to the restrictions on Judge eligibility in this rule, said restrictions are lifted for the duration of the turn.
+
+In the event that not enough active players are available for a criminal court, then the case may be decided through Judgment, with the Judge taking place of the Criminal Judge for purposes of declaring a verdict and sentence and with no Prosecutor or Defense. A request to appeal a trial conducted in such a manner is automatically considered valid if sufficient players are available to fulfill a three-judge appeals court with prosecutor and defence.
+
+In the event not enough eligible players are available for an appeals court, then the number of Appellate Judges convened is reduced to one for said court. If there would still not be enough eligible players given a one-judge appeals court, then no appeal that would cause such an insufficiency may be considered until such time when this is no longer the case.
+
+Only one criminal trial may be held at a time, be it a criminal court or an appeals court. 
