@@ -431,3 +431,7 @@ In the event that not enough active players are available for a criminal court, 
 In the event not enough eligible players are available for an appeals court, then the number of Appellate Judges convened is reduced to one for said court. If there would still not be enough eligible players given a one-judge appeals court, then no appeal that would cause such an insufficiency may be considered until such time when this is no longer the case.
 
 Only one criminal trial may be held at a time, be it a criminal court or an appeals court. 
+
+## 326/0
+
+Players may abstain from voting by writing abstain in #voting. If a player abstains then that player is considered to have voted. Abstain is not to be considered or interpreted as a yay or nay vote. A vote that is unambiguously an abstain, does not count toward calculating simple majority needed to pass a rule-change, superseding 203

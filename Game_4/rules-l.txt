@@ -1182,3 +1182,16 @@ History:
 Enacted by Proposal 325 (Fenris Wolf), Jul 17, 2020 (R3T6)
 
 ----------------------------------------------------------------------
+Rule 326/0
+
+      Players may abstain from voting by writing abstain in #voting.
+      If a player abstains then that player is considered to have
+      voted. Abstain is not to be considered or interpreted as a yay
+      or nay vote. A vote that is unambiguously an abstain, does not
+      count toward calculating simple majority needed to pass a
+      rule-change, superseding 203
+
+History:
+Enacted by Proposal 326 (iann39), Jul 18, 2020 (R3T7)
+
+----------------------------------------------------------------------

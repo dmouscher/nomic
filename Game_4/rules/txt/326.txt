@@ -1,0 +1,3 @@
+Rule 326/0
+
+Players may abstain from voting by writing abstain in #voting. If a player abstains then that player is considered to have voted. Abstain is not to be considered or interpreted as a yay or nay vote. A vote that is unambiguously an abstain, does not count toward calculating simple majority needed to pass a rule-change, superseding 203
