@@ -643,3 +643,11 @@ Only one criminal trial may be held at a time, be it a criminal court or an appe
 ##### *History*
 
 [*Enacted by Proposal 325 (Fenris Wolf), Jul 17, 2020 (R3T6)*](https://github.com/dmouscher/nomic/blob/5110dcb0ba9b1d245c6c6e87d80edd5a804ae074/Game_4/rules/md/325.md)
+
+## 326/0
+
+Players may abstain from voting by writing abstain in #voting. If a player abstains then that player is considered to have voted. Abstain is not to be considered or interpreted as a yay or nay vote. A vote that is unambiguously an abstain, does not count toward calculating simple majority needed to pass a rule-change, superseding 203
+
+##### *History*
+
+[*Enacted by Proposal 326 (iann39), Jul 18, 2020 (R3T7)*](https://github.com/dmouscher/nomic/blob/73294fdc0e90410c1276606be8e42f3727cd9ccf/Game_4/rules/md/326.md)
