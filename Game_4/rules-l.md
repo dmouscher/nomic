@@ -230,10 +230,12 @@ Players may change or withdraw their votes by stating their intention to do so. 
 
 Proposals may not be edited after they are submitted for voting. A proposal may be resubmitted up to two times a turn but may not be resubmitted if the turn has started more than 24 hours ago. Resubmitting a proposal restarts the vote on the proposal.
 
+If at the 24hr mark of a turn if 75% of the votes for the current proposal have the word "extend" (not case sensitive) then the current turn is extended another 24hrs, the current player can propose an additional time, and they are allowed to proposal up to 48hrs after their turn is started
+
 ##### *History*
 
-[*Initial mutable Rule 210, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/210.md)
-
+[*Initial mutable Rule 210, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/210.md)  
+[*Amended (1) by Proposal 328 (THUNDER THIGHS), Jul 24, 2020*](https://github.com/dmouscher/nomic/blob/fc89eb98e398d22eed3d3c3d39b8a810a11d0f0f/Game_4/rules/md/210.md)
 ## 211/0
 
 If a section of a rule relies on a bot to be implemented to the point where its manual implementation would be infeasible, and there is no such bot, then said rule’s section is void until said bot is functional.
