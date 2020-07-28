@@ -651,3 +651,19 @@ Players may abstain from voting by writing abstain in #voting. If a player absta
 ##### *History*
 
 [*Enacted by Proposal 326 (iann39), Jul 18, 2020 (R3T7)*](https://github.com/dmouscher/nomic/blob/73294fdc0e90410c1276606be8e42f3727cd9ccf/Game_4/rules/md/326.md)
+
+## 327/0
+
+The Major Deck of Minor Arcana is an infinite deck of cards with infinite copies of the Minor Arcana. Cards in the Minor Arcana have one of four suits: Swords, Wands, Coins, and Cups, and have one of fourteen ranks, in ascending order: Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Page, Knight, Queen, King, Ace.
+
+A card that is known to be either not in the Major Deck of Minor Arcana or in a specific position in the Major Deck of Minor Arcana is said to be fixed. If the location of a fixed card is changed such that it is not known where it is in the Major Deck of Minor Arcana, or if a card is never fixed in the first place, it is said to be unfixed. To actively unfix a card means to put it randomly back in the Major Deck of Minor Arcana.
+
+Each unique card c in the Minor Arcana has relative weight *wc* = 2<sup>-*kc*</sup> where *kc* is equal to the number of copies of *c* that are currently fixed. When a card is fixed, it becomes unique card c with probability *wc*/*W*, where *W* is the sum of all relative weights.
+
+Players start out with five cards in their hand, which is unordered. They can draw up to two additional cards, consecutively or simultaneously, at any point in their turn. At the end of their turn, if they have more than seven cards in their, hand, they must unfix cards in their hand until they have exactly seven cards in their hand.
+
+If multiple cards are drawn simultaneously, each card will be fixed using the same weights, and weights and probabilities will be recalculated only after drawing is finished. All cards that players start with are considered to be drawn simultaneously.
+
+##### *History*
+
+[*Enacted by Proposal 327 (Crorem), Jul 21, 2020 (R3T9)*](https://github.com/dmouscher/nomic/blob/8c832b27a9445fd23fa7befec9ac1ba8c9d2d345/Game_4/rules/md/327.md)
