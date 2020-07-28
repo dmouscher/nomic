@@ -224,13 +224,15 @@ History:
 Initial mutable Rule 202, Jun 1, 2020
 
 ----------------------------------------------------------------------
-Rule 203/0
+Rule 203/1
 
-      A rule-change is adopted if and only if a simple majority of
-      eligible voters vote for it.
+      A rule-change is adopted if a simple majority of eligible
+      voters vote for it. This majority must be more than 15% of
+      total players.
 
 History:
 Initial mutable Rule 203, Jun 1, 2020
+Amended (1) by Proposal 329 (Alekosen), Jul 27, 2020
 
 ----------------------------------------------------------------------
 Rule 204/0

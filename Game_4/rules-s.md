@@ -82,7 +82,7 @@ One turn consists of proposing one rule-change and having it voted on.
 
 ## 203
 
-A rule-change is adopted if and only if a simple majority of eligible voters vote for it.
+A rule-change is adopted if a simple majority of eligible voters vote for it. This majority must be more than 15% of total players.
 
 ## 204
 
