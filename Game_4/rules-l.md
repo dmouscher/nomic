@@ -160,13 +160,14 @@ One turn consists of proposing one rule-change and having it voted on.
 
 [*Initial mutable Rule 202, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/202.md)
 
-## 203/0
+## 203/1
 
-A rule-change is adopted if and only if a simple majority of eligible voters vote for it.
+A rule-change is adopted if a simple majority of eligible voters vote for it. This majority must be more than 15% of total players.
 
 ##### *History*
 
-[*Initial mutable Rule 203, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/203.md)
+[*Initial mutable Rule 203, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/203.md)  
+[*Amended (1) by Proposal 329 (Alekosen), Jul 27, 2020*](https://github.com/dmouscher/nomic/blob/f743617b929b6bc54e72b85fa9d282c30fe6a65b/Game_4/rules/md/203.md)
 
 ## 204/0
 
@@ -226,7 +227,7 @@ Players may change or withdraw their votes by stating their intention to do so. 
 
 [*Initial mutable Rule 209, Jun 1, 2020*](https://github.com/dmouscher/nomic/blob/f717212bdda11bd4441cf6fdac878ce8d2112f10/Game_4/rules/md/209.md)
 
-## 210/0
+## 210/1
 
 Proposals may not be edited after they are submitted for voting. A proposal may be resubmitted up to two times a turn but may not be resubmitted if the turn has started more than 24 hours ago. Resubmitting a proposal restarts the vote on the proposal.
 
