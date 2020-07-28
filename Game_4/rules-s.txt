@@ -243,6 +243,12 @@ Rule 210
       be resubmitted if the turn has started more than 24 hours ago.
       Resubmitting a proposal restarts the vote on the proposal.
 
+      If at the 24hr mark of a turn if 75% of the votes for the
+      current proposal have the word "extend" (not case sensitive)
+      then the current turn is extended another 24hrs, the current
+      player can propose an additional time, and they are allowed to
+      proposal up to 48hrs after their turn is started
+
 ----------------------------------------------------------------------
 Rule 211
 
