@@ -1,0 +1,16 @@
+Rule 330/0
+
+Each player is randomly assigned 2 Types. (Shown as Roles)
+Once per turn a player may DISCARD a card onto a discard pile with either of their types declared as the card type. The Type property for the card is lost when the card is no longer in the discard pile. Cards added to the top of the discard pile with no type assigned to it have one randomly assigned. All cards in the discard pile are unfixed, except for the top card which is always fixed.
+
+If a player DISCARDS a card, then they draw 1 card from the top of the deck before doing so. 
+The Pot is a collection of COINS, starting empty.
+The following effects are evaluated when a player discards a card, but before it is placed on the discard pile. 
+Everytime a COIN card is DISCARDED, the pot increases by that card’s number of Coins. Non numerical cards are 11 Coins. 
+If a SWORD card is DISCARDED and it is more effective than the top card on the discard pile, then the top card is swapped into the Deck with it’s numerical position from the top equal to the number of the sword card. Non-numerical cards are swapped to the top of the deck. 
+If a WAND card is DISCARDED and it is more effective than the top card, then the top card is added to the discarding player’s Hand.
+If a GLASS card is DISCARDED, and it is more effective than the top card, then the top card’s numerical position in the deck (non numerical corresponding to the top) has their fixed/unfixed status swapped. 
+
+If a player has not DISCARDED a card this turn, that player may SUBMIT 5 cards of their hand. This unfixes all those cards.
+At the end of the next turn after this first submission, the player out of all the players who SUBMITTED who can form the best poker hand using their submitted hand and the card on top of the discard pile wins the pot, and gets all the Coins in it. Ties are split. At this time, players who submitted cards get to draw 3 cards.
+Coins may be converted into points at a 4:1 ratio, rounded down.
