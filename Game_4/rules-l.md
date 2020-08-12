@@ -725,3 +725,14 @@ At any time a player may convert four of their coins to a single point. This pro
 
 [*Enacted by Proposal 330 (Fenris Wolf), Jul 30, 2020 (R4T4)*](https://github.com/dmouscher/nomic/blob/403f60b4f41c9f8427b2785b618acca8cefa6ee8/Game_4/rules/md/330.md)  
 [*Amended (1) by Proposal 332 (Crorem), Aug 2, 2020 (R4T6)*](https://github.com/dmouscher/nomic/blob/ab85a0aea5956111e6cf071a82bb149ac4f80b59/Game_4/rules/md/330.md)
+
+## 336/0
+
+Any player can declare any other player 'stinky' at any time by spending one point.  
+Users declared stinky will be marked with a special 'stinky' role, that changes role usernames to brown and grants access to the exclusive 'little stinkers' chat, while removing access from the equally exclusive 'squeaky sweeties', which is available to all non-stinky players.  
+Players declared stinky cannot declare other players stinky, nor can they be declared unstinky, except by spending one point.  
+At the end of the round, a random active player who is not stinky will be given a random number of points between one and six, this player will be immediately declared stinky.
+
+#### *History*
+
+[*Enacted by Proposal 336 (Lovergirls Precinct), Aug 9, 2020 (R5T5)*](https://github.com/dmouscher/nomic/blob/8d8570991edf9d3c0b4a9774a4a3c885de8b93de/Game_4/rules/md/336.md)  
