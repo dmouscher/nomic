@@ -312,7 +312,7 @@ While on its action stack, a delayed actionable action may be blocked, removed, 
 
 * When an action that blocks a target delayed actionable action is put into action, the target action is blocked
 * When an action that removes a target delayed actionable action is put into action, the target action is removed from its action stack.
-* When an action that copies a target delayed actionable action is put into action, a copy of the target action is pushed onto a specific stack. The copy of the action is identical to the target action at the time that it was copied, save that it is treated as though it was performed by the player who performed the actions that copied the action that the copy of the action was copied from. 
+* When an action that copies a target delayed actionable action is put into action, a copy of the target action is pushed onto a specific stack. The copy of the action is identical to the target action at the time that it was copied, save that it is treated as though it was performed by the player who performed the action that copied the action that the copy of the action was copied from. 
 * When an action that modifies a target delayed actionable action is put into action, the target action is modified as the targeting action specifies, keeping both its action stack and its placement on its action stack.
 
 Actions may not target themselves. If an action that is put into action would target an action not on its action stack, it instead does nothing.

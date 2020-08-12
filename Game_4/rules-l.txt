@@ -783,7 +783,7 @@ History:
 Enacted by Proposal 316 (Lovergirls Precinct), Jul 2, 2020 (R2T5)
 
 ----------------------------------------------------------------------
-Rule 317/0
+Rule 317/1
 
       An action is a direct change to the state of the game. An
       action can be directly player-initiated or created as the
@@ -844,7 +844,7 @@ Rule 317/0
         pushed onto a specific stack. The copy of the action is
         identical to the target action at the time that it was copied,
         save that it is treated as though it was performed by the
-        player who performed the actions that copied the action that
+        player who performed the action that copied the action that
         the copy of the action was copied from. 
       * When an action that modifies a target delayed actionable
         action is put into action, the target action is modified as
@@ -892,9 +892,10 @@ Rule 317/0
 
 History:
 Enacted by Proposal 317 (Fenris Wolf), Jul 4, 2020 (R2T6)
+Amended (1) by Proposal 335 (Alekosen), Aug 8, 2020 (R5T4)
 
 ----------------------------------------------------------------------
-Rule 318/0
+Rule 318/1
 
       Players may request a custom emoji at any time in #actions to
       be added to the list of usable emojis in this Nomic discord.
@@ -903,7 +904,7 @@ Rule 318/0
 
 History:
 Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)
-Amended by Proposal 333 (THUNDER THIGHS), Aug 4, 2020 (R5T2)
+Amended (1) by Proposal 333 (THUNDER THIGHS), Aug 4, 2020 (R5T2)
 
 ----------------------------------------------------------------------
 Rule 319/0
