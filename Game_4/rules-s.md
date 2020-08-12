@@ -452,17 +452,48 @@ If multiple cards are drawn simultaneously, each card will be fixed using the sa
 
 ## 330
 
-Each player is randomly assigned 2 Types. (Shown as Roles)  
-Once per turn a player may DISCARD a card onto a discard pile with either of their types declared as the card type. The Type property for the card is lost when the card is no longer in the discard pile. Cards added to the top of the discard pile with no type assigned to it have one randomly assigned. All cards in the discard pile are unfixed, except for the top card which is always fixed.
+Once per turn, a player may DISCARD a card onto a discard pile. The card at the top of the discard pile is fixed, with all other cards in the discard pile being unfixed.
 
-If a player DISCARDS a card, then they draw 1 card from the top of the deck before doing so.  
-The Pot is a collection of COINS, starting empty.  
-The following effects are evaluated when a player discards a card, but before it is placed on the discard pile.  
-Everytime a COIN card is DISCARDED, the pot increases by that card’s number of Coins. Non numerical cards are 11 Coins.  
-If a SWORD card is DISCARDED and it is more effective than the top card on the discard pile, then the top card is swapped into the Deck with it’s numerical position from the top equal to the number of the sword card. Non-numerical cards are swapped to the top of the deck.  
-If a WAND card is DISCARDED and it is more effective than the top card, then the top card is added to the discarding player’s Hand.  
-If a GLASS card is DISCARDED, and it is more effective than the top card, then the top card’s numerical position in the deck (non numerical corresponding to the top) has their fixed/unfixed status swapped. 
+To DISCARD, a player first draws a card from the top of the Major Deck of Minor Arcana, then puts one card in their hand on top of the discard pile.
 
-If a player has not DISCARDED a card this turn, that player may SUBMIT 5 cards of their hand. This unfixes all those cards.  
-At the end of the next turn after this first submission, the player out of all the players who SUBMITTED who can form the best poker hand using their submitted hand and the card on top of the discard pile wins the pot, and gets all the Coins in it. Ties are split. At this time, players who submitted cards get to draw 3 cards.  
-Coins may be converted into points at a 4:1 ratio, rounded down.
+The Pot is a collection of coins, starting empty. Players also start with 0 coins.
+
+A deal is a period of time starting after the Pot is emptied (or, if the Pot had never been emptied, the enactment of this rule) and ending when the Pot is next emptied.
+
+The following effects are take effect when a player discards a card, but before it is placed on the discard pile:  
+* When a COIN card is DISCARDED, a number of coins equal to the DISCARDED card's rank, or 11 if the DISCARDED card is ranked higher than Ten, is added to the Pot
+* When a SWORD card is DISCARDED, the top card of the discard pile is inserted into the Major Deck of Minor Arcana with its ordinal position from the top equal to the DISCARDED card's rank, or at the top if the DISCARDED card's rank is greater than Ten
+* When a WAND card is DISCARDED, the top card is added to the hand of the player that DISCARDED the DISCARDED card.
+* When a CUPS card is DISCARDED, the card in the Major Deck of Minor Arcana with the ordinal position from the top equal to the DISCARDED card's rank, or the top card in the Major Deck of Minor Arcana if the DISCARDED card's rank is greater than Ten, becomes fixed if it was unfixed and unfixed if it was fixed. This does not change the ordinal position of the cards above the specified card.
+
+If a player has not DISCARDED a card on the current turn, that player may SUBMIT 5 cards from their hand. The SUBMITTED cards are unfixed.
+
+At the end of the next turn after the first SUBMISSION since the Pot was last emptied, the player out of all the players who SUBMITTED during the current deal who can form the best five-card hand using the cards that they SUBMITTED during the current deal and the card presently on top of the discard pile wins the Pot, and gets all the coins in it. If two or more players have equally good hands, then they split the pot as evenly as possible, with the remaining coins prioritized to the players whose SUBMISSIONS this deal were the earliest. All players who SUBMITTED in this most recent deal then draw 3 cards simultaneously, and the next deal begins.
+
+Hands are ranked as follows, in descending order. If a hand fits the criteria of two different categories, it is considered to be the higher category:  
+* **Quintuplet**: All five cards in the hand have the same rank and suit
+* **Quadruplet**: Four cards in the hand have the same rank and suit
+* **Full family**: Three cards in the hand have one combination of rank and suit, with the two other cards in the hand having a different combination of rank and suit
+* **Five of a kind**: All five cards in the hand have the same rank
+* **Straight flush**: All five cards have sequential rank and the same suit
+  * For the purposes of a straight flush, an Ace card may count as either ranked under a Two or above a King, but not both in the same hand
+* **Triplet**: Three cards in the hand have the same rank and suit
+* **Four of a kind**: Four cards in the hand have the same rank
+* **Two twin**: Two cards in the hand have one combination of rank and suit, with two other cards in the hand having a different combination of rank and suit
+* **Full house**: Three cards in the hand have one rank, with the two other cards in the hand having a different rank
+* **Straight**: All five cards have sequential rank
+  * For the purposes of a straight, an Ace card may count as either ranked under a Two or above a King, but not as both in the same hand
+* **Flush**: All five cards have the same suit
+* **Three of a kind**: Three cards in the hand have the same rank
+* **One twin**: Two cards in the hand have the same rank and suit
+* **Two pair**: Two cards in the hand have one rank, with two other cards in the hand having a different rank
+* **One pair**: Two cards in the hand have the same rank
+* **High card**: The hand does not meet any of the above criteria
+
+Hands are further ranked by the ranks of their collections of same-ranked cards, first in order by the size of the collection and then by the rank of the collection. For example, a full house hand would be further ranked first by the rank of its triplet and then by the rank of its twin, while a two pair hand would be further ranked first by the rank of its higher-ranked pair, then by the rank of its lower-ranked pair, and finally by the rank of its remaining card.
+
+A collection of same-ranked cards that is larger than one card must contribute to the overall rank of the hand in order to be treated as such. For example, a flush hand would be further ranked using only collections of size 1, while a one twin hand would only count its same-suit pair as a collection of size 2, regardless of the existence of any different-suited pair in the hand.
+
+Straight hands and straight flush hands are instead further ranked by the highest-ranked card in the hand. If, for the purposes of the straight hand or straight flush hand, an Ace card was counted as having ranked under a Two, then it would likewise be considered as ranked under a Two when further ranking the hand.
+
+At any time a player may convert four of their coins to a single point. This process is not reversible.
