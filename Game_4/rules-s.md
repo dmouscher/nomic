@@ -327,7 +327,7 @@ All actions and abilities defined or regulated by the Initial Set (i.e. actions 
 
 ## 318
 
-Players may request a custom emoji on their turn in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
+Players may request a custom emoji at any time in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
 
 ## 319
 
