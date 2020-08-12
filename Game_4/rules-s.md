@@ -497,3 +497,10 @@ A collection of same-ranked cards that is larger than one card must contribute t
 Straight hands and straight flush hands are instead further ranked by the highest-ranked card in the hand. If, for the purposes of the straight hand or straight flush hand, an Ace card was counted as having ranked under a Two, then it would likewise be considered as ranked under a Two when further ranking the hand.
 
 At any time a player may convert four of their coins to a single point. This process is not reversible.
+
+## 336
+
+Any player can declare any other player 'stinky' at any time by spending one point.  
+Users declared stinky will be marked with a special 'stinky' role, that changes role usernames to brown and grants access to the exclusive 'little stinkers' chat, while removing access from the equally exclusive 'squeaky sweeties', which is available to all non-stinky players.  
+Players declared stinky cannot declare other players stinky, nor can they be declared unstinky, except by spending one point.  
+At the end of the round, a random active player who is not stinky will be given a random number of points between one and six, this player will be immediately declared stinky.

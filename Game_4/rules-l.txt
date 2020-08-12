@@ -1367,3 +1367,22 @@ Enacted by Proposal 330 (Fenris Wolf), Jul 30, 2020 (R4T4)
 Amended (1) by Proposal 332 (Crorem), Aug 2, 2020 (R4T6)
 
 ----------------------------------------------------------------------
+Rule 336/0
+
+      Any player can declare any other player 'stinky' at any time
+      by spending one point.
+      Users declared stinky will be marked with a special 'stinky'
+      role, that changes role usernames to brown and grants access
+      to the exclusive 'little stinkers' chat, while removing access
+      from the equally exclusive 'squeaky sweeties', which is
+      available to all non-stinky players.
+      Players declared stinky cannot declare other players stinky,
+      nor can they be declared unstinky, except by spending one point.
+      At the end of the round, a random active player who is not
+      stinky will be given a random number of points between one and
+      six, this player will be immediately declared stinky.
+
+History:
+Enacted by Proposal 336 (Lovergirls Precinct), Aug 9, 2020 (R5T5)
+
+----------------------------------------------------------------------
