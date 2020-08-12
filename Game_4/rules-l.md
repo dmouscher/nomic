@@ -514,13 +514,14 @@ All actions and abilities defined or regulated by the Initial Set (i.e. actions 
 
 [*Enacted by Proposal 317 (Fenris Wolf), Jul 4, 2020 (R2T6)*](https://github.com/dmouscher/nomic/blob/2c883339bd66cabb1f50252daad8bb6f854ae167/Game_4/rules/md/317.md)
 
-## 318/0
+## 318/1
 
-Players may request a custom emoji on their turn in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
+Players may request a custom emoji at any time in #actions to be added to the list of usable emojis in this Nomic discord. This is done my stating "I would like this image to be added as an emoji" followed by the image posted in #actions
 
 ##### *History*
 
-[*Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)*](https://github.com/dmouscher/nomic/blob/2b4d7c42cca91aacaece964226a3ab5e826a0927/Game_4/rules/md/318.md)
+[*Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)*](https://github.com/dmouscher/nomic/blob/2b4d7c42cca91aacaece964226a3ab5e826a0927/Game_4/rules/md/318.md)  
+[*Amended by Proposal 333 (THUNDER THIGHS), Aug 4, 2020 (R5T2)*](https://github.com/dmouscher/nomic/blob/8bfd88d79a0b9e024f2f83a8dc0a55cd9ab75dab/Game_4/rules/md/318.md)
 
 ## 319/0
 
@@ -722,4 +723,4 @@ At any time a player may convert four of their coins to a single point. This pro
 #### *History*
 
 [*Enacted by Proposal 330 (Fenris Wolf), Jul 30, 2020 (R4T4)*](https://github.com/dmouscher/nomic/blob/403f60b4f41c9f8427b2785b618acca8cefa6ee8/Game_4/rules/md/330.md)  
-[*Amended (1) by Proposal 332 (Crorem), Aug 02, 2020 (R4T6)*](https://github.com/dmouscher/nomic/blob/ab85a0aea5956111e6cf071a82bb149ac4f80b59/Game_4/rules/md/330.md)
+[*Amended (1) by Proposal 332 (Crorem), Aug 2, 2020 (R4T6)*](https://github.com/dmouscher/nomic/blob/ab85a0aea5956111e6cf071a82bb149ac4f80b59/Game_4/rules/md/330.md)
