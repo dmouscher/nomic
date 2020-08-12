@@ -477,7 +477,7 @@ Whichever active player has the fewest points at the conclusion of the game must
 
 [*Enacted by Proposal 316 (Lovergirls Precinct), Jul 2, 2020 (R2T5)*](https://github.com/dmouscher/nomic/blob/8bd9a9e94bd97a3af17c05c2917ecc83ca87adbf/Game_4/rules/md/316.md)
 
-## 317/0
+## 317/1
 
 An action is a direct change to the state of the game. An action can be directly player-initiated or created as the result of an ability.
 
@@ -497,7 +497,7 @@ While on its action stack, a delayed actionable action may be blocked, removed, 
 
 * When an action that blocks a target delayed actionable action is put into action, the target action is blocked
 * When an action that removes a target delayed actionable action is put into action, the target action is removed from its action stack.
-* When an action that copies a target delayed actionable action is put into action, a copy of the target action is pushed onto a specific stack. The copy of the action is identical to the target action at the time that it was copied, save that it is treated as though it was performed by the player who performed the actions that copied the action that the copy of the action was copied from. 
+* When an action that copies a target delayed actionable action is put into action, a copy of the target action is pushed onto a specific stack. The copy of the action is identical to the target action at the time that it was copied, save that it is treated as though it was performed by the player who performed the action that copied the action that the copy of the action was copied from. 
 * When an action that modifies a target delayed actionable action is put into action, the target action is modified as the targeting action specifies, keeping both its action stack and its placement on its action stack.
 
 Actions may not target themselves. If an action that is put into action would target an action not on its action stack, it instead does nothing.
@@ -512,7 +512,8 @@ All actions and abilities defined or regulated by the Initial Set (i.e. actions 
 
 ##### *History*
 
-[*Enacted by Proposal 317 (Fenris Wolf), Jul 4, 2020 (R2T6)*](https://github.com/dmouscher/nomic/blob/2c883339bd66cabb1f50252daad8bb6f854ae167/Game_4/rules/md/317.md)
+[*Enacted by Proposal 317 (Fenris Wolf), Jul 4, 2020 (R2T6)*](https://github.com/dmouscher/nomic/blob/2c883339bd66cabb1f50252daad8bb6f854ae167/Game_4/rules/md/317.md)  
+[*Amended (1) by Proposal 335 (Alekosen), Aug 8, 2020 (R5T4)*](https://github.com/dmouscher/nomic/blob/f06d29dd3365cbbdd32d7b6bb8f4115f3c316544/Game_4/rules/md/317.md)
 
 ## 318/1
 
@@ -521,7 +522,7 @@ Players may request a custom emoji at any time in #actions to be added to the li
 ##### *History*
 
 [*Enacted by Proposal 318 (iann39), Jul 5, 2020 (R2T7)*](https://github.com/dmouscher/nomic/blob/2b4d7c42cca91aacaece964226a3ab5e826a0927/Game_4/rules/md/318.md)  
-[*Amended by Proposal 333 (THUNDER THIGHS), Aug 4, 2020 (R5T2)*](https://github.com/dmouscher/nomic/blob/8bfd88d79a0b9e024f2f83a8dc0a55cd9ab75dab/Game_4/rules/md/318.md)
+[*Amended (1) by Proposal 333 (THUNDER THIGHS), Aug 4, 2020 (R5T2)*](https://github.com/dmouscher/nomic/blob/8bfd88d79a0b9e024f2f83a8dc0a55cd9ab75dab/Game_4/rules/md/318.md)
 
 ## 319/0
 
