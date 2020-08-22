@@ -444,7 +444,7 @@ If a player, as an individual, proposes a temporary rule that is a quote from a 
 
 ## 314/1
 
-#### Battleship:  
+#### Battleship:
 Each player will have their own 10x10 grid that they have to place 5 ships. Horizontal coordinates are the first 10 letters of the alphabet, and vertical are 1-10  
 1. Carrier with size 5  
 2. Battleship with size 4  
@@ -454,20 +454,23 @@ Each player will have their own 10x10 grid that they have to place 5 ships. Hori
 
 Each of these ships has a width of 1 and a length of its size. They can be oriented horizontally or vertically so that it takes up consecutive grid spots equal to the size of the ship. Ships may touch, but cannot occupy the same grid square as another.
 
-Players face off in 1v1s by challenging publicly in actions and both players agreeing to play. Players may only be playing against one other player.
+Players face off in 1v1s by challenging publicly in actions and both players agreeing to play. Players may only be playing against one other player. 
 
 After bombing, a current board is displayed with X's in bombing locations without a ship, and O's where a bomb hit a ship.
 
 Players can only target the player they are paired against with bombs. Players can bomb twice per turn. If a player does not bomb for 3 turns a player automatically forfeits.
 
-When a player in a 1v1 has no more ships with unhit grid coordinates then the other player wins.
+When a player in a 1v1 has no more ships with unhit grid coordinates then the other player wins. A player also wins if the other player forfeits, whether by not bombing for 3 turns or by declaring they have forfeited in #battleship.
 
-When a player wins a game they gain 2 points. Players can only gain points from battleship once every turn. 
+When a player wins a game they gain 2 points. Players can only gain points from battleship once every turn.
+
+There must always be a winner in battleship unless both players agree to quit in #actions or quit the game of nomic on the same turn. If both players quit no one gains points.
 
 ##### *History*
 
 [*Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)*](https://github.com/dmouscher/nomic/blob/9e25ddb9de9437ee78bf13ab9302e8a1494f9b27/Game_4/rules/md/314.md)  
-[*Amended (1) by Proposal 322 (Janwich), Jul 12, 2020 (R3T3)*](https://github.com/dmouscher/nomic/blob/2815e469255da49113f0d9a5dd70aca5df5ad8f8/Game_4/rules/md/314.md)
+[*Amended (1) by Proposal 322 (Janwich), Jul 12, 2020 (R3T3)*](https://github.com/dmouscher/nomic/blob/2815e469255da49113f0d9a5dd70aca5df5ad8f8/Game_4/rules/md/314.md)  
+[*Amended (2) by Proposal 340 (Janwich), Aug 18, 2020 (R6T3)*](https://github.com/dmouscher/nomic/blob/66044fe363047d9ce07fd450a1b1c3838099cfcf/Game_4/rules/md/314.md)
 
 ## 316/0
 
