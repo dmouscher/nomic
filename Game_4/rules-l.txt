@@ -1386,3 +1386,16 @@ History:
 Enacted by Proposal 336 (Lovergirls Precinct), Aug 9, 2020 (R5T5)
 
 ----------------------------------------------------------------------
+Rule 338/0
+
+      Players may on any turn, once per round, request the removal 
+      of an emoji from the game. This request is done in #actions. A 
+      vote is then called in #actions  to determine if the emoji is 
+      removed or stays. Simple majority vote determines the outcome. 
+      The vote ends at the end of the current turn. A removal 
+      request cannot be made 6 hours before the end of a turn.
+
+History:
+Enacted by Proposal 338 (iann39), Aug 18, 2020 (R5T7)
+
+----------------------------------------------------------------------

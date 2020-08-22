@@ -504,3 +504,7 @@ Any player can declare any other player 'stinky' at any time by spending one poi
 Users declared stinky will be marked with a special 'stinky' role, that changes role usernames to brown and grants access to the exclusive 'little stinkers' chat, while removing access from the equally exclusive 'squeaky sweeties', which is available to all non-stinky players.  
 Players declared stinky cannot declare other players stinky, nor can they be declared unstinky, except by spending one point.  
 At the end of the round, a random active player who is not stinky will be given a random number of points between one and six, this player will be immediately declared stinky.
+
+## 338
+
+Players may on any turn, once per round, request the removal of an emoji from the game. This request is done in #actions. A vote is then called in #actions  to determine if the emoji is removed or stays. Simple majority vote determines the outcome. The vote ends at the end of the current turn. A removal request cannot be made 6 hours before the end of a turn.
