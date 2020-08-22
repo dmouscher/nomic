@@ -693,19 +693,19 @@ Rule 317
       While on its action stack, a delayed actionable action may be
       blocked, removed, copied, or modified by other actions that
       target said delayed actionable action.
-      * When an action that blocks a target delayed actionable
+      • When an action that blocks a target delayed actionable
         action is put into action, the target action is blocked
-      * When an action that removes a target delayed actionable
+      • When an action that removes a target delayed actionable
         action is put into action, the target action is removed from
         its action stack.
-      * When an action that copies a target delayed actionable
+      • When an action that copies a target delayed actionable
         action is put into action, a copy of the target action is
         pushed onto a specific stack. The copy of the action is
         identical to the target action at the time that it was copied,
         save that it is treated as though it was performed by the
         player who performed the action that copied the action that
         the copy of the action was copied from.
-      * When an action that modifies a target delayed actionable
+      • When an action that modifies a target delayed actionable
         action is put into action, the target action is modified as
         the targeting action specifies, keeping both its action stack
         and its placement on its action stack.
@@ -929,10 +929,10 @@ Rule 325
       three different categories:
       • Misdemeanors are the class of reversible crimes.
       • Felonies are the class of irreversible crimes.
-      • War Crimes are the class of irreversible crimes that do 
+      • War Crimes are the class of irreversible crimes that do
         excessive harm to the game. 
 
-      The Prosecutor and Defence take turns making opening
+      The Prosecutor and Defense take turns making opening
       statements, arguments, and closing statements. Opening
       statements, arguments, and closing statements must be
       submitted within 24 hours of the previous statement. A
@@ -944,33 +944,33 @@ Rule 325
       considered to have automatically posted an innocent verdict.
 
       After the verdict is posted roles of Criminal Judge,
-      Prosecutor, Defence, and Suspicari Criminalibus are removed.
+      Prosecutor, Defense, and Suspicari Criminalibus are removed.
 
-      The following are established punishments to crimes, however
+      The following are established punishments to crimes, however,
       it is up to the Criminal Judge to augment or reduce
       punishment, taking into account the severity of the offense,
       whether or not the offense was a repeated one, the Defense’s
       plea, and other relevant context:
       • If the Defense is charged with a Misdemeanor, and the
-        Misdemeanor is not a repeat offence, then they are given a
+        Misdemeanor is not a repeat offense, then they are given a
         warning.
       • If the Defense is charged with a Misdemeanor, and the
-        Misdemeanor is a repeat offence, then they are restricted in
+        Misdemeanor is a repeat offense, then they are restricted in
         a manner to inhibit repetition of the crime, and a bail is
         posted. If this bail is paid, then the restrictions are
         removed. The length of time that a player is restricted may
         is up to the judge's prerogative. 
       • If the Defense is charged with a Felony, and the Felony is
-        not a repeat offence, then they are given a warning, temporary
-        restriction or are somehow publicly shamed in a manner that
-        does not impact the game state. Additionally, bail is
-        posted. If this bail is paid, then the restrictions and/or
-        humiliation are removed. 
+        not a repeat offense, then they are given a warning,
+        temporary restriction or are somehow publicly shamed in a
+        manner that does not impact the game state. Additionally,
+        bail is posted. If this bail is paid, then the restrictions
+        and/or humiliation are removed. 
       • If the Defense is charged with a Felony, and the Felony is a
-        repeat offence, then they are banned from performing
-        actionable actions for a certain duration, and fined. The
-        player may be banned from nomic if sufficient intent and
-        malice is demonstrated. 
+        repeat offense, then they are banned from performing
+        actionable actions for a certain duration and fined. The
+        player may be banned from Nomic if sufficient intent and
+        malice are both demonstrated.
       • All War Crimes are punishable by ban from Nomic or perpetual
         restrictions and extensive fines.
 
@@ -993,7 +993,7 @@ Rule 325
       appeal by majority vote.
       If said appeal is deemed valid then the criminal case referred
       to by the appeal is reopened with the same Prosecutor and
-      Defence. The appeals court is then held exactly as a criminal
+      Defense. The appeals court is then held exactly as a criminal
       court with the Appellate Judges taking the place of the
       Criminal Judge and with their verdict and sentencing decided
       by a majority vote between them. As with a Criminal Judge’s
@@ -1016,14 +1016,15 @@ Rule 325
       Prosecutor or Defense. A request to appeal a trial conducted
       in such a manner is automatically considered valid if
       sufficient players are available to fulfill a three-judge
-      appeals court with prosecutor and defence.
+      appeals court with prosecutor and defense.
 
-      In the event not enough eligible players are available for an
-      appeals court, then the number of Appellate Judges convened is
-      reduced to one for said court. If there would still not be
-      enough eligible players given a one-judge appeals court, then
-      no appeal that would cause such an insufficiency may be
-      considered until such time when this is no longer the case.
+      In the event that not enough eligible players are available
+      for an appeals court, then the number of Appellate Judges
+      convened is reduced to one for said court. If there would
+      still not be enough eligible players given a one-judge appeals
+      court, then no appeal that would cause such an insufficiency
+      may be considered until such time when this is no longer the
+      case.
 
       Only one criminal trial may be held at a time, be it a
       criminal court or an appeals court. 
