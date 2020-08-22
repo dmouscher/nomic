@@ -725,7 +725,7 @@ History:
 Enacted by Proposal 312 (Sauce), Jun 25, 2020 (R2T1)
 
 ----------------------------------------------------------------------
-Rule 314/1
+Rule 314/2
 
       Battleship:
       Each player will have their own 10x10 grid that they have to
@@ -745,7 +745,7 @@ Rule 314/1
 
       Players face off in 1v1s by challenging publicly in actions
       and both players agreeing to play. Players may only be playing
-      against one other player.
+      against one other player. 
 
       After bombing, a current board is displayed with X's in
       bombing locations without a ship, and O's where a bomb hit a
@@ -755,16 +755,22 @@ Rule 314/1
       with bombs. Players can bomb twice per turn. If a player does
       not bomb for 3 turns a player automatically forfeits.
 
-
       When a player in a 1v1 has no more ships with unhit grid
-      coordinates then the other player wins.
+      coordinates then the other player wins. A player also wins if
+      the other player forfeits, whether by not bombing for 3 turns
+      or by declaring they have forfeited in #battleship.
 
       When a player wins a game they gain 2 points. Players can only
-      gain points from battleship once every turn. 
+      gain points from battleship once every turn.
+
+      There must always be a winner in battleship unless both
+      players agree to quit in #actions or quit the game of nomic on
+      the same turn. If both players quit no one gains points.
 
 History:
 Enacted by Proposal 314 (Janwich), Jun 29, 2020 (R2T3)
 Amended (1) by Proposal 322 (Janwich), Jul 12, 2020 (R3T3)
+Amended (2) by Proposal 340 (Janwich), Aug 18, 2020 (R6T3)
 
 ----------------------------------------------------------------------
 Rule 316/0
