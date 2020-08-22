@@ -736,3 +736,11 @@ At the end of the round, a random active player who is not stinky will be given 
 #### *History*
 
 [*Enacted by Proposal 336 (Lovergirls Precinct), Aug 9, 2020 (R5T5)*](https://github.com/dmouscher/nomic/blob/8d8570991edf9d3c0b4a9774a4a3c885de8b93de/Game_4/rules/md/336.md)  
+
+## 338/0
+
+Players may on any turn, once per round, request the removal of an emoji from the game. This request is done in #actions. A vote is then called in #actions  to determine if the emoji is removed or stays. Simple majority vote determines the outcome. The vote ends at the end of the current turn. A removal request cannot be made 6 hours before the end of a turn.
+
+#### *History*
+
+[*Enacted by Proposal 338 (iann39), Aug 18, 2020 (R5T7)*](https://github.com/dmouscher/nomic/blob/430e977b1a5ef7a27bfdbc3d8ff5c1374901daee/Game_4/rules/md/338.md)
