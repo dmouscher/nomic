@@ -508,3 +508,7 @@ At the end of the round, a random active player who is not stinky will be given 
 ## 338
 
 Players may on any turn, once per round, request the removal of an emoji from the game. This request is done in #actions. A vote is then called in #actions  to determine if the emoji is removed or stays. Simple majority vote determines the outcome. The vote ends at the end of the current turn. A removal request cannot be made 6 hours before the end of a turn.
+
+## 601
+
+If you publically indulge in prose, then you can have 10 beans when you do so.

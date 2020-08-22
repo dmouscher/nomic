@@ -1220,3 +1220,9 @@ Rule 338
       request cannot be made 6 hours before the end of a turn.
 
 ----------------------------------------------------------------------
+Rule 601
+
+      If you publically indulge in prose, then you can have 10 beans
+      when you do so.
+
+----------------------------------------------------------------------
