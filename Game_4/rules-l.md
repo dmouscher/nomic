@@ -442,7 +442,7 @@ If a player, as an individual, proposes a temporary rule that is a quote from a 
 
 [*Enacted by Proposal 312 (Sauce), Jun 25, 2020 (R2T1)*](https://github.com/dmouscher/nomic/blob/e09d779f41a3f8def00b1aa69ff110e95b9239a8/Game_4/rules/md/312.md)
 
-## 314/1
+## 314/2
 
 #### Battleship:
 Each player will have their own 10x10 grid that they have to place 5 ships. Horizontal coordinates are the first 10 letters of the alphabet, and vertical are 1-10  
@@ -748,6 +748,20 @@ Players may on any turn, once per round, request the removal of an emoji from th
 #### *History*
 
 [*Enacted by Proposal 338 (iann39), Aug 12, 2020 (R5T7)*](https://github.com/dmouscher/nomic/blob/430e977b1a5ef7a27bfdbc3d8ff5c1374901daee/Game_4/rules/md/338.md)
+
+## 341/0
+
+All players start with 9 marbles.  
+Players who lose all their marbles cannot gain points or perform actionable actions for 1 turn.  
+Players gain a marble for every turn they are inactive up to a maximum of 9.  
+Marbles are tradable if both parties agree in actions, and players cannot trade away all their marbles.  
+Marbles have a random Type when created.
+
+Players who collect a marble of each type can trade them in for an Infinity Marble and get 5 points. Infinity marbles can be consumed to replace a die roll with a fixed value for one event.
+
+#### *History*
+
+[*Enacted by Proposal 341 (Fenris Wolf), Aug 21, 2020 (R6T5)*](https://github.com/dmouscher/nomic/blob/f4064ba7d6df16fc24013eaa0ba9223afead323c/Game_4/rules/md/341.md)
 
 ## 601/0
 
