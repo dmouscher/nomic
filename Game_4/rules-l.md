@@ -744,4 +744,12 @@ Players may on any turn, once per round, request the removal of an emoji from th
 
 #### *History*
 
-[*Enacted by Proposal 338 (iann39), Aug 18, 2020 (R5T7)*](https://github.com/dmouscher/nomic/blob/430e977b1a5ef7a27bfdbc3d8ff5c1374901daee/Game_4/rules/md/338.md)
+[*Enacted by Proposal 338 (iann39), Aug 12, 2020 (R5T7)*](https://github.com/dmouscher/nomic/blob/430e977b1a5ef7a27bfdbc3d8ff5c1374901daee/Game_4/rules/md/338.md)
+
+## 601/0
+
+If you publically indulge in prose, then you can have 10 beans when you do so.
+
+#### *History*
+
+[*Created from Temporary Rule 601 (Fenris Wolf), Aug 14, 2020 (R5T8)*](https://github.com/dmouscher/nomic/blob/35bfb3b19fb6257430f8c7d55932aaff9e0b3ea7/Game_4/rules/md/601.md)
