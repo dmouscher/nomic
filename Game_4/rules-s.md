@@ -511,6 +511,16 @@ At the end of the round, a random active player who is not stinky will be given 
 
 Players may on any turn, once per round, request the removal of an emoji from the game. This request is done in #actions. A vote is then called in #actions  to determine if the emoji is removed or stays. Simple majority vote determines the outcome. The vote ends at the end of the current turn. A removal request cannot be made 6 hours before the end of a turn.
 
+## 341
+
+All players start with 9 marbles.  
+Players who lose all their marbles cannot gain points or perform actionable actions for 1 turn.  
+Players gain a marble for every turn they are inactive up to a maximum of 9.  
+Marbles are tradable if both parties agree in actions, and players cannot trade away all their marbles.  
+Marbles have a random Type when created.
+
+Players who collect a marble of each type can trade them in for an Infinity Marble and get 5 points. Infinity marbles can be consumed to replace a die roll with a fixed value for one event.
+
 ## 601
 
 If you publically indulge in prose, then you can have 10 beans when you do so.

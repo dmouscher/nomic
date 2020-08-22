@@ -1407,6 +1407,26 @@ History:
 Enacted by Proposal 338 (iann39), Aug 12, 2020 (R5T7)
 
 ----------------------------------------------------------------------
+Rule 341/0
+
+      All players start with 9 marbles.
+      Players who lose all their marbles cannot gain points or
+      perform actionable actions for 1 turn. 
+      Players gain a marble for every turn they are inactive up to a
+      maximum of 9.
+      Marbles are tradable if both parties agree in actions, and
+      players cannot trade away all their marbles.
+      Marbles have a random Type when created.
+
+      Players who collect a marble of each type can trade them in
+      for an Infinity Marble and get 5 points. Infinity marbles can
+      be consumed to replace a die roll with a fixed value for one
+      event.
+
+History:
+Enacted by Proposal 341 (Fenris Wolf), Aug 21, 2020 (R6T5)
+
+----------------------------------------------------------------------
 Rule 601/0
 
       If you publically indulge in prose, then you can have 10 beans
